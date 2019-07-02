@@ -1,0 +1,2723 @@
+[
+  {
+    "id": 3625710,
+    "title": "Las Vegas shooter named as 64-year-old Stephen Paddock",
+    "slug": "stephen-paddock-las-vegas-shooter",
+    "date": "2017-10-02 12:00:47",
+    "date_modified": "2017-10-02 12:05:52",
+    "date_published": "2017-10-02 12:00:53",
+    "is_updated": false,
+    "has_audio": "0",
+    "has_video": "0",
+    "has_slideshow": "0",
+    "is_hot_on_twitter": "0",
+    "publication": "thejournal",
+    "stats": {
+      "views": "522",
+      "comments": "3",
+      "facebook": "0",
+      "twitter": "0",
+      "email": "0",
+      "dislikes": "0",
+      "likes": "0"
+    },
+    "syndication_source": "",
+    "seo_title": null,
+    "seo_description": null,
+    "is_sponsored": 0,
+    "sticky": null,
+    "header_url": null,
+    "internal_syndication_id": null,
+    "digest_key": "article_3625710",
+    "date_unix": 1506942047,
+    "date_modified_unix": 1506945952,
+    "status": "publish",
+    "is_exclusive": "0",
+    "excerpt": "He was shot dead by police. ",
+    "content": "<p>POLICE IN THE US have named the Las Vegas shooter as 64-year-old Stephen Paddock.</p>\n<p>He was shot dead by police after launching an attack on a country music festival in the city.</p>\n<p>At least 50 people were killed and more than 200 injured when Paddock opened fire from a hotel room overlooking the open-air concert.</p>\n<p>It is the deadliest mass shooting in the history of the United States.</p>\n<p>[embed id=\"embed_1\"]</p>\n<p style=\"text-align: right;\"><a href=\"https://twitter.com/NatashaFatah/status/914763269935697920\"><em>Trouble watching video? Click here</em></a></p>\n<p>[embed id=\"embed_3\"]</p>\n<p>Little is known about the shooter at this early stage of the investigation with Sheriff Joseph Lombardo telling reporters that his department has not yet completed its history and background checks on him.</p>\n<p>However, they do believe he was a local resident, living in a retirement community, reports <a href=\"https://www.cbsnews.com/news/las-vegas-shooting-mandalay-bay-resort-casino/\">CBS News</a>.</p>\n<p>According to Sheriff Lombardo, police are currently executing a search warrant on the suspect’s room which is located on the 32nd floor of the Mandalay Bay Hotel and Casino.</p>\n<p>He told reporters at the early-morning briefing that “numerous firearms” – described only as rifles at this moment – were found in the room.</p>\n<p>Investigators say they are also confident they have located a woman they were looking to speak to in relation to the mass shooting.</p>\n<p>[embed id=\"embed_2\"]</p>\n<p> </p>\n<p><em>More to follow… </em></p>\n<h3>Read: <a href=\"http://www.thejournal.ie/las-vegas-shooter-3625288-Oct2017/\">More than 50 people dead and over 200 injured in Las Vegas mass shooting</a>\n</h3>\n",
+    "permalink": "http://www.thejournal.ie/stephen-paddock-las-vegas-shooter-3625710-Oct2017/",
+    "shortlink": "http://jrnl.ie/3625710",
+    "type": "post",
+    "secondary_publications": [],
+    "main_story_links": [
+      {
+        "text": "",
+        "url": ""
+      },
+      {
+        "text": "",
+        "url": ""
+      }
+    ],
+    "categories": {
+      "thejournal": {
+        "id": "1",
+        "name": "Irish",
+        "slug": "irish"
+      }
+    },
+    "publication_data": {
+      "primary": "thejournal",
+      "all": [
+        "thejournal"
+      ],
+      "categories": {
+        "thejournal": [
+          {
+            "id": "1",
+            "name": "Irish",
+            "slug": "irish"
+          }
+        ]
+      }
+    },
+    "images": {
+      "thumbnail": {
+        "image": "http://c3.thejournal.ie/media/2017/10/las-vegas-shooting-6-145x145.jpg",
+        "width": 145,
+        "height": 145
+      },
+      "medium": {
+        "image": "http://c3.thejournal.ie/media/2017/10/las-vegas-shooting-6-296x194.jpg",
+        "width": 296,
+        "height": 194
+      },
+      "large": {
+        "image": "http://c3.thejournal.ie/media/2017/10/las-vegas-shooting-6-630x413.jpg",
+        "width": 630,
+        "height": 413
+      },
+      "larger": {
+        "image": "http://c3.thejournal.ie/media/2017/10/las-vegas-shooting-6-744x488.jpg",
+        "width": 744,
+        "height": 488
+      },
+      "river_0": {
+        "image": "http://c3.thejournal.ie/media/2017/10/las-vegas-shooting-6-230x150.jpg",
+        "width": 230,
+        "height": 150
+      },
+      "river_1": {
+        "image": "http://c1.thejournal.ie/media/2017/10/las-vegas-shooting-6-2300x1500.jpg",
+        "width": 2300,
+        "height": 1500
+      },
+      "article_page_0": {
+        "image": "http://c3.thejournal.ie/media/2017/10/las-vegas-shooting-6-390x285.jpg",
+        "width": 390,
+        "height": 285
+      },
+      "square_0": {
+        "image": "http://c3.thejournal.ie/media/2017/10/las-vegas-shooting-6-390x390.jpg",
+        "width": 390,
+        "height": 390
+      },
+      "square_1": {
+        "image": "http://c3.thejournal.ie/media/2017/10/las-vegas-shooting-6-197x197.jpg",
+        "width": 197,
+        "height": 197
+      },
+      "square_2": {
+        "image": "http://c1.thejournal.ie/media/2017/10/las-vegas-shooting-6-96x96.jpg",
+        "width": 96,
+        "height": 96
+      },
+      "square_3": {
+        "image": "http://c1.thejournal.ie/media/2017/10/las-vegas-shooting-6-85x85.jpg",
+        "width": 85,
+        "height": 85
+      },
+      "square_4": {
+        "image": "http://c3.thejournal.ie/media/2017/10/las-vegas-shooting-6-100x100.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "square_5": {
+        "image": "http://c1.thejournal.ie/media/2017/10/las-vegas-shooting-6-2000x2000.jpg",
+        "width": 2000,
+        "height": 2000
+      },
+      "main_story_0": {
+        "image": "http://c3.thejournal.ie/media/2017/10/las-vegas-shooting-6-630x260.jpg",
+        "width": 630,
+        "height": 260
+      },
+      "main_story_1": {
+        "image": "http://c2.thejournal.ie/media/2017/10/las-vegas-shooting-6-210x87.jpg",
+        "width": 210,
+        "height": 87
+      },
+      "main_story_2": {
+        "image": "http://c3.thejournal.ie/media/2017/10/las-vegas-shooting-6-290x120.jpg",
+        "width": 290,
+        "height": 120
+      },
+      "super_wide_0": {
+        "image": "http://c3.thejournal.ie/media/2017/10/las-vegas-shooting-6-950x260.jpg",
+        "width": 950,
+        "height": 260
+      },
+      "super_wide_1": {
+        "image": "http://c2.thejournal.ie/media/2017/10/las-vegas-shooting-6-290x80.jpg",
+        "width": 290,
+        "height": 80
+      },
+      "listings_0": {
+        "image": "http://c3.thejournal.ie/media/2017/10/las-vegas-shooting-6-150x100.jpg",
+        "width": 150,
+        "height": 100
+      },
+      "listings_1": {
+        "image": "http://c1.thejournal.ie/media/2017/10/las-vegas-shooting-6-80x50.jpg",
+        "width": 80,
+        "height": 50
+      },
+      "listings_2": {
+        "image": "http://c3.thejournal.ie/media/2017/10/las-vegas-shooting-6-225x150.jpg",
+        "width": 225,
+        "height": 150
+      },
+      "listings_3": {
+        "image": "http://c3.thejournal.ie/media/2017/10/las-vegas-shooting-6-300x200.jpg",
+        "width": 300,
+        "height": 200
+      },
+      "listings_4": {
+        "image": "http://c3.thejournal.ie/media/2017/10/las-vegas-shooting-6-304x203.jpg",
+        "width": 304,
+        "height": 203
+      },
+      "listings_5": {
+        "image": "http://c3.thejournal.ie/media/2017/10/las-vegas-shooting-6-752x501.jpg",
+        "width": 752,
+        "height": 501
+      },
+      "listings_6": {
+        "image": "http://c3.thejournal.ie/media/2017/10/las-vegas-shooting-6-310x207.jpg",
+        "width": 310,
+        "height": 207
+      },
+      "offer_large_0": {
+        "image": "http://c3.thejournal.ie/media/2017/10/las-vegas-shooting-6-458x298.jpg",
+        "width": 458,
+        "height": 298
+      },
+      "offer_medium_0": {
+        "image": "http://c3.thejournal.ie/media/2017/10/las-vegas-shooting-6-298x194.jpg",
+        "width": 298,
+        "height": 194
+      },
+      "offer_small_0": {
+        "image": "http://c3.thejournal.ie/media/2017/10/las-vegas-shooting-6-218x140.jpg",
+        "width": 218,
+        "height": 140
+      },
+      "river_magazine_0": {
+        "image": "http://c3.thejournal.ie/media/2017/10/las-vegas-shooting-6-630x332.jpg",
+        "width": 630,
+        "height": 332
+      },
+      "hero_0": {
+        "image": "http://c0.thejournal.ie/media/2017/10/las-vegas-shooting-6-1366x380.jpg",
+        "width": 1366,
+        "height": 380
+      },
+      "hide_article_image": {
+        "image": null,
+        "width": null,
+        "height": null
+      },
+      "original": {
+        "image": "http://c3.thejournal.ie/media/2017/10/las-vegas-shooting-6.jpg",
+        "width": false,
+        "height": false
+      }
+    },
+    "is_short_post": false,
+    "image_data": {
+      "orientation": "landscape",
+      "credit": "John Locher/PA Wire",
+      "caption": "",
+      "id": "3625742",
+      "raw_source": "John Locher/PA Wire",
+      "raw_source_url": false
+    },
+    "show_image": false,
+    "slideshows": false,
+    "poll": false,
+    "by_line_author": false,
+    "has_liveblog": 0,
+    "has_active_liveblog": 0,
+    "liveblog": [],
+    "primary_tag": {
+      "slug": "mass-shooting",
+      "name": "Mass Shooting"
+    },
+    "tags": [
+      {
+        "name": "Gunman",
+        "slug": "gunman",
+        "description": "",
+        "count": "65"
+      },
+      {
+        "name": "Las Vegas",
+        "slug": "las-vegas",
+        "description": "",
+        "count": "236"
+      },
+      {
+        "name": "Mass Shooting",
+        "slug": "mass-shooting",
+        "description": "",
+        "sponsored": true,
+        "count": "44"
+      },
+      {
+        "name": "Shooting",
+        "slug": "shooting",
+        "description": "",
+        "count": "1389"
+      },
+      {
+        "name": "none",
+        "slug": "none",
+        "description": "",
+        "count": 1
+      }
+    ],
+    "embeds": {
+      "embed_1": {
+        "id": null,
+        "type": "tweet",
+        "service": "twitter",
+        "tweet": {
+          "content": null,
+          "images": [],
+          "created_at": null,
+          "id_str": null,
+          "text": null,
+          "retweet_count": null,
+          "favourite_count": null,
+          "user": {
+            "id_str": null,
+            "name": null,
+            "screen_name": null,
+            "location": null,
+            "followers_count": null,
+            "profile_image_url_bigger": null,
+            "profile_image_url_original": null,
+            "verified": null
+          }
+        },
+        "iframe": "<iframe style=\"overflow: hidden; margin-bottom:0px\" width=\"500\" height=\"1010\" src=\"http://www.thejournal.ie/embed.php?embed=&hash=47f208e752dc56a08dd05e592345804c&service=twitter\"></iframe>",
+        "html": "",
+        "backup_image": {
+          "src": "http://cdn.thejournal.ie/embeds/twitter/5d10ba356fddc1e7d21e7fd7ab86619b.png",
+          "width": 500,
+          "height": 953,
+          "alt": "Tweet by @Natasha Fatah 🏹",
+          "title": "",
+          "caption": "",
+          "credit": "",
+          "id": "",
+          "class": "aligncenter"
+        },
+        "credit": {
+          "source": "Natasha Fatah 🏹",
+          "url": "https://twitter.com/NatashaFatah",
+          "via": "",
+          "via_url": "",
+          "service_name": "Twitter",
+          "html": "Source: <a href=\"https://twitter.com/NatashaFatah\" >Natasha Fatah 🏹</a>/Twitter"
+        },
+        "source": "https://twitter.com/NatashaFatah/status/914763269935697920"
+      },
+      "embed_2": {
+        "id": "914782708831625216",
+        "type": "tweet",
+        "service": "twitter",
+        "tweet": {
+          "content": "Marilou Danley is being sought for questioning re the investigation into the active shooter incident. If seen pleas… <a href=\"https://t.co/SG3NkNNent\">twitter.com/i/web/status/9…</a>",
+          "images": [],
+          "created_at": "Mon Oct 02 09:22:48 +0000 2017",
+          "id_str": "914782708831625216",
+          "text": "Marilou Danley is being sought for questioning re the investigation into the active shooter incident. If seen pleas… https://t.co/SG3NkNNent",
+          "retweet_count": 7452,
+          "favourite_count": null,
+          "user": {
+            "id_str": "26303146",
+            "name": "LVMPD",
+            "screen_name": "LVMPD",
+            "location": "Las Vegas, Nevada",
+            "followers_count": 209510,
+            "profile_image_url_bigger": "http://cdn.thejournal.ie/embeds/f8294547dd34d5ce961b90649828e58e.jpg",
+            "profile_image_url_original": "http://cdn.thejournal.ie/embeds/b66d766c82a2c527ee2cfb986623a4be.jpg",
+            "verified": true
+          }
+        },
+        "iframe": "<iframe style=\"overflow: hidden; margin-bottom:0px\" width=\"500\" height=\"503\" src=\"http://www.thejournal.ie/embed.php?embed=JTNDYmxvY2txdW90ZStjbGFzcyUzRCUyMnR3aXR0ZXItdHdlZXQlMjIrZGF0YS13aWR0aCUzRCUyMjUwMCUyMiUzRSUzQ3ArbGFuZyUzRCUyMmVuJTIyK2RpciUzRCUyMmx0ciUyMiUzRU1hcmlsb3UrRGFubGV5K2lzK2JlaW5nK3NvdWdodCtmb3IrcXVlc3Rpb25pbmcrcmUrdGhlK2ludmVzdGlnYXRpb24raW50byt0aGUrYWN0aXZlK3Nob290ZXIraW5jaWRlbnQuK0lmK3NlZW4rcGxlYXNlK2NhbGwrOS0xLTElMjErJTNDYStocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZ0LmNvJTJGWjgzWHZjSGVqSCUyMiUzRXBpYy50d2l0dGVyLmNvbSUyRlo4M1h2Y0hlakglM0MlMkZhJTNFJTNDJTJGcCUzRSUyNm1kYXNoJTNCK0xWTVBEKyUyOCU0MExWTVBEJTI5KyUzQ2EraHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGdHdpdHRlci5jb20lMkZMVk1QRCUyRnN0YXR1cyUyRjkxNDc4MjcwODgzMTYyNTIxNiUzRnJlZl9zcmMlM0R0d3NyYyUyNTVFdGZ3JTIyJTNFT2N0b2JlcisyJTJDKzIwMTclM0MlMkZhJTNFJTNDJTJGYmxvY2txdW90ZSUzRSUzQ3NjcmlwdCthc3luYytzcmMlM0QlMjIlMkYlMkZwbGF0Zm9ybS50d2l0dGVyLmNvbSUyRndpZGdldHMuanMlMjIrY2hhcnNldCUzRCUyMnV0Zi04JTIyJTNFJTNDJTJGc2NyaXB0JTNF&hash=4dc671d6c0b494e3e15047bde0c0f504&service=twitter\"></iframe>",
+        "html": "<blockquote class=\"twitter-tweet\" data-width=\"500\"><p lang=\"en\" dir=\"ltr\">Marilou Danley is being sought for questioning re the investigation into the active shooter incident. If seen please call 9-1-1! <a href=\"https://t.co/Z83XvcHejH\">pic.twitter.com/Z83XvcHejH</a></p>&mdash; LVMPD (@LVMPD) <a href=\"https://twitter.com/LVMPD/status/914782708831625216?ref_src=twsrc%5Etfw\">October 2, 2017</a></blockquote><script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
+        "backup_image": {
+          "src": "http://cdn.thejournal.ie/embeds/twitter/f18d2dc893f80e19861289257f189872.png",
+          "width": 500,
+          "height": 447,
+          "alt": "Tweet by @LVMPD",
+          "title": "",
+          "caption": "",
+          "credit": "",
+          "id": "",
+          "class": "aligncenter"
+        },
+        "credit": {
+          "source": "LVMPD",
+          "url": "https://twitter.com/LVMPD",
+          "via": "",
+          "via_url": "",
+          "service_name": "Twitter",
+          "html": "Source: <a href=\"https://twitter.com/LVMPD\" >LVMPD</a>/Twitter"
+        },
+        "source": "https://twitter.com/LVMPD/status/914782708831625216"
+      },
+      "embed_3": {
+        "type": "ad",
+        "size": "mpu",
+        "id": "ad_3"
+      }
+    },
+    "inline_images": [],
+    "comments_allowed": 1,
+    "river_format": "landscape",
+    "author": {
+      "id": "928",
+      "name": "Sinead O'Carroll",
+      "email": "sinead@thejournal.ie",
+      "twitter": "SineadOCarroll",
+      "description": "",
+      "googleplus": "https://plus.google.com/101973192931738115217/posts",
+      "slug": "sinead-o'carroll",
+      "publication": "",
+      "is_admin": true,
+      "avatar": "https://f1.thejournal.ie/media/2015/10/Sinead-OCarroll22-133x133.jpg",
+      "is_syndication": false
+    },
+    "admin_author": {
+      "id": "68",
+      "name": "Sinead O'Carroll",
+      "email": "sinead@thejournal.ie"
+    },
+    "banner_video": {
+      "has_banner_video": false,
+      "embed": null
+    },
+    "advertising": {
+      "targets": [
+        {
+          "key": "targeting-key",
+          "values": [
+            "gunman",
+            "las-vegas",
+            "mass-shooting",
+            "shooting",
+            "irish-vertical"
+          ]
+        },
+        {
+          "key": "targetingkey",
+          "values": [
+            "gunman",
+            "las-vegas",
+            "mass-shooting",
+            "shooting",
+            "irish-vertical"
+          ]
+        }
+      ],
+      "dfp_unit_template": "sponsored_%s",
+      "dfp_units": {
+        "dfp_footer": false,
+        "dfp_logo": false,
+        "dfp_mpu": false
+      }
+    },
+    "retargeting": [
+      {
+        "key": "irish_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "irish_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      }
+    ],
+    "id_name": "article",
+    "primary_image": {
+      "id": 3625710,
+      "object_id": 3625710,
+      "object_type": "article",
+      "crops": [
+        "original"
+      ],
+      "credit": {
+        "text": "John Locher/PA Wire",
+        "url": false
+      },
+      "version": 3625742
+    },
+    "time_label": {
+      "is_displayed": true,
+      "is_replaced": false,
+      "replacement_text": null
+    }
+  },
+  {
+    "id": 3625527,
+    "title": "Donald Trump has dedicated a golf tournament victory to hurricane victims",
+    "slug": "donald-trump-golf-puerto-rico",
+    "date": "2017-10-02 10:04:18",
+    "date_modified": "2017-10-02 10:04:18",
+    "date_published": "2017-10-02 10:04:24",
+    "is_updated": false,
+    "has_audio": "0",
+    "has_video": "1",
+    "has_slideshow": "0",
+    "is_hot_on_twitter": "0",
+    "publication": "thejournal",
+    "stats": {
+      "views": "12790",
+      "comments": "45",
+      "facebook": "220",
+      "twitter": "0",
+      "email": "0",
+      "dislikes": "0",
+      "likes": "0"
+    },
+    "syndication_source": "ap",
+    "seo_title": null,
+    "seo_description": null,
+    "is_sponsored": 0,
+    "sticky": null,
+    "header_url": null,
+    "internal_syndication_id": null,
+    "digest_key": "article_3625527",
+    "date_unix": 1506935058,
+    "date_modified_unix": 1506938658,
+    "status": "publish",
+    "is_exclusive": "0",
+    "excerpt": "The Presidents Cup was won by the USA.  ",
+    "content": "<p>[embed id=\"embed_1\"]</p>\n<p>US PRESIDENT DONALD spent yesterday afternoon attending a high-profile golf tournament, signalling that he will not be cowed by critics of his response to Hurricane Maria.</p>\n<p>Earlier , Trump had scoffed at “politically motivated ingrates” who questioned his administration’s commitment to rebuilding Puerto Rico after the pulverising storm. He assured Americans there had been “tremendous progress.”</p>\n<p>The remarks, in tweets and from the manicured green, demonstrated Trump’s defiance in the face of charges that he has been distracted and his administration slow to respond to the US territory’s struggle to restore power and basic services in the two weeks after the storm.</p>\n<p>Neither those charges, nor his past criticism of his predecessor for golfing during a crisis, kept him from attending The Presidents Cup in New Jersey.</p>\n<p>The Presidents Cup is a team tournament that pits US golfers against golfers from elsewhere in the world from outside Europe.</p>\n<p>After staying Saturday at his own New Jersey golf club, Trump yesterday travelled to Jersey City, where he spent the afternoon in the hospitality suite perched above the Liberty National Golf Club’s 14th hole.</p>\n<p>He was on hand to present the tournament’s trophy to Team USA., which he dedicated to the people of Puerto Rico, Texas and Florida still recovering from hurricane devastation.</p>\n<p>“I want to just remember them and we’re going to dedicate this trophy to all of those people that went through so much, that we love,” he said, adding of Puerto Rico: “We have it under really great control.”</p>\n<p>As Trump spoke, someone in the crowd accused him of not caring about Puerto Rico, using a vulgarism to make the point.</p>\n<p>Returning to the White House, Trump told reporters Sunday evening:</p>\n<blockquote>\n<div>We’re doing really well on Puerto Rico. I’ll be going there on Tuesday. Tremendous progress being made. We’re getting the roads open, we’re getting a lot of things done — really at a record clip. So we’re very happy with that.</div>\n</blockquote>\n<p>[embed id=\"embed_2\"]</p>\n<p>[image id=\"image_1\"]</p>\n<p>Trump spent years hammering his predecessor, Barack Obama, both for playing golf and leaving Washington too often.</p>\n<p>“President Obama should have gone to Louisiana days ago, instead of golfing,” he tweeted in August of last year, after severe flooding in the state. “Too little, too late!”</p>\n<p>In 2014, Obama was criticised for playing golf right after speaking to reporters about the execution of journalist James Foley by Islamic State militants.</p>\n<p>And President George W. Bush was faulted for not immediately returning to Washington from his Crawford, Texas, ranch after Hurricane Katrina devastated New Orleans.</p>\n<p>White House spokeswoman Lindsay Walters said that Trump had committed to attending the golf tournament “many months ago.”</p>\n<p>“He is being continually updated on the situation in Puerto Rico and only came briefly to present the trophy to the American team who are serving as great representatives for our country,” she said, adding:</p>\n<blockquote>\n<div>He is eager to get to Puerto Rico on Tuesday and further emphasise his dedication to the recovery efforts which have received widespread praise from local officials on the ground.</div>\n</blockquote>\n<p>[image id=\"image_2\"]</p>\n<p>San Juan Mayor Carmen Yulin Cruz, whose criticism on Friday of the federal response drew Trump’s scorn, said that people from federal agencies had been helpful but that the island needed even more.</p>\n<p>“I recognise the good heart that the FEMA people have. They want to help, but they don’t have the resources,” she said on ABC’s This Week.</p>\n<p>Her tone was far different Friday when she accused the Trump administration of “killing us with the inefficiency” after the storm.</p>\n<p>She begged the president to “make sure somebody is in charge that is up to the task of saving lives,” and appealed for help “to save us from dying.”</p>\n<p>Trump had responded by deriding the “poor leadership ability” of the mayor and others in Puerto Rico “who are not able to get their workers to help.”</p>\n<p>He added, without elaboration, “They want everything to be done for them when it should be a community effort.”</p>\n<p>The Trump administration said it had more than 10,000 federal officials on the ground, and that urban search and rescue teams have covered the entire island, searching more than 2,649 structures.</p>\n<h3>Read: <a href=\"http://www.thejournal.ie/donald-trump-puerto-rico-3624026-Sep2017/\">Donald Trump has accused Puerto Ricans of wanting ‘everything done for them’ &gt;</a>\n</h3>\n<h3>Read: <a href=\"http://www.thejournal.ie/hillary-clinton-late-late-show-3623254-Sep2017/\">‘We practiced him stalking me on the stage’: Hillary Clinton takes aim at Trump in Late Late Show interview &gt;</a>\n</h3>\n",
+    "permalink": "http://www.thejournal.ie/donald-trump-golf-puerto-rico-3625527-Oct2017/",
+    "shortlink": "http://jrnl.ie/3625527",
+    "type": "post",
+    "secondary_publications": [],
+    "main_story_links": [
+      {
+        "text": "",
+        "url": ""
+      },
+      {
+        "text": "",
+        "url": ""
+      }
+    ],
+    "categories": {
+      "thejournal": {
+        "id": "2",
+        "name": "International",
+        "slug": "international"
+      }
+    },
+    "publication_data": {
+      "primary": "thejournal",
+      "all": [
+        "thejournal"
+      ],
+      "categories": {
+        "thejournal": [
+          {
+            "id": "2",
+            "name": "International",
+            "slug": "international"
+          }
+        ]
+      }
+    },
+    "images": {
+      "thumbnail": {
+        "image": "http://c0.thejournal.ie/media/2017/10/pastedimage-78931-145x145.png",
+        "width": 145,
+        "height": 145
+      },
+      "medium": {
+        "image": "http://c0.thejournal.ie/media/2017/10/pastedimage-78931-296x207.png",
+        "width": 296,
+        "height": 207
+      },
+      "large": {
+        "image": "http://c0.thejournal.ie/media/2017/10/pastedimage-78931-630x442.png",
+        "width": 630,
+        "height": 442
+      },
+      "river_0": {
+        "image": "http://c0.thejournal.ie/media/2017/10/pastedimage-78931-230x150.png",
+        "width": 230,
+        "height": 150
+      },
+      "river_1": {
+        "image": "http://c2.thejournal.ie/media/2017/10/pastedimage-78931-2300x1500.png",
+        "width": 2300,
+        "height": 1500
+      },
+      "article_page_0": {
+        "image": "http://c0.thejournal.ie/media/2017/10/pastedimage-78931-390x285.png",
+        "width": 390,
+        "height": 285
+      },
+      "square_0": {
+        "image": "http://c0.thejournal.ie/media/2017/10/pastedimage-78931-390x390.png",
+        "width": 390,
+        "height": 390
+      },
+      "square_1": {
+        "image": "http://c0.thejournal.ie/media/2017/10/pastedimage-78931-197x197.png",
+        "width": 197,
+        "height": 197
+      },
+      "square_2": {
+        "image": "http://c2.thejournal.ie/media/2017/10/pastedimage-78931-96x96.png",
+        "width": 96,
+        "height": 96
+      },
+      "square_3": {
+        "image": "http://c2.thejournal.ie/media/2017/10/pastedimage-78931-85x85.png",
+        "width": 85,
+        "height": 85
+      },
+      "square_4": {
+        "image": "http://c0.thejournal.ie/media/2017/10/pastedimage-78931-100x100.png",
+        "width": 100,
+        "height": 100
+      },
+      "square_5": {
+        "image": "http://c2.thejournal.ie/media/2017/10/pastedimage-78931-2000x2000.png",
+        "width": 2000,
+        "height": 2000
+      },
+      "main_story_0": {
+        "image": "http://c0.thejournal.ie/media/2017/10/pastedimage-78931-630x260.png",
+        "width": 630,
+        "height": 260
+      },
+      "main_story_1": {
+        "image": "http://c3.thejournal.ie/media/2017/10/pastedimage-78931-210x87.png",
+        "width": 210,
+        "height": 87
+      },
+      "main_story_2": {
+        "image": "http://c0.thejournal.ie/media/2017/10/pastedimage-78931-290x120.png",
+        "width": 290,
+        "height": 120
+      },
+      "super_wide_0": {
+        "image": "http://c0.thejournal.ie/media/2017/10/pastedimage-78931-950x260.png",
+        "width": 950,
+        "height": 260
+      },
+      "super_wide_1": {
+        "image": "http://c3.thejournal.ie/media/2017/10/pastedimage-78931-290x80.png",
+        "width": 290,
+        "height": 80
+      },
+      "listings_0": {
+        "image": "http://c0.thejournal.ie/media/2017/10/pastedimage-78931-150x100.png",
+        "width": 150,
+        "height": 100
+      },
+      "listings_1": {
+        "image": "http://c2.thejournal.ie/media/2017/10/pastedimage-78931-80x50.png",
+        "width": 80,
+        "height": 50
+      },
+      "listings_2": {
+        "image": "http://c0.thejournal.ie/media/2017/10/pastedimage-78931-225x150.png",
+        "width": 225,
+        "height": 150
+      },
+      "listings_3": {
+        "image": "http://c0.thejournal.ie/media/2017/10/pastedimage-78931-300x200.png",
+        "width": 300,
+        "height": 200
+      },
+      "listings_4": {
+        "image": "http://c0.thejournal.ie/media/2017/10/pastedimage-78931-304x203.png",
+        "width": 304,
+        "height": 203
+      },
+      "listings_5": {
+        "image": "http://c0.thejournal.ie/media/2017/10/pastedimage-78931-752x501.png",
+        "width": 752,
+        "height": 501
+      },
+      "listings_6": {
+        "image": "http://c0.thejournal.ie/media/2017/10/pastedimage-78931-310x207.png",
+        "width": 310,
+        "height": 207
+      },
+      "offer_large_0": {
+        "image": "http://c0.thejournal.ie/media/2017/10/pastedimage-78931-458x298.png",
+        "width": 458,
+        "height": 298
+      },
+      "offer_medium_0": {
+        "image": "http://c0.thejournal.ie/media/2017/10/pastedimage-78931-298x194.png",
+        "width": 298,
+        "height": 194
+      },
+      "offer_small_0": {
+        "image": "http://c0.thejournal.ie/media/2017/10/pastedimage-78931-218x140.png",
+        "width": 218,
+        "height": 140
+      },
+      "river_magazine_0": {
+        "image": "http://c0.thejournal.ie/media/2017/10/pastedimage-78931-630x332.png",
+        "width": 630,
+        "height": 332
+      },
+      "hero_0": {
+        "image": "http://c1.thejournal.ie/media/2017/10/pastedimage-78931-1366x380.png",
+        "width": 1366,
+        "height": 380
+      },
+      "hide_article_image": {
+        "image": null,
+        "width": null,
+        "height": null
+      },
+      "original": {
+        "image": "http://c0.thejournal.ie/media/2017/10/pastedimage-78931.png",
+        "width": false,
+        "height": false
+      }
+    },
+    "is_short_post": false,
+    "image_data": {
+      "orientation": "landscape",
+      "credit": "",
+      "caption": "",
+      "id": "3625560",
+      "raw_source": false,
+      "raw_source_url": false
+    },
+    "show_image": false,
+    "slideshows": false,
+    "poll": false,
+    "by_line_author": false,
+    "has_liveblog": 0,
+    "has_active_liveblog": 0,
+    "liveblog": [],
+    "primary_tag": {
+      "slug": "puerto-rico",
+      "name": "Puerto Rico"
+    },
+    "tags": [
+      {
+        "name": "Donald Trump",
+        "slug": "donald-trump",
+        "description": "",
+        "count": "1270"
+      },
+      {
+        "name": "Golf",
+        "slug": "golf",
+        "description": "",
+        "count": "2098"
+      },
+      {
+        "name": "hurrican",
+        "slug": "hurrican",
+        "description": "",
+        "count": "3"
+      },
+      {
+        "name": "Hurricane",
+        "slug": "hurricane",
+        "description": "",
+        "count": "71"
+      },
+      {
+        "name": "Hurricane Maria",
+        "slug": "hurricane-maria",
+        "description": "",
+        "count": "10"
+      },
+      {
+        "name": "President's Cup",
+        "slug": "presidents-cup",
+        "description": "",
+        "count": "30"
+      },
+      {
+        "name": "Puerto Rico",
+        "slug": "puerto-rico",
+        "description": "",
+        "count": "26"
+      }
+    ],
+    "embeds": {
+      "embed_1": {
+        "id": "QxWER_xza4o",
+        "type": "video",
+        "service": "youtube",
+        "credit": {
+          "source": "Based Patriot",
+          "url": "https://www.youtube.com/channel/UCcSqNP7X0DMOI8X3yRPvcbw",
+          "via": "",
+          "via_url": "",
+          "service_name": "YouTube",
+          "html": "Source: <a href=\"https://www.youtube.com/channel/UCcSqNP7X0DMOI8X3yRPvcbw\" >Based Patriot</a>/YouTube"
+        },
+        "source": "https://youtu.be/QxWER_xza4o"
+      },
+      "embed_2": {
+        "type": "ad",
+        "size": "mpu",
+        "id": "ad_2"
+      }
+    },
+    "inline_images": [
+      {
+        "src": "http://c0.thejournal.ie/media/2017/10/trump-296.jpg",
+        "width": 3315,
+        "height": 2277,
+        "alt": "Trump",
+        "title": "",
+        "caption": "President Donald Trump speaks to reporters about Puerto Rico upon his return to the White House in Washington.",
+        "credit": {
+          "source": "Manuel Balce Ceneta",
+          "service_name": "PA Images",
+          "html": "Source: Manuel Balce Ceneta/PA Images"
+        },
+        "id": "3625541",
+        "class": "alignleft",
+        "key": "image_1",
+        "object_id": "3625541",
+        "object_type": "inline",
+        "version": "3625541"
+      },
+      {
+        "src": "http://c2.thejournal.ie/media/2017/10/puerto-rico-hurricane-maria-victims.jpg",
+        "width": 511,
+        "height": 341,
+        "alt": "Puerto Rico Hurricane Maria Victims",
+        "title": "",
+        "caption": "A woman washes her clothes with water from the mountain in Puerto Rico.",
+        "credit": {
+          "source": "Ramon Espinosa",
+          "service_name": "PA Images",
+          "html": "Source: Ramon Espinosa/PA Images"
+        },
+        "id": "3625558",
+        "class": "alignleft",
+        "key": "image_2",
+        "object_id": "3625558",
+        "object_type": "inline",
+        "version": "3625558"
+      }
+    ],
+    "comments_allowed": 1,
+    "river_format": "landscape",
+    "author": {
+      "id": "607",
+      "name": "Associated Press",
+      "email": "",
+      "twitter": "",
+      "description": "",
+      "googleplus": "",
+      "slug": "associated-press",
+      "publication": "",
+      "is_admin": false,
+      "avatar": "https://f2.thejournal.ie/media/2011/04/aplogo-133x133.jpg",
+      "is_syndication": true
+    },
+    "admin_author": {
+      "id": "95",
+      "name": "Rónán Duffy",
+      "email": "ronan@thejournal.ie"
+    },
+    "banner_video": {
+      "has_banner_video": false,
+      "embed": null
+    },
+    "advertising": {
+      "targets": [
+        {
+          "key": "targeting-key",
+          "values": [
+            "donald-trump",
+            "golf",
+            "hurrican",
+            "hurricane",
+            "hurricane-maria",
+            "presidents-cup",
+            "puerto-rico"
+          ]
+        },
+        {
+          "key": "targetingkey",
+          "values": [
+            "donald-trump",
+            "golf",
+            "hurrican",
+            "hurricane",
+            "hurricane-maria",
+            "presidents-cup",
+            "puerto-rico"
+          ]
+        }
+      ],
+      "dfp_unit_template": "regular_%s",
+      "dfp_units": {
+        "dfp_footer": true,
+        "dfp_logo": false,
+        "dfp_mpu": true
+      }
+    },
+    "retargeting": [
+      {
+        "key": "golf_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "international_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "international_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      }
+    ],
+    "id_name": "article",
+    "primary_image": {
+      "id": 3625527,
+      "object_id": 3625527,
+      "object_type": "article",
+      "crops": [
+        "original"
+      ],
+      "credit": {
+        "text": false,
+        "url": false
+      },
+      "version": 3625560
+    },
+    "time_label": {
+      "is_displayed": true,
+      "is_replaced": false,
+      "replacement_text": null
+    }
+  },
+  {
+    "id": 3625482,
+    "title": "Islamic State claim responsibility for Marseilles knife attack ",
+    "slug": "marseilles-attack",
+    "date": "2017-10-02 09:48:35",
+    "date_modified": "2017-10-02 10:06:46",
+    "date_published": "2017-10-02 09:48:44",
+    "is_updated": false,
+    "has_audio": "0",
+    "has_video": "0",
+    "has_slideshow": "0",
+    "is_hot_on_twitter": "0",
+    "publication": "thejournal",
+    "stats": {
+      "views": "7151",
+      "comments": "37",
+      "facebook": "1",
+      "twitter": "0",
+      "email": "0",
+      "dislikes": "0",
+      "likes": "0"
+    },
+    "syndication_source": "afp",
+    "seo_title": null,
+    "seo_description": null,
+    "is_sponsored": 0,
+    "sticky": null,
+    "header_url": null,
+    "internal_syndication_id": null,
+    "digest_key": "article_3625482",
+    "date_unix": 1506934115,
+    "date_modified_unix": 1506938806,
+    "status": "publish",
+    "is_exclusive": "0",
+    "excerpt": "Two women were killed and the attacker was later shot dead by soldiers on patrol.",
+    "content": "<p>[image id=\"image_1\"]</p>\n<p>THE ISLAMIC STATE group has claimed responsibility for the killings in Marseille yesterday, in which an attacker <a href=\"http://www.thejournal.ie/two-dead-marseille-station-3624690-Oct2017/\">killed two women at the main train station</a>.</p>\n<p>The man was later shot dead by soldiers on patrol.</p>\n<p>One of the victims had her throat slit by the assailant, a man with a criminal record believed to be in his 30s who witnesses said shouted “Allahu Akbar” at the start of his rampage.</p>\n<p>Troops serving in a special 7,000-strong force known as Sentinelle set up to guard vulnerable areas in terror-hit France responded to the stabbings and shot dead the attacker, whose identity remains unknown.</p>\n<p>French Interior Minister Gerard Collomb said about a dozen witnesses were being questioned.</p>\n<p>“This act could be terrorist in nature but at this time we cannot confirm that,” he added.</p>\n<p>[embed id=\"embed_1\"]</p>\n<p>“I was on the esplanade just in front of the station,” Melanie Petit, an 18-year-old student, told AFP. “I heard someone shout ‘Allahu Akbar’ and I saw a man who seemed to be dressed all in black.”</p>\n<p>[image id=\"image_2\"]</p>\n<p>Later, IS’s Amaq propaganda agency cited a “security source” saying: “The executor of the stabbing operation in the city of Marseille… is from the soldiers of the Islamic State.”</p>\n<p>During the incident, heavily armed police sealed off and evacuated the ornate rail terminus in the bustling heart of France’s second-biggest city, stopping all train traffic on some of the country’s busiest lines.</p>\n<p>Travellers around the station described “controlled panic” as security forces evacuated passengers and looked for possible accomplices, while another witness said white sheets were placed over the bodies of the victims.</p>\n<p>The two victims remained unidentified but were both “around 20 years old,” a police source said.</p>\n<p>The assailant was known to the authorities for a string of common law offences and had “no papers on him,” one source told AFP.</p>\n<p>He was identified by his fingerprints after being shot dead.</p>\n<p><a href=\"https://www.afp.com/\">© – AFP 2017</a></p>\n<h3>Read: <a href=\"http://www.thejournal.ie/las-vegas-shooter-3625288-Oct2017/\">At least two people dead and 24 injured in Las Vegas mass shooting</a>&gt;</h3>\n<h3>Read: <a href=\"http://www.thejournal.ie/catalonia-independence-vote-4-3625287-Oct2017/\">Catalan leader says region has won right to independence after 90% vote Yes in chaotic referendum</a>&gt;</h3>\n",
+    "permalink": "http://www.thejournal.ie/marseilles-attack-3625482-Oct2017/",
+    "shortlink": "http://jrnl.ie/3625482",
+    "type": "post",
+    "secondary_publications": [],
+    "main_story_links": [
+      {
+        "text": "",
+        "url": ""
+      },
+      {
+        "text": "",
+        "url": ""
+      }
+    ],
+    "categories": {
+      "thejournal": {
+        "id": "2",
+        "name": "International",
+        "slug": "international"
+      }
+    },
+    "publication_data": {
+      "primary": "thejournal",
+      "all": [
+        "thejournal"
+      ],
+      "categories": {
+        "thejournal": [
+          {
+            "id": "1",
+            "name": "Irish",
+            "slug": "irish"
+          },
+          {
+            "id": "2",
+            "name": "International",
+            "slug": "international"
+          }
+        ]
+      }
+    },
+    "images": {
+      "thumbnail": {
+        "image": "http://c0.thejournal.ie/media/2017/10/france-knife-attack-3-145x145.jpg",
+        "width": 145,
+        "height": 145
+      },
+      "medium": {
+        "image": "http://c0.thejournal.ie/media/2017/10/france-knife-attack-3-296x198.jpg",
+        "width": 296,
+        "height": 198
+      },
+      "large": {
+        "image": "http://c0.thejournal.ie/media/2017/10/france-knife-attack-3-630x421.jpg",
+        "width": 630,
+        "height": 421
+      },
+      "larger": {
+        "image": "http://c0.thejournal.ie/media/2017/10/france-knife-attack-3-744x497.jpg",
+        "width": 744,
+        "height": 497
+      },
+      "river_0": {
+        "image": "http://c0.thejournal.ie/media/2017/10/france-knife-attack-3-230x150.jpg",
+        "width": 230,
+        "height": 150
+      },
+      "river_1": {
+        "image": "http://c2.thejournal.ie/media/2017/10/france-knife-attack-3-2300x1500.jpg",
+        "width": 2300,
+        "height": 1500
+      },
+      "article_page_0": {
+        "image": "http://c0.thejournal.ie/media/2017/10/france-knife-attack-3-390x285.jpg",
+        "width": 390,
+        "height": 285
+      },
+      "square_0": {
+        "image": "http://c0.thejournal.ie/media/2017/10/france-knife-attack-3-390x390.jpg",
+        "width": 390,
+        "height": 390
+      },
+      "square_1": {
+        "image": "http://c0.thejournal.ie/media/2017/10/france-knife-attack-3-197x197.jpg",
+        "width": 197,
+        "height": 197
+      },
+      "square_2": {
+        "image": "http://c2.thejournal.ie/media/2017/10/france-knife-attack-3-96x96.jpg",
+        "width": 96,
+        "height": 96
+      },
+      "square_3": {
+        "image": "http://c2.thejournal.ie/media/2017/10/france-knife-attack-3-85x85.jpg",
+        "width": 85,
+        "height": 85
+      },
+      "square_4": {
+        "image": "http://c0.thejournal.ie/media/2017/10/france-knife-attack-3-100x100.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "square_5": {
+        "image": "http://c2.thejournal.ie/media/2017/10/france-knife-attack-3-2000x2000.jpg",
+        "width": 2000,
+        "height": 2000
+      },
+      "main_story_0": {
+        "image": "http://c0.thejournal.ie/media/2017/10/france-knife-attack-3-630x260.jpg",
+        "width": 630,
+        "height": 260
+      },
+      "main_story_1": {
+        "image": "http://c3.thejournal.ie/media/2017/10/france-knife-attack-3-210x87.jpg",
+        "width": 210,
+        "height": 87
+      },
+      "main_story_2": {
+        "image": "http://c0.thejournal.ie/media/2017/10/france-knife-attack-3-290x120.jpg",
+        "width": 290,
+        "height": 120
+      },
+      "super_wide_0": {
+        "image": "http://c0.thejournal.ie/media/2017/10/france-knife-attack-3-950x260.jpg",
+        "width": 950,
+        "height": 260
+      },
+      "super_wide_1": {
+        "image": "http://c3.thejournal.ie/media/2017/10/france-knife-attack-3-290x80.jpg",
+        "width": 290,
+        "height": 80
+      },
+      "listings_0": {
+        "image": "http://c0.thejournal.ie/media/2017/10/france-knife-attack-3-150x100.jpg",
+        "width": 150,
+        "height": 100
+      },
+      "listings_1": {
+        "image": "http://c2.thejournal.ie/media/2017/10/france-knife-attack-3-80x50.jpg",
+        "width": 80,
+        "height": 50
+      },
+      "listings_2": {
+        "image": "http://c0.thejournal.ie/media/2017/10/france-knife-attack-3-225x150.jpg",
+        "width": 225,
+        "height": 150
+      },
+      "listings_3": {
+        "image": "http://c0.thejournal.ie/media/2017/10/france-knife-attack-3-300x200.jpg",
+        "width": 300,
+        "height": 200
+      },
+      "listings_4": {
+        "image": "http://c0.thejournal.ie/media/2017/10/france-knife-attack-3-304x203.jpg",
+        "width": 304,
+        "height": 203
+      },
+      "listings_5": {
+        "image": "http://c0.thejournal.ie/media/2017/10/france-knife-attack-3-752x501.jpg",
+        "width": 752,
+        "height": 501
+      },
+      "listings_6": {
+        "image": "http://c0.thejournal.ie/media/2017/10/france-knife-attack-3-310x207.jpg",
+        "width": 310,
+        "height": 207
+      },
+      "offer_large_0": {
+        "image": "http://c0.thejournal.ie/media/2017/10/france-knife-attack-3-458x298.jpg",
+        "width": 458,
+        "height": 298
+      },
+      "offer_medium_0": {
+        "image": "http://c0.thejournal.ie/media/2017/10/france-knife-attack-3-298x194.jpg",
+        "width": 298,
+        "height": 194
+      },
+      "offer_small_0": {
+        "image": "http://c0.thejournal.ie/media/2017/10/france-knife-attack-3-218x140.jpg",
+        "width": 218,
+        "height": 140
+      },
+      "river_magazine_0": {
+        "image": "http://c0.thejournal.ie/media/2017/10/france-knife-attack-3-630x332.jpg",
+        "width": 630,
+        "height": 332
+      },
+      "hero_0": {
+        "image": "http://c1.thejournal.ie/media/2017/10/france-knife-attack-3-1366x380.jpg",
+        "width": 1366,
+        "height": 380
+      },
+      "hide_article_image": {
+        "image": null,
+        "width": null,
+        "height": null
+      },
+      "original": {
+        "image": "http://c0.thejournal.ie/media/2017/10/france-knife-attack-3.jpg",
+        "width": false,
+        "height": false
+      }
+    },
+    "is_short_post": false,
+    "image_data": {
+      "orientation": "landscape",
+      "credit": "AP/PA Images",
+      "caption": "French police officer cordons off the access to Marseille 's main train station yesterday.",
+      "id": "3625524",
+      "raw_source": "AP/PA Images",
+      "raw_source_url": false
+    },
+    "show_image": false,
+    "slideshows": false,
+    "poll": false,
+    "by_line_author": false,
+    "has_liveblog": 0,
+    "has_active_liveblog": 0,
+    "liveblog": [],
+    "primary_tag": {
+      "slug": "france",
+      "name": "France"
+    },
+    "tags": [
+      {
+        "name": "France",
+        "slug": "france",
+        "description": "",
+        "count": "2194"
+      },
+      {
+        "name": "knifeman",
+        "slug": "knifeman",
+        "description": "",
+        "count": "1"
+      },
+      {
+        "name": "marseilles",
+        "slug": "marseilles",
+        "description": "",
+        "count": "2"
+      },
+      {
+        "name": "Police",
+        "slug": "police",
+        "description": "",
+        "count": "1513"
+      },
+      {
+        "name": "Terror Attack",
+        "slug": "terror-attack",
+        "description": "",
+        "count": "77"
+      }
+    ],
+    "embeds": {
+      "embed_1": {
+        "type": "ad",
+        "size": "mpu",
+        "id": "ad_1"
+      }
+    },
+    "inline_images": [
+      {
+        "src": "http://c0.thejournal.ie/media/2017/10/france-knife-attack-3.jpg",
+        "width": 4506,
+        "height": 3015,
+        "alt": "France Knife Attack",
+        "title": "",
+        "caption": "French police officer cordons off the access to Marseille's main train station yesterday.",
+        "credit": {
+          "source": "AP",
+          "service_name": "PA Images",
+          "html": "Source: AP/PA Images"
+        },
+        "id": "3625524",
+        "class": "alignnone",
+        "key": "image_1",
+        "object_id": "3625524",
+        "object_type": "inline",
+        "version": "3625524"
+      },
+      {
+        "src": "http://c0.thejournal.ie/media/2017/10/france-knife-attack-4.jpg",
+        "width": 4173,
+        "height": 2730,
+        "alt": "France Knife Attack",
+        "title": "",
+        "caption": "French police officers block access on the stairs leading to Marseille's main train station.",
+        "credit": {
+          "source": "AP",
+          "service_name": "PA Images",
+          "html": "Source: AP/PA Images"
+        },
+        "id": "3625526",
+        "class": "alignnone",
+        "key": "image_2",
+        "object_id": "3625526",
+        "object_type": "inline",
+        "version": "3625526"
+      }
+    ],
+    "comments_allowed": 1,
+    "river_format": "landscape",
+    "author": {
+      "id": "1585",
+      "name": "AFP",
+      "email": "",
+      "twitter": "",
+      "description": "",
+      "googleplus": "",
+      "slug": "afp",
+      "publication": "",
+      "is_admin": false,
+      "avatar": "https://f0.thejournal.ie/media/2012/09/afplogo-133x92.png",
+      "is_syndication": true
+    },
+    "admin_author": {
+      "id": "75",
+      "name": "Christina Finn",
+      "email": "christinafinn@thejournal.ie"
+    },
+    "banner_video": {
+      "has_banner_video": false,
+      "embed": null
+    },
+    "advertising": {
+      "targets": [
+        {
+          "key": "targeting-key",
+          "values": [
+            "france",
+            "knifeman",
+            "marseilles",
+            "police",
+            "terror-attack"
+          ]
+        },
+        {
+          "key": "targetingkey",
+          "values": [
+            "france",
+            "knifeman",
+            "marseilles",
+            "police",
+            "terror-attack"
+          ]
+        }
+      ],
+      "dfp_unit_template": "regular_%s",
+      "dfp_units": {
+        "dfp_footer": true,
+        "dfp_logo": false,
+        "dfp_mpu": true
+      }
+    },
+    "retargeting": [
+      {
+        "key": "irish_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "irish_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "international_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "international_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      }
+    ],
+    "id_name": "article",
+    "primary_image": {
+      "id": 3625482,
+      "object_id": 3625482,
+      "object_type": "article",
+      "crops": [
+        "original"
+      ],
+      "credit": {
+        "text": "AP/PA Images",
+        "url": false
+      },
+      "version": 3625524
+    },
+    "time_label": {
+      "is_displayed": true,
+      "is_replaced": false,
+      "replacement_text": null
+    }
+  },
+  {
+    "id": 3625288,
+    "title": "More than 50 people dead and over 200 injured in Las Vegas mass shooting",
+    "slug": "las-vegas-shooter",
+    "date": "2017-10-02 09:40:53",
+    "date_modified": "2017-10-02 12:04:59",
+    "date_published": "2017-10-02 07:00:55",
+    "is_updated": false,
+    "has_audio": "0",
+    "has_video": "0",
+    "has_slideshow": "0",
+    "is_hot_on_twitter": "0",
+    "publication": "thejournal",
+    "stats": {
+      "views": "137512",
+      "comments": "102",
+      "facebook": "231",
+      "twitter": "0",
+      "email": "5",
+      "dislikes": "0",
+      "likes": "0"
+    },
+    "syndication_source": "",
+    "seo_title": null,
+    "seo_description": null,
+    "is_sponsored": 0,
+    "sticky": null,
+    "header_url": null,
+    "internal_syndication_id": null,
+    "digest_key": "article_3625288",
+    "date_unix": 1506933653,
+    "date_modified_unix": 1506945899,
+    "status": "publish",
+    "is_exclusive": "0",
+    "excerpt": "The death toll makes it one of the deadliest mass shootings in United States history.",
+    "content": "<p><em><strong>Updated at 11.38am</strong></em></p>\n<p>OVER 50 PEOPLE have been killed and over 200 injured following a mass shooting in Las Vegas.</p>\n<p>Police also confirmed that the shooter was killed following the attack.</p>\n<p>At least one gunman opened fire on a large crowd at an open-air music festival in the city.</p>\n<p>Authorities swarmed the Strip after they received reports of an active shooter near the Route 91 Harvest country music festival.</p>\n<p>Concert-goers reported seeing muzzle flashes from the upper floors of the Mandalay Bay Hotel and Casino across Las Vegas Boulevard from the country music festival and the sound of what they described as automatic gun fire.</p>\n<p>It was confirmed that over 50 people were killed in the incident, which is believed to have been carried out by a lone gunman.</p>\n<p>Over 200 people have been admitted to hospital with injuries.</p>\n<p>Off-duty police officers were among the dead, police said.</p>\n<p>Police also said that one on-duty officer is in critical condition and another was wounded in the shooting.</p>\n<p>There was mass panic as concert-goers fled the scene of the attack. Videos from the incident show people running and cowering in fear as what sounds like machine gun fire is heard.</p>\n<p>Clark County’s sheriff said officers confronted the suspect on the 32nd floor of the Mandalay Bay Hotel and Casino across the street from the Route 91 Harvest Music Festival. Authorities say the man is dead.</p>\n<p>“This is an ongoing investigation, but we are comfortable that the primary aggressor in this event… has expired or passed away, and is no longer a threat,” said Las Vegas Metro Police Sheriff Joseph Lombardo.</p>\n<p>The incident is one of the worst mass shootings in US history and the deadliest since 49 people were killed at the Pulse nightclub in Orlando, Florida in June 2016.</p>\n<p>The gunman has been named as Stephen Paddock, 64-year-old Las Vegas resident. Police said they believe this was a “lone wolf” attack. Paddock is though to have checked into the hotel as a guest.</p>\n<p>Authorities were looking for two vehicles in relation to the incident, which they have since located. Police also said they found a woman - Marilou Danley – who they identified as a person of interest in the investigation.</p>\n<p>[embed id=\"embed_1\"]</p>\n<p><strong>The Shooting</strong></p>\n<p>The shooting took place at about 10.30pm local time Sunday night (6.30am Irish time Monday morning).</p>\n<p>[embed id=\"embed_3\"]</p>\n<p>[image id=\"image_1\"]</p>\n<p>Police said that off-duty officers were among the dead.</p>\n<p>MGM Resorts International – which runs the hotel where the shooting took place – released a statement saying that its hotels would remain on lock down until further notice.</p>\n<p><strong>“People were running and crying”</strong></p>\n<p>Tipperary native Martin Fogarty – who has been living in the US for 11 years – is staying in the Mandalay Bay hotel and was in the nearby MGM when the shooting broke out.</p>\n<p>[embed id=\"embed_2\"]</p>\n<p>“I was heading back to the hotel when my boss called me saying, ‘I’m not trying to freak you out but you need to stay where you are’,” Fogarty told <em>TheJournal.ie</em>.</p>\n<blockquote class=\"coloured\">\n<div>She said they were hearing what sounded like gunfire everywhere.</div>\n</blockquote>\n<p>Fogarty left MGM and went into Tropicana, where people were told to stay while the incident was ongoing.</p>\n<p>“After a while people just started streaming in. They were running, they were crying. A couple of people had minor injuries,” he said.</p>\n<p>Fogarty said that everyone was ordered to shelter in place at the hotel and that they were being moved down to a convention area.</p>\n<p>He said regular announcements over the intercom were advising people to remain safe and that the hotel they were sheltering in was secure.</p>\n<p>[image id=\"image_2\"]</p>\n<p><strong>“Beyond horrific”</strong></p>\n<p>Country music star Jason Aldean – who was performing onstage when the shooting broke out – posted on Instagram following the incident.</p>\n<p>“Tonight has been beyond horrific,” he said.</p>\n<p>“I still don’t know what to say but wanted to let everyone know that Me and my Crew are safe.</p>\n<blockquote class=\"coloured\">\n<div>My Thoughts and prayers go out to everyone involved tonight. It hurts my heart that this would happen to anyone who was just coming out to enjoy what should have been a fun night.</div>\n</blockquote>\n<p>Multiple videos from the festival show large crowds fleeing the area following bursts of what sounds like rapid gunfire.</p>\n<p>Witnesses said they saw multiple victims and dozens of ambulances near the concert venue. Some attendees later huddled in the basement of the nearby Tropicana hotel-casino.</p>\n<p>Officers carrying assault rifles ran into the Mandalay Bay Hotel and Casino.</p>\n<p>Authorities shut down part of the Las Vegas Strip and Interstate 15. Flights were temporarily halted at McCarran International Airport because of the shooting, the airport said on its verified Twitter account.</p>\n<p>The Irish Consulate in the US said that it was aware of the situation and advised citizens to follow the directions of the police.</p>\n<p><em>With reporting from Associated Press</em></p>\n<h3>Read: <a href=\"http://www.thejournal.ie/marseilles-attack-3625482-Oct2017/\">Islamic State claim responsibility for Marseilles knife attack</a>\n</h3>\n<h3>Read: <a href=\"http://www.thejournal.ie/malaysia-north-korea-assassination-trial-3625313-Oct2017/\">Two women accused of assassinating North Korean leader’s half brother plead not guilty at start of trial</a>\n</h3>\n",
+    "permalink": "http://www.thejournal.ie/las-vegas-shooter-3625288-Oct2017/",
+    "shortlink": "http://jrnl.ie/3625288",
+    "type": "post",
+    "secondary_publications": [],
+    "main_story_links": [
+      {
+        "text": "The shooter has been named as Las Vegas resident Stephen Paddock. The death toll makes it one of the deadliest mass shootings in United States history.",
+        "url": "http://www.thejournal.ie/las-vegas-shooter-3625288-Oct2017/"
+      },
+      {
+        "text": "",
+        "url": ""
+      }
+    ],
+    "categories": {
+      "thejournal": {
+        "id": "2",
+        "name": "International",
+        "slug": "international"
+      }
+    },
+    "publication_data": {
+      "primary": "thejournal",
+      "all": [
+        "thejournal"
+      ],
+      "categories": {
+        "thejournal": [
+          {
+            "id": "2",
+            "name": "International",
+            "slug": "international"
+          }
+        ]
+      }
+    },
+    "images": {
+      "thumbnail": {
+        "image": "http://c1.thejournal.ie/media/2017/10/vegas-strip-shooting-2-145x145.jpg",
+        "width": 145,
+        "height": 145
+      },
+      "medium": {
+        "image": "http://c1.thejournal.ie/media/2017/10/vegas-strip-shooting-2-296x184.jpg",
+        "width": 296,
+        "height": 184
+      },
+      "large": {
+        "image": "http://c1.thejournal.ie/media/2017/10/vegas-strip-shooting-2-630x391.jpg",
+        "width": 630,
+        "height": 391
+      },
+      "larger": {
+        "image": "http://c1.thejournal.ie/media/2017/10/vegas-strip-shooting-2-744x462.jpg",
+        "width": 744,
+        "height": 462
+      },
+      "river_0": {
+        "image": "http://c1.thejournal.ie/media/2017/10/vegas-strip-shooting-2-230x150.jpg",
+        "width": 230,
+        "height": 150
+      },
+      "river_1": {
+        "image": "http://c3.thejournal.ie/media/2017/10/vegas-strip-shooting-2-2300x1500.jpg",
+        "width": 2300,
+        "height": 1500
+      },
+      "article_page_0": {
+        "image": "http://c1.thejournal.ie/media/2017/10/vegas-strip-shooting-2-390x285.jpg",
+        "width": 390,
+        "height": 285
+      },
+      "square_0": {
+        "image": "http://c1.thejournal.ie/media/2017/10/vegas-strip-shooting-2-390x390.jpg",
+        "width": 390,
+        "height": 390
+      },
+      "square_1": {
+        "image": "http://c1.thejournal.ie/media/2017/10/vegas-strip-shooting-2-197x197.jpg",
+        "width": 197,
+        "height": 197
+      },
+      "square_2": {
+        "image": "http://c3.thejournal.ie/media/2017/10/vegas-strip-shooting-2-96x96.jpg",
+        "width": 96,
+        "height": 96
+      },
+      "square_3": {
+        "image": "http://c3.thejournal.ie/media/2017/10/vegas-strip-shooting-2-85x85.jpg",
+        "width": 85,
+        "height": 85
+      },
+      "square_4": {
+        "image": "http://c1.thejournal.ie/media/2017/10/vegas-strip-shooting-2-100x100.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "square_5": {
+        "image": "http://c3.thejournal.ie/media/2017/10/vegas-strip-shooting-2-2000x2000.jpg",
+        "width": 2000,
+        "height": 2000
+      },
+      "main_story_0": {
+        "image": "http://c1.thejournal.ie/media/2017/10/vegas-strip-shooting-2-630x260.jpg",
+        "width": 630,
+        "height": 260
+      },
+      "main_story_1": {
+        "image": "http://c0.thejournal.ie/media/2017/10/vegas-strip-shooting-2-210x87.jpg",
+        "width": 210,
+        "height": 87
+      },
+      "main_story_2": {
+        "image": "http://c1.thejournal.ie/media/2017/10/vegas-strip-shooting-2-290x120.jpg",
+        "width": 290,
+        "height": 120
+      },
+      "super_wide_0": {
+        "image": "http://c1.thejournal.ie/media/2017/10/vegas-strip-shooting-2-950x260.jpg",
+        "width": 950,
+        "height": 260
+      },
+      "super_wide_1": {
+        "image": "http://c0.thejournal.ie/media/2017/10/vegas-strip-shooting-2-290x80.jpg",
+        "width": 290,
+        "height": 80
+      },
+      "listings_0": {
+        "image": "http://c1.thejournal.ie/media/2017/10/vegas-strip-shooting-2-150x100.jpg",
+        "width": 150,
+        "height": 100
+      },
+      "listings_1": {
+        "image": "http://c3.thejournal.ie/media/2017/10/vegas-strip-shooting-2-80x50.jpg",
+        "width": 80,
+        "height": 50
+      },
+      "listings_2": {
+        "image": "http://c1.thejournal.ie/media/2017/10/vegas-strip-shooting-2-225x150.jpg",
+        "width": 225,
+        "height": 150
+      },
+      "listings_3": {
+        "image": "http://c1.thejournal.ie/media/2017/10/vegas-strip-shooting-2-300x200.jpg",
+        "width": 300,
+        "height": 200
+      },
+      "listings_4": {
+        "image": "http://c1.thejournal.ie/media/2017/10/vegas-strip-shooting-2-304x203.jpg",
+        "width": 304,
+        "height": 203
+      },
+      "listings_5": {
+        "image": "http://c1.thejournal.ie/media/2017/10/vegas-strip-shooting-2-752x501.jpg",
+        "width": 752,
+        "height": 501
+      },
+      "listings_6": {
+        "image": "http://c1.thejournal.ie/media/2017/10/vegas-strip-shooting-2-310x207.jpg",
+        "width": 310,
+        "height": 207
+      },
+      "offer_large_0": {
+        "image": "http://c1.thejournal.ie/media/2017/10/vegas-strip-shooting-2-458x298.jpg",
+        "width": 458,
+        "height": 298
+      },
+      "offer_medium_0": {
+        "image": "http://c1.thejournal.ie/media/2017/10/vegas-strip-shooting-2-298x194.jpg",
+        "width": 298,
+        "height": 194
+      },
+      "offer_small_0": {
+        "image": "http://c1.thejournal.ie/media/2017/10/vegas-strip-shooting-2-218x140.jpg",
+        "width": 218,
+        "height": 140
+      },
+      "river_magazine_0": {
+        "image": "http://c1.thejournal.ie/media/2017/10/vegas-strip-shooting-2-630x332.jpg",
+        "width": 630,
+        "height": 332
+      },
+      "hero_0": {
+        "image": "http://c2.thejournal.ie/media/2017/10/vegas-strip-shooting-2-1366x380.jpg",
+        "width": 1366,
+        "height": 380
+      },
+      "original": {
+        "image": "http://c1.thejournal.ie/media/2017/10/vegas-strip-shooting-2.jpg",
+        "width": false,
+        "height": false
+      }
+    },
+    "is_short_post": false,
+    "image_data": {
+      "orientation": "landscape",
+      "credit": "Chase Stevens/AP/Press Association Images",
+      "caption": "Medics treat the wounded as Las Vegas police respond during an active shooter situation on the Las Vegas Strip in Las Vegas",
+      "id": "3625433",
+      "raw_source": " Chase Stevens/AP/Press Association Images",
+      "raw_source_url": false
+    },
+    "show_image": true,
+    "slideshows": false,
+    "poll": false,
+    "by_line_author": false,
+    "has_liveblog": 0,
+    "has_active_liveblog": 0,
+    "liveblog": [],
+    "primary_tag": {
+      "slug": "las-vegas",
+      "name": "Las Vegas"
+    },
+    "tags": [
+      {
+        "name": "active shooter",
+        "slug": "active-shooter",
+        "description": "",
+        "count": "1"
+      },
+      {
+        "name": "Casino",
+        "slug": "casino",
+        "description": "",
+        "count": "20"
+      },
+      {
+        "name": "Las Vegas",
+        "slug": "las-vegas",
+        "description": "",
+        "count": "236"
+      },
+      {
+        "name": "none",
+        "slug": "none",
+        "description": "",
+        "count": 1
+      }
+    ],
+    "embeds": {
+      "embed_1": {
+        "id": "914782708831625216",
+        "type": "tweet",
+        "service": "twitter",
+        "tweet": {
+          "content": "Marilou Danley is being sought for questioning re the investigation into the active shooter incident. If seen pleas… <a href=\"https://t.co/SG3NkNNent\">twitter.com/i/web/status/9…</a>",
+          "images": [],
+          "created_at": "Mon Oct 02 09:22:48 +0000 2017",
+          "id_str": "914782708831625216",
+          "text": "Marilou Danley is being sought for questioning re the investigation into the active shooter incident. If seen pleas… https://t.co/SG3NkNNent",
+          "retweet_count": 2495,
+          "favourite_count": null,
+          "user": {
+            "id_str": "26303146",
+            "name": "LVMPD",
+            "screen_name": "LVMPD",
+            "location": "Las Vegas, Nevada",
+            "followers_count": 205646,
+            "profile_image_url_bigger": "http://cdn.thejournal.ie/embeds/f8294547dd34d5ce961b90649828e58e.jpg",
+            "profile_image_url_original": "http://cdn.thejournal.ie/embeds/b66d766c82a2c527ee2cfb986623a4be.jpg",
+            "verified": true
+          }
+        },
+        "iframe": "<iframe style=\"overflow: hidden; margin-bottom:0px\" width=\"500\" height=\"503\" src=\"http://www.thejournal.ie/embed.php?embed=JTNDYmxvY2txdW90ZStjbGFzcyUzRCUyMnR3aXR0ZXItdHdlZXQlMjIrZGF0YS13aWR0aCUzRCUyMjUwMCUyMiUzRSUzQ3ArbGFuZyUzRCUyMmVuJTIyK2RpciUzRCUyMmx0ciUyMiUzRU1hcmlsb3UrRGFubGV5K2lzK2JlaW5nK3NvdWdodCtmb3IrcXVlc3Rpb25pbmcrcmUrdGhlK2ludmVzdGlnYXRpb24raW50byt0aGUrYWN0aXZlK3Nob290ZXIraW5jaWRlbnQuK0lmK3NlZW4rcGxlYXNlK2NhbGwrOS0xLTElMjErJTNDYStocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZ0LmNvJTJGWjgzWHZjSGVqSCUyMiUzRXBpYy50d2l0dGVyLmNvbSUyRlo4M1h2Y0hlakglM0MlMkZhJTNFJTNDJTJGcCUzRSUyNm1kYXNoJTNCK0xWTVBEKyUyOCU0MExWTVBEJTI5KyUzQ2EraHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGdHdpdHRlci5jb20lMkZMVk1QRCUyRnN0YXR1cyUyRjkxNDc4MjcwODgzMTYyNTIxNiUzRnJlZl9zcmMlM0R0d3NyYyUyNTVFdGZ3JTIyJTNFT2N0b2JlcisyJTJDKzIwMTclM0MlMkZhJTNFJTNDJTJGYmxvY2txdW90ZSUzRSUzQ3NjcmlwdCthc3luYytzcmMlM0QlMjIlMkYlMkZwbGF0Zm9ybS50d2l0dGVyLmNvbSUyRndpZGdldHMuanMlMjIrY2hhcnNldCUzRCUyMnV0Zi04JTIyJTNFJTNDJTJGc2NyaXB0JTNF&hash=4dc671d6c0b494e3e15047bde0c0f504&service=twitter\"></iframe>",
+        "html": "<blockquote class=\"twitter-tweet\" data-width=\"500\"><p lang=\"en\" dir=\"ltr\">Marilou Danley is being sought for questioning re the investigation into the active shooter incident. If seen please call 9-1-1! <a href=\"https://t.co/Z83XvcHejH\">pic.twitter.com/Z83XvcHejH</a></p>&mdash; LVMPD (@LVMPD) <a href=\"https://twitter.com/LVMPD/status/914782708831625216?ref_src=twsrc%5Etfw\">October 2, 2017</a></blockquote><script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
+        "backup_image": {
+          "src": "http://cdn.thejournal.ie/embeds/twitter/f18d2dc893f80e19861289257f189872.png",
+          "width": 500,
+          "height": 447,
+          "alt": "Tweet by @LVMPD",
+          "title": "",
+          "caption": "",
+          "credit": "",
+          "id": "",
+          "class": "aligncenter"
+        },
+        "credit": {
+          "source": "LVMPD",
+          "url": "https://twitter.com/LVMPD",
+          "via": "",
+          "via_url": "",
+          "service_name": "Twitter",
+          "html": "Source: <a href=\"https://twitter.com/LVMPD\" >LVMPD</a>/Twitter"
+        },
+        "source": "https://twitter.com/LVMPD/status/914782708831625216"
+      },
+      "embed_2": {
+        "id": "914760142343643141",
+        "type": "tweet",
+        "service": "twitter",
+        "tweet": {
+          "content": "Still a heavy armed police presence here ",
+          "images": [
+            {
+              "url": "http://cdn.thejournal.ie/embeds/764c829945ed83c4441d5f9d75c952e9.jpg"
+            }
+          ],
+          "media": [
+            {
+              "url": "http://cdn.thejournal.ie/embeds/764c829945ed83c4441d5f9d75c952e9.jpg",
+              "type": "image"
+            }
+          ],
+          "created_at": "Mon Oct 02 07:53:08 +0000 2017",
+          "id_str": "914760142343643141",
+          "text": "Still a heavy armed police presence here https://t.co/qQccgzt9wH",
+          "retweet_count": 0,
+          "favourite_count": null,
+          "user": {
+            "id_str": "112223283",
+            "name": "Martin Fogarty",
+            "screen_name": "martin_fogarty",
+            "location": "Austin TX",
+            "followers_count": 124,
+            "profile_image_url_bigger": "http://cdn.thejournal.ie/embeds/ea9ba3f7367456f9bbb3a2a57a02236d.jpg",
+            "profile_image_url_original": "http://cdn.thejournal.ie/embeds/3626c9169ca60db65b42cee4a6cf4adc.jpg",
+            "verified": false
+          }
+        },
+        "iframe": "<iframe style=\"overflow: hidden; margin-bottom:0px\" width=\"500\" height=\"875\" src=\"http://www.thejournal.ie/embed.php?embed=JTNDYmxvY2txdW90ZStjbGFzcyUzRCUyMnR3aXR0ZXItdHdlZXQlMjIrZGF0YS13aWR0aCUzRCUyMjUwMCUyMiUzRSUzQ3ArbGFuZyUzRCUyMmVuJTIyK2RpciUzRCUyMmx0ciUyMiUzRVN0aWxsK2EraGVhdnkrYXJtZWQrcG9saWNlK3ByZXNlbmNlK2hlcmUrJTNDYStocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZ0LmNvJTJGcVFjY2d6dDl3SCUyMiUzRXBpYy50d2l0dGVyLmNvbSUyRnFRY2NnenQ5d0glM0MlMkZhJTNFJTNDJTJGcCUzRSUyNm1kYXNoJTNCK01hcnRpbitGb2dhcnR5KyUyOCU0MG1hcnRpbl9mb2dhcnR5JTI5KyUzQ2EraHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGdHdpdHRlci5jb20lMkZtYXJ0aW5fZm9nYXJ0eSUyRnN0YXR1cyUyRjkxNDc2MDE0MjM0MzY0MzE0MSUzRnJlZl9zcmMlM0R0d3NyYyUyNTVFdGZ3JTIyJTNFT2N0b2JlcisyJTJDKzIwMTclM0MlMkZhJTNFJTNDJTJGYmxvY2txdW90ZSUzRSUzQ3NjcmlwdCthc3luYytzcmMlM0QlMjIlMkYlMkZwbGF0Zm9ybS50d2l0dGVyLmNvbSUyRndpZGdldHMuanMlMjIrY2hhcnNldCUzRCUyMnV0Zi04JTIyJTNFJTNDJTJGc2NyaXB0JTNF&hash=3e028f61725c734c0fb30abf9d7d3d38&service=twitter\"></iframe>",
+        "html": "<blockquote class=\"twitter-tweet\" data-width=\"500\"><p lang=\"en\" dir=\"ltr\">Still a heavy armed police presence here <a href=\"https://t.co/qQccgzt9wH\">pic.twitter.com/qQccgzt9wH</a></p>&mdash; Martin Fogarty (@martin_fogarty) <a href=\"https://twitter.com/martin_fogarty/status/914760142343643141?ref_src=twsrc%5Etfw\">October 2, 2017</a></blockquote><script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
+        "backup_image": {
+          "src": "http://cdn.thejournal.ie/embeds/twitter/fbb00efad2047e2e7e0ca5b47065be6f.png",
+          "width": 500,
+          "height": 819,
+          "alt": "Tweet by @Martin Fogarty",
+          "title": "",
+          "caption": "",
+          "credit": "",
+          "id": "",
+          "class": "aligncenter"
+        },
+        "credit": {
+          "source": "Martin Fogarty",
+          "url": "https://twitter.com/martin_fogarty",
+          "via": "",
+          "via_url": "",
+          "service_name": "Twitter",
+          "html": "Source: <a href=\"https://twitter.com/martin_fogarty\" >Martin Fogarty</a>/Twitter"
+        },
+        "source": "https://twitter.com/martin_fogarty/status/914760142343643141"
+      },
+      "embed_3": {
+        "type": "ad",
+        "size": "mpu",
+        "id": "ad_3"
+      }
+    },
+    "inline_images": [
+      {
+        "src": "http://c3.thejournal.ie/media/2017/10/las-vegas-shooting-4.jpg",
+        "width": 5472,
+        "height": 3648,
+        "alt": "Las Vegas Shooting",
+        "title": "",
+        "caption": "A police officer runs along a sidewalk near a shooting near the Mandalay Bay resort and casino on the Las Vegas Strip.",
+        "credit": {
+          "source": "John Locher",
+          "service_name": "AP/Press Association Images",
+          "html": "Source: John Locher/AP/Press Association Images"
+        },
+        "id": "3625362",
+        "class": "aligncenter",
+        "key": "image_1",
+        "object_id": "3625362",
+        "object_type": "inline",
+        "version": "3625362"
+      },
+      {
+        "src": "http://c3.thejournal.ie/media/2017/10/las-vegas-shooting-5.jpg",
+        "width": 4000,
+        "height": 2882,
+        "alt": "Las Vegas Shooting",
+        "title": "",
+        "caption": "",
+        "credit": {
+          "source": "Chase Stevens",
+          "service_name": "AP/Press Association Images",
+          "html": "Source: Chase Stevens/AP/Press Association Images"
+        },
+        "id": "3625540",
+        "class": "aligncenter",
+        "key": "image_2",
+        "object_id": "3625540",
+        "object_type": "inline",
+        "version": "3625540"
+      }
+    ],
+    "comments_allowed": 1,
+    "river_format": "landscape",
+    "author": {
+      "id": "3970",
+      "name": "Cormac Fitzgerald",
+      "email": "cormac@thejournal.ie",
+      "twitter": "cormfitz",
+      "description": "",
+      "googleplus": "",
+      "slug": "cormac-fitzgerald",
+      "publication": "",
+      "is_admin": true,
+      "avatar": "https://f2.thejournal.ie/media/2016/05/IMG_7444_2500-pix_72dpi-133x133.jpg",
+      "is_syndication": false
+    },
+    "admin_author": {
+      "id": "158",
+      "name": "Cormac Fitzgerald",
+      "email": "cormac@thejournal.ie"
+    },
+    "banner_video": {
+      "has_banner_video": false,
+      "embed": null
+    },
+    "advertising": {
+      "targets": [
+        {
+          "key": "targeting-key",
+          "values": [
+            "active-shooter",
+            "casino",
+            "las-vegas"
+          ]
+        },
+        {
+          "key": "targetingkey",
+          "values": [
+            "active-shooter",
+            "casino",
+            "las-vegas"
+          ]
+        }
+      ],
+      "dfp_unit_template": "regular_%s",
+      "dfp_units": {
+        "dfp_footer": false,
+        "dfp_logo": false,
+        "dfp_mpu": false
+      }
+    },
+    "retargeting": [
+      {
+        "key": "international_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "international_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      }
+    ],
+    "id_name": "article",
+    "primary_image": {
+      "id": 3625288,
+      "object_id": 3625288,
+      "object_type": "article",
+      "crops": [
+        "original"
+      ],
+      "credit": {
+        "text": " Chase Stevens/AP/Press Association Images",
+        "url": false
+      },
+      "version": 3625433
+    },
+    "time_label": {
+      "is_displayed": true,
+      "is_replaced": false,
+      "replacement_text": null
+    }
+  },
+  {
+    "type": "ad_campaign",
+    "id": "3619565",
+    "ad_carousel": [
+      {
+        "type": "river_link",
+        "id": 3619569,
+        "title": "3 ingredients that will always add a touch of luxury - plus super-simple recipe inspirations",
+        "excerpt": "Lidl's exclusive DELUXE range runs from tasty light bites to after-dinner treats.",
+        "stats": {
+          "views": "538",
+          "comments": "0",
+          "facebook": "0",
+          "twitter": "0",
+          "email": "0",
+          "dislikes": "0",
+          "likes": "0"
+        },
+        "images": {
+          "thumbnail": {
+            "image": "http://c2.thejournal.ie/media/2017/09/duck-portrait-dark-lowres-2-145x145.jpg",
+            "width": 145,
+            "height": 145
+          },
+          "medium": {
+            "image": "http://c2.thejournal.ie/media/2017/09/duck-portrait-dark-lowres-2-266x400.jpg",
+            "width": 266,
+            "height": 400
+          },
+          "large": {
+            "image": "http://c2.thejournal.ie/media/2017/09/duck-portrait-dark-lowres-2-333x500.jpg",
+            "width": 333,
+            "height": 500
+          },
+          "larger": {
+            "image": "http://c2.thejournal.ie/media/2017/09/duck-portrait-dark-lowres-2-496x744.jpg",
+            "width": 496,
+            "height": 744
+          },
+          "river_0": {
+            "image": "http://c2.thejournal.ie/media/2017/09/duck-portrait-dark-lowres-2-230x150.jpg",
+            "width": 230,
+            "height": 150
+          },
+          "river_1": {
+            "image": "http://c0.thejournal.ie/media/2017/09/duck-portrait-dark-lowres-2-2300x1500.jpg",
+            "width": 2300,
+            "height": 1500
+          },
+          "article_page_0": {
+            "image": "http://c2.thejournal.ie/media/2017/09/duck-portrait-dark-lowres-2-390x285.jpg",
+            "width": 390,
+            "height": 285
+          },
+          "square_0": {
+            "image": "http://c2.thejournal.ie/media/2017/09/duck-portrait-dark-lowres-2-390x390.jpg",
+            "width": 390,
+            "height": 390
+          },
+          "square_1": {
+            "image": "http://c2.thejournal.ie/media/2017/09/duck-portrait-dark-lowres-2-197x197.jpg",
+            "width": 197,
+            "height": 197
+          },
+          "square_2": {
+            "image": "http://c0.thejournal.ie/media/2017/09/duck-portrait-dark-lowres-2-96x96.jpg",
+            "width": 96,
+            "height": 96
+          },
+          "square_3": {
+            "image": "http://c0.thejournal.ie/media/2017/09/duck-portrait-dark-lowres-2-85x85.jpg",
+            "width": 85,
+            "height": 85
+          },
+          "square_4": {
+            "image": "http://c2.thejournal.ie/media/2017/09/duck-portrait-dark-lowres-2-100x100.jpg",
+            "width": 100,
+            "height": 100
+          },
+          "square_5": {
+            "image": "http://c0.thejournal.ie/media/2017/09/duck-portrait-dark-lowres-2-2000x2000.jpg",
+            "width": 2000,
+            "height": 2000
+          },
+          "main_story_0": {
+            "image": "http://c2.thejournal.ie/media/2017/09/duck-portrait-dark-lowres-2-630x260.jpg",
+            "width": 630,
+            "height": 260
+          },
+          "main_story_1": {
+            "image": "http://c1.thejournal.ie/media/2017/09/duck-portrait-dark-lowres-2-210x87.jpg",
+            "width": 210,
+            "height": 87
+          },
+          "main_story_2": {
+            "image": "http://c2.thejournal.ie/media/2017/09/duck-portrait-dark-lowres-2-290x120.jpg",
+            "width": 290,
+            "height": 120
+          },
+          "super_wide_0": {
+            "image": "http://c2.thejournal.ie/media/2017/09/duck-portrait-dark-lowres-2-950x260.jpg",
+            "width": 950,
+            "height": 260
+          },
+          "super_wide_1": {
+            "image": "http://c1.thejournal.ie/media/2017/09/duck-portrait-dark-lowres-2-290x80.jpg",
+            "width": 290,
+            "height": 80
+          },
+          "listings_0": {
+            "image": "http://c2.thejournal.ie/media/2017/09/duck-portrait-dark-lowres-2-150x100.jpg",
+            "width": 150,
+            "height": 100
+          },
+          "listings_1": {
+            "image": "http://c0.thejournal.ie/media/2017/09/duck-portrait-dark-lowres-2-80x50.jpg",
+            "width": 80,
+            "height": 50
+          },
+          "listings_2": {
+            "image": "http://c2.thejournal.ie/media/2017/09/duck-portrait-dark-lowres-2-225x150.jpg",
+            "width": 225,
+            "height": 150
+          },
+          "listings_3": {
+            "image": "http://c2.thejournal.ie/media/2017/09/duck-portrait-dark-lowres-2-300x200.jpg",
+            "width": 300,
+            "height": 200
+          },
+          "listings_4": {
+            "image": "http://c2.thejournal.ie/media/2017/09/duck-portrait-dark-lowres-2-304x203.jpg",
+            "width": 304,
+            "height": 203
+          },
+          "listings_5": {
+            "image": "http://c2.thejournal.ie/media/2017/09/duck-portrait-dark-lowres-2-752x501.jpg",
+            "width": 752,
+            "height": 501
+          },
+          "listings_6": {
+            "image": "http://c2.thejournal.ie/media/2017/09/duck-portrait-dark-lowres-2-310x207.jpg",
+            "width": 310,
+            "height": 207
+          },
+          "offer_large_0": {
+            "image": "http://c2.thejournal.ie/media/2017/09/duck-portrait-dark-lowres-2-458x298.jpg",
+            "width": 458,
+            "height": 298
+          },
+          "offer_medium_0": {
+            "image": "http://c2.thejournal.ie/media/2017/09/duck-portrait-dark-lowres-2-298x194.jpg",
+            "width": 298,
+            "height": 194
+          },
+          "offer_small_0": {
+            "image": "http://c2.thejournal.ie/media/2017/09/duck-portrait-dark-lowres-2-218x140.jpg",
+            "width": 218,
+            "height": 140
+          },
+          "river_magazine_0": {
+            "image": "http://c2.thejournal.ie/media/2017/09/duck-portrait-dark-lowres-2-630x332.jpg",
+            "width": 630,
+            "height": 332
+          },
+          "hero_0": {
+            "image": "http://c3.thejournal.ie/media/2017/09/duck-portrait-dark-lowres-2-1366x380.jpg",
+            "width": 1366,
+            "height": 380
+          },
+          "original": {
+            "image": "http://c2.thejournal.ie/media/2017/09/duck-portrait-dark-lowres-2.jpg",
+            "width": false,
+            "height": false
+          }
+        },
+        "shortlink": "http://jrnl.ie/r/2472160",
+        "permalink": "http://www.thejournal.ie/river/lidl-digital-insert-2472160-Sep2017/",
+        "campaign_id": "3619565",
+        "banner_video": {
+          "has_banner_video": false,
+          "embed": null
+        },
+        "advertising": {
+          "targets": [
+            {
+              "key": "targeting-key",
+              "values": [
+                "campaign-3619565"
+              ]
+            },
+            {
+              "key": "targetingkey",
+              "values": [
+                "campaign-3619565"
+              ]
+            }
+          ],
+          "dfp_unit_template": "regular_%s",
+          "dfp_units": {
+            "dfp_footer": false,
+            "dfp_logo": false,
+            "dfp_mpu": false
+          }
+        },
+        "embeds": {
+          "embed_1": {
+            "type": "ad",
+            "size": "mpu",
+            "id": "ad_1"
+          }
+        },
+        "content": "<p>[embed id=\"embed_1\"]</p>",
+        "id_name": "river",
+        "is_supplement": false,
+        "supplement": false,
+        "river": {
+          "id": 2472160,
+          "display_settings": {
+            "layout": "hero"
+          }
+        },
+        "primary_image": {
+          "id": 3619569,
+          "object_id": 3619569,
+          "object_type": "article",
+          "crops": [
+            "original"
+          ],
+          "src": "http://p0.thejournal.ie/article/3619569//",
+          "hash": "5cfc7aa2e056f8b436edf4be8d79df72",
+          "credit": {
+            "text": false,
+            "url": false
+          },
+          "version": "ae5b4"
+        }
+      }
+    ],
+    "date": "2017-10-02 06:00:00",
+    "sponsor_assets": {
+      "sponsor_title": "Lidl",
+      "client_slug": "lidl",
+      "client_id": "94",
+      "valid_period": "",
+      "fine_print": "",
+      "desktop_fine_print": "",
+      "mobile_fine_print": "<div class=\"mobile_extra\"></div>",
+      "sponsor_icons": {
+        "ios": {
+          "large": {
+            "url": "http://cdn.thejournal.ie/media/2017/09/Lidl_LOGO-45x45.png",
+            "width": "45",
+            "height": "45"
+          },
+          "standard": {
+            "url": "http://cdn.thejournal.ie/media/2017/09/Lidl_LOGO-40x40.png",
+            "width": "40",
+            "height": "40"
+          }
+        },
+        "android": {
+          "large": {
+            "url": "http://cdn.thejournal.ie/media/2017/09/Lidl_LOGO-45x45.png",
+            "width": "45",
+            "height": "45"
+          },
+          "standard": {
+            "url": "http://cdn.thejournal.ie/media/2017/09/Lidl_LOGO-40x40.png",
+            "width": "40",
+            "height": "40"
+          }
+        },
+        "web": {
+          "standard": {
+            "url": "http://cdn.thejournal.ie/media/2017/09/Lidl_LOGO-45x45.png",
+            "width": "45",
+            "height": "45"
+          }
+        },
+        "author": {
+          "standard": {
+            "url": "http://cdn.thejournal.ie/media/2017/09/Lidl_LOGO-100x100.png",
+            "width": "100",
+            "height": "100"
+          }
+        },
+        "sponsor_logo": {
+          "standard": {
+            "url": "http://cdn.thejournal.ie/media/2017/09/Lidl-Sponsored-by-140x80.png",
+            "width": "140",
+            "height": "80"
+          }
+        },
+        "touch_footer": {
+          "standard": null
+        },
+        "v4_rivers": {
+          "standard": {
+            "url": "http://cdn.thejournal.ie/media/2017/09/Lidl_LOGO-45x45.png",
+            "width": "45",
+            "height": "45"
+          }
+        }
+      },
+      "sponsor_bar": {
+        "ios": {
+          "large": {
+            "url": "http://cdn.thejournal.ie/media/2017/09/wk39_deluxe_950x170.jpg",
+            "width": "950",
+            "height": "170",
+            "link": "https://ad.doubleclick.net/ddm/clk/405991608;206191811;g"
+          },
+          "standard": {
+            "url": "http://cdn.thejournal.ie/media/2017/09/wk39_deluxe_950x1701.jpg",
+            "width": "950",
+            "height": "170",
+            "link": "https://ad.doubleclick.net/ddm/clk/405991608;206191811;g"
+          }
+        },
+        "android": {
+          "large": {
+            "url": "http://cdn.thejournal.ie/media/2017/09/wk39_deluxe_950x170.jpg",
+            "width": "950",
+            "height": "170",
+            "link": "https://ad.doubleclick.net/ddm/clk/405991608;206191811;g"
+          },
+          "standard": {
+            "url": "http://cdn.thejournal.ie/media/2017/09/wk39_deluxe_950x1701.jpg",
+            "width": "950",
+            "height": "170",
+            "link": "https://ad.doubleclick.net/ddm/clk/405991608;206191811;g"
+          }
+        },
+        "web": {
+          "standard": {
+            "url": "http://cdn.thejournal.ie/media/2017/09/wk39_deluxe_950x1701.jpg",
+            "width": "950",
+            "height": "170",
+            "link": "https://ad.doubleclick.net/ddm/clk/405991608;206191811;g"
+          }
+        }
+      },
+      "standard_ads": false
+    },
+    "retargeting": null,
+    "publications": [
+      "thejournal"
+    ],
+    "trackers": [
+      {
+        "service": "dfp",
+        "targeting": {
+          "campaign_id": "3619565"
+        }
+      }
+    ]
+  },
+  {
+    "id": 3625460,
+    "title": "Poll: Should the Irish government criticise the intervention of Spanish police in Catalonia's referendum?",
+    "slug": "poll-spanish-police-varadkar-coveney",
+    "date": "2017-10-02 09:27:25",
+    "date_modified": "2017-10-02 09:41:29",
+    "date_published": "2017-10-02 09:27:38",
+    "is_updated": false,
+    "has_audio": "0",
+    "has_video": "0",
+    "has_slideshow": "0",
+    "is_hot_on_twitter": "0",
+    "publication": "thejournal",
+    "stats": {
+      "views": "17613",
+      "comments": "124",
+      "facebook": "79",
+      "twitter": "0",
+      "email": "1",
+      "dislikes": "0",
+      "likes": "0"
+    },
+    "syndication_source": "",
+    "seo_title": null,
+    "seo_description": null,
+    "is_sponsored": 0,
+    "sticky": null,
+    "header_url": null,
+    "internal_syndication_id": null,
+    "digest_key": "article_3625460",
+    "date_unix": 1506932845,
+    "date_modified_unix": 1506937289,
+    "status": "publish",
+    "is_exclusive": "0",
+    "excerpt": "The aggressive intervention of the Spanish police in the weekend&#8217;s referendum has been criticised by many European leaders.",
+    "content": "<p>THE CONTENTIOUS REFERENDUM in Catalonia over the weekend has created plenty of questions.</p>\n<p>With the north-eastern region’s government declaring that its people have won the right to independence, and the Spanish government firmly denying the legitimacy of the referendum, the scene has been set for a political drama in Spain the likes of which hasn’t been seen for 40 years.</p>\n<p>[embed id=\"embed_1\"]</p>\n<p>One thing that appears to have united many international leaders is their condemnation of the actions of Spanish police, who were deployed to prevent the poll from taking place, which in turn led to often-violent clashes with protesters and even the local fire services who stood in a protective cordon around voters to prevent them being reached by riot police.</p>\n<p>But neither Ireland’s Taoiseach Leo Varadkar nor its Minister for Foreign Affairs Simon Coveney have said anything official regarding the conduct of the Spanish authorities, with Sinn Féin TD Eoin Ó Broin, who was present in Catalonia, yesterday saying that Varadkar and Coveney must “publicly condemn this… violence and call on the Spanish government to allow the people of Catalonia to conduct their democratic rights in peace”.</p>\n<p>But do you agree?</p>\n<p><strong>We’re asking:</strong> Should the Irish government criticise the intervention of Spanish police in Catalonia’s referendum?<br>\n[poll id=\"3625460\"]</p>\n",
+    "permalink": "http://www.thejournal.ie/poll-spanish-police-varadkar-coveney-3625460-Oct2017/",
+    "shortlink": "http://jrnl.ie/3625460",
+    "type": "post",
+    "secondary_publications": [],
+    "main_story_links": [
+      {
+        "text": "",
+        "url": ""
+      },
+      {
+        "text": "",
+        "url": ""
+      }
+    ],
+    "categories": {
+      "thejournal": {
+        "id": "5",
+        "name": "Living",
+        "slug": "living"
+      }
+    },
+    "publication_data": {
+      "primary": "thejournal",
+      "all": [
+        "thejournal"
+      ],
+      "categories": {
+        "thejournal": [
+          {
+            "id": "1",
+            "name": "Irish",
+            "slug": "irish"
+          },
+          {
+            "id": "18",
+            "name": "Politics",
+            "slug": "politics"
+          },
+          {
+            "id": "2",
+            "name": "International",
+            "slug": "international"
+          },
+          {
+            "id": "5",
+            "name": "Living",
+            "slug": "living"
+          }
+        ]
+      }
+    },
+    "images": {
+      "thumbnail": {
+        "image": "http://c1.thejournal.ie/media/2017/10/poll-spanish-police-varadkar-coveney-3-145x145.jpg",
+        "width": 145,
+        "height": 145
+      },
+      "medium": {
+        "image": "http://c1.thejournal.ie/media/2017/10/poll-spanish-police-varadkar-coveney-3-296x197.jpg",
+        "width": 296,
+        "height": 197
+      },
+      "large": {
+        "image": "http://c1.thejournal.ie/media/2017/10/poll-spanish-police-varadkar-coveney-3-630x419.jpg",
+        "width": 630,
+        "height": 419
+      },
+      "larger": {
+        "image": "http://c1.thejournal.ie/media/2017/10/poll-spanish-police-varadkar-coveney-3-744x495.jpg",
+        "width": 744,
+        "height": 495
+      },
+      "river_0": {
+        "image": "http://c1.thejournal.ie/media/2017/10/poll-spanish-police-varadkar-coveney-3-230x150.jpg",
+        "width": 230,
+        "height": 150
+      },
+      "river_1": {
+        "image": "http://c3.thejournal.ie/media/2017/10/poll-spanish-police-varadkar-coveney-3-2300x1500.jpg",
+        "width": 2300,
+        "height": 1500
+      },
+      "article_page_0": {
+        "image": "http://c1.thejournal.ie/media/2017/10/poll-spanish-police-varadkar-coveney-3-390x285.jpg",
+        "width": 390,
+        "height": 285
+      },
+      "square_0": {
+        "image": "http://c1.thejournal.ie/media/2017/10/poll-spanish-police-varadkar-coveney-3-390x390.jpg",
+        "width": 390,
+        "height": 390
+      },
+      "square_1": {
+        "image": "http://c1.thejournal.ie/media/2017/10/poll-spanish-police-varadkar-coveney-3-197x197.jpg",
+        "width": 197,
+        "height": 197
+      },
+      "square_2": {
+        "image": "http://c3.thejournal.ie/media/2017/10/poll-spanish-police-varadkar-coveney-3-96x96.jpg",
+        "width": 96,
+        "height": 96
+      },
+      "square_3": {
+        "image": "http://c3.thejournal.ie/media/2017/10/poll-spanish-police-varadkar-coveney-3-85x85.jpg",
+        "width": 85,
+        "height": 85
+      },
+      "square_4": {
+        "image": "http://c1.thejournal.ie/media/2017/10/poll-spanish-police-varadkar-coveney-3-100x100.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "square_5": {
+        "image": "http://c3.thejournal.ie/media/2017/10/poll-spanish-police-varadkar-coveney-3-2000x2000.jpg",
+        "width": 2000,
+        "height": 2000
+      },
+      "main_story_0": {
+        "image": "http://c1.thejournal.ie/media/2017/10/poll-spanish-police-varadkar-coveney-3-630x260.jpg",
+        "width": 630,
+        "height": 260
+      },
+      "main_story_1": {
+        "image": "http://c0.thejournal.ie/media/2017/10/poll-spanish-police-varadkar-coveney-3-210x87.jpg",
+        "width": 210,
+        "height": 87
+      },
+      "main_story_2": {
+        "image": "http://c1.thejournal.ie/media/2017/10/poll-spanish-police-varadkar-coveney-3-290x120.jpg",
+        "width": 290,
+        "height": 120
+      },
+      "super_wide_0": {
+        "image": "http://c1.thejournal.ie/media/2017/10/poll-spanish-police-varadkar-coveney-3-950x260.jpg",
+        "width": 950,
+        "height": 260
+      },
+      "super_wide_1": {
+        "image": "http://c0.thejournal.ie/media/2017/10/poll-spanish-police-varadkar-coveney-3-290x80.jpg",
+        "width": 290,
+        "height": 80
+      },
+      "listings_0": {
+        "image": "http://c1.thejournal.ie/media/2017/10/poll-spanish-police-varadkar-coveney-3-150x100.jpg",
+        "width": 150,
+        "height": 100
+      },
+      "listings_1": {
+        "image": "http://c3.thejournal.ie/media/2017/10/poll-spanish-police-varadkar-coveney-3-80x50.jpg",
+        "width": 80,
+        "height": 50
+      },
+      "listings_2": {
+        "image": "http://c1.thejournal.ie/media/2017/10/poll-spanish-police-varadkar-coveney-3-225x150.jpg",
+        "width": 225,
+        "height": 150
+      },
+      "listings_3": {
+        "image": "http://c1.thejournal.ie/media/2017/10/poll-spanish-police-varadkar-coveney-3-300x200.jpg",
+        "width": 300,
+        "height": 200
+      },
+      "listings_4": {
+        "image": "http://c1.thejournal.ie/media/2017/10/poll-spanish-police-varadkar-coveney-3-304x203.jpg",
+        "width": 304,
+        "height": 203
+      },
+      "listings_5": {
+        "image": "http://c1.thejournal.ie/media/2017/10/poll-spanish-police-varadkar-coveney-3-752x501.jpg",
+        "width": 752,
+        "height": 501
+      },
+      "listings_6": {
+        "image": "http://c1.thejournal.ie/media/2017/10/poll-spanish-police-varadkar-coveney-3-310x207.jpg",
+        "width": 310,
+        "height": 207
+      },
+      "offer_large_0": {
+        "image": "http://c1.thejournal.ie/media/2017/10/poll-spanish-police-varadkar-coveney-3-458x298.jpg",
+        "width": 458,
+        "height": 298
+      },
+      "offer_medium_0": {
+        "image": "http://c1.thejournal.ie/media/2017/10/poll-spanish-police-varadkar-coveney-3-298x194.jpg",
+        "width": 298,
+        "height": 194
+      },
+      "offer_small_0": {
+        "image": "http://c1.thejournal.ie/media/2017/10/poll-spanish-police-varadkar-coveney-3-218x140.jpg",
+        "width": 218,
+        "height": 140
+      },
+      "river_magazine_0": {
+        "image": "http://c1.thejournal.ie/media/2017/10/poll-spanish-police-varadkar-coveney-3-630x332.jpg",
+        "width": 630,
+        "height": 332
+      },
+      "hero_0": {
+        "image": "http://c2.thejournal.ie/media/2017/10/poll-spanish-police-varadkar-coveney-3-1366x380.jpg",
+        "width": 1366,
+        "height": 380
+      },
+      "original": {
+        "image": "http://c0.thejournal.ie/media/2017/10/catalan-independence-referendum-3.jpg",
+        "width": false,
+        "height": false
+      }
+    },
+    "is_short_post": false,
+    "image_data": {
+      "orientation": "landscape",
+      "credit": "Almagro/ABACA",
+      "caption": "",
+      "id": "3625532",
+      "raw_source": "Almagro/ABACA",
+      "raw_source_url": false
+    },
+    "show_image": true,
+    "slideshows": false,
+    "poll": {
+      "3625460": [
+        {
+          "question": "Yes",
+          "count": 2217,
+          "key": 0
+        },
+        {
+          "question": "No",
+          "count": 686,
+          "key": 1
+        },
+        {
+          "question": "I don't know",
+          "count": 160,
+          "key": 2
+        }
+      ]
+    },
+    "by_line_author": false,
+    "has_liveblog": 0,
+    "has_active_liveblog": 0,
+    "liveblog": [],
+    "primary_tag": {
+      "slug": "your-say",
+      "name": "Your Say"
+    },
+    "tags": [
+      {
+        "name": "Catalonia",
+        "slug": "catalonia",
+        "description": "",
+        "count": "45"
+      },
+      {
+        "name": "Eoin Ó Broin",
+        "slug": "eoin-o-broin",
+        "description": "",
+        "count": "18"
+      },
+      {
+        "name": "Independence referendum",
+        "slug": "independence-referendum",
+        "description": "",
+        "count": "4"
+      },
+      {
+        "name": "intervention",
+        "slug": "intervention",
+        "description": "",
+        "count": "32"
+      },
+      {
+        "name": "Leo Varadkar",
+        "slug": "leo-varadkar",
+        "description": "Leo Varadkar is a Dublin West TD and the Minister for Transport, Tourism and Sport. He was first elected to the Dail in 2007 and was the Fine Gael Spokesperson on Enterprise, Trade and Employment and then Communications, Energy and Natural Resources. Varadkar is a doctor and studied medicine at Trinity College.",
+        "image": "http://cdn.thejournal.ie/media/2011/03/leovaradkar-145x145.jpg",
+        "count": "976"
+      },
+      {
+        "name": "Police",
+        "slug": "police",
+        "description": "",
+        "count": "1513"
+      },
+      {
+        "name": "Poll",
+        "slug": "poll",
+        "description": "",
+        "count": "2407"
+      },
+      {
+        "name": "Simon Coveney",
+        "slug": "simon-coveney",
+        "description": "Simon Coveney is a sitting Fine Gael TD for the Cork South Central constituency and the Minister for Agriculture, Marine and Food. Coveney was elected to his father's seat in 1998 following his death. Coveney has held many positions within the party, including assistant Chief Whip, Secretary of the Parliamentary Party and Spokesperson for Communications.",
+        "image": "http://cdn.thejournal.ie/media/2011/03/simoncoveney-145x145.jpg",
+        "count": "467"
+      },
+      {
+        "name": "Taoiseach",
+        "slug": "taoiseach",
+        "description": "The Irish for prime minister. The Taoiseach is elected by the members of Dail Eireann and then appointed by the Taoiseach. The current Taoiseach is Brian Cowen.",
+        "image": "http://home.thejournal.ie/media/2010/09/dept-of-taoiseach-145x145.jpg",
+        "count": "573"
+      },
+      {
+        "name": "Violence",
+        "slug": "violence",
+        "description": "",
+        "count": "498"
+      },
+      {
+        "name": "Your Say",
+        "slug": "your-say",
+        "description": "",
+        "count": "2579"
+      }
+    ],
+    "embeds": {
+      "embed_1": {
+        "type": "ad",
+        "size": "mpu",
+        "id": "ad_1"
+      }
+    },
+    "inline_images": [],
+    "comments_allowed": 1,
+    "river_format": "landscape",
+    "author": {
+      "id": "3491",
+      "name": "Cianan Brennan",
+      "email": "cianan@thejournal.ie",
+      "twitter": "ciananbrennan",
+      "description": "",
+      "googleplus": "",
+      "slug": "cianan-brennan",
+      "publication": "",
+      "is_admin": true,
+      "avatar": "https://f2.thejournal.ie/media/2015/10/Cianan-Brennan2-133x133.jpg",
+      "is_syndication": false
+    },
+    "admin_author": {
+      "id": "143",
+      "name": "Cianan Brennan",
+      "email": "cianan@thejournal.ie"
+    },
+    "banner_video": {
+      "has_banner_video": false,
+      "embed": null
+    },
+    "advertising": {
+      "targets": [
+        {
+          "key": "targeting-key",
+          "values": [
+            "catalonia",
+            "eoin-o-broin",
+            "independence-referendum",
+            "intervention",
+            "leo-varadkar",
+            "police",
+            "poll",
+            "simon-coveney",
+            "taoiseach",
+            "violence",
+            "your-say"
+          ]
+        },
+        {
+          "key": "targetingkey",
+          "values": [
+            "catalonia",
+            "eoin-o-broin",
+            "independence-referendum",
+            "intervention",
+            "leo-varadkar",
+            "police",
+            "poll",
+            "simon-coveney",
+            "taoiseach",
+            "violence",
+            "your-say"
+          ]
+        }
+      ],
+      "dfp_unit_template": "regular_%s",
+      "dfp_units": {
+        "dfp_footer": true,
+        "dfp_logo": false,
+        "dfp_mpu": true
+      }
+    },
+    "retargeting": [
+      {
+        "key": "irish_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "irish_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "politics_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "politics_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "politics_fan",
+        "bucket_ttl": 5184000,
+        "threshold": 3,
+        "threshold_window": 604800
+      },
+      {
+        "key": "international_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "international_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      }
+    ],
+    "id_name": "article",
+    "primary_image": {
+      "id": 3625460,
+      "object_id": 3625460,
+      "object_type": "article",
+      "crops": [
+        "original"
+      ],
+      "credit": {
+        "text": "Almagro/ABACA",
+        "url": false
+      },
+      "version": 3625532
+    },
+    "time_label": {
+      "is_displayed": true,
+      "is_replaced": false,
+      "replacement_text": null
+    }
+  }
+]

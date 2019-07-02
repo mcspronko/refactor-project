@@ -1,0 +1,4299 @@
+[
+  {
+    "id": 3601026,
+    "title": "EU ministers are trying to make Facebook and Google pay more tax",
+    "slug": "facebook-tax-google",
+    "date": "2017-09-16 12:08:29",
+    "date_modified": "2017-09-16 12:09:16",
+    "date_published": "2017-09-16 12:08:40",
+    "is_updated": false,
+    "has_audio": "0",
+    "has_video": "0",
+    "has_slideshow": "0",
+    "is_hot_on_twitter": "0",
+    "publication": "thejournal",
+    "stats": {
+      "views": "5599",
+      "comments": "33",
+      "facebook": "2",
+      "twitter": "0",
+      "email": "0",
+      "dislikes": "0",
+      "likes": "0"
+    },
+    "syndication_source": "afp",
+    "seo_title": null,
+    "seo_description": null,
+    "is_sponsored": 0,
+    "sticky": null,
+    "header_url": null,
+    "internal_syndication_id": null,
+    "digest_key": "article_3601026",
+    "date_unix": 1505560109,
+    "date_modified_unix": 1505563756,
+    "status": "publish",
+    "is_exclusive": "0",
+    "excerpt": "At least 10 ministers have called for it.",
+    "content": "<p>GOOGLE AND FACEBOOK may face higher tax bills in Europe as the EU rushed to change rules so that more of Silicon Valley’s mega profits fall into public coffers.</p>\n<p>Public anger against the billions of euros earned by online companies is growing louder in Europe and EU finance ministers meeting in Estonia pledged to make sure the companies pay a fairer tax.</p>\n<p>But divisions emerged on how to go about taking on the giants, with several member states worried that a tax in Europe could push the companies to set up shop in Asia.</p>\n<p>In the digital age “the current taxation system no longer applies and that is why we have to find another solution”, said Toomas Toniste, finance minister of Estonia, which hold the EU’s six-month rotating presidency.</p>\n<p>Led by France and Germany, big EU powers urged their bloc partners to explore an emergency tax so that the giants pay tax where they earn revenue, instead of on profits booked in a low-tax EU HQ of their choice, often Ireland or Luxembourg.</p>\n<p>“We are now about 10 countries to back this idea,” said French Finance Minister Bruno Le Maire as stepped into the talks.</p>\n<p>But the road ahead will be difficult. Europe-wide tax reform is a huge headache in the European Union, requiring unanimity of all 28 states, which has proven nearly impossible on tax issues.</p>\n<p>Ministers from smaller member states already hinted at difficulties, warning that they would much prefer the problem be addressed at the international level, such as at the G20 or through the OECD, the club of rich nations.</p>\n<p>[embed id=\"embed_1\"]</p>\n<p>“I think we should be very careful not to tax on what we are going to live on in the future,” said Danish Finance Minister Kristian Jensen.</p>\n<p>“I am… always sceptical by new taxes and I think Europe taxes heavily enough,” he added.</p>\n<p>The OECD has also poured doubt on the proposal.</p>\n<p>Generally speaking, “taxes on revenues, they’re daft”, said Pascal Saint-Amans, the OECD’s tax policy director during a hearing on Wednesday at the French parliament.</p>\n<p>But “politically, I understand that it may be necessary, given that reform led by the OECD at the G20 level could take years to achieve”.</p>\n<p>The commission, the EU’s executive arm, has been tasked to draw up a set of solutions, including the French proposal, in time for an EU summit in Tallinn on 29 September.</p>\n<p>Europeans have become increasingly aggressive against US technology giants seen by officials as gaining too much power, with Amazon and Apple also under scrutiny.</p>\n<p>Moreover, several national authorities in the EU have opened up tax fights with Google, Airbnb and other internet giants.</p>\n<p>A French court, citing EU law, ruled in July that Google was not liable for €1.12 billion  in taxes claimed by the state. France appealed the decision.</p>\n<h3>Read: <a href=\"http://www.thejournal.ie/man-injured-malta-3601000-Sep2017/\">Irish man suffering from ‘grievous injuries’ after being hit by car in Malta</a> &gt;</h3>\n<h3>Read: <a href=\"http://www.thejournal.ie/london-attack-6-3600914-Sep2017/\">18-year-old man arrested in connection with London Underground bombing</a> &gt;</h3>\n",
+    "permalink": "http://www.thejournal.ie/facebook-tax-google-3601026-Sep2017/",
+    "shortlink": "http://jrnl.ie/3601026",
+    "type": "post",
+    "secondary_publications": [],
+    "main_story_links": [
+      {
+        "text": "",
+        "url": ""
+      },
+      {
+        "text": "",
+        "url": ""
+      }
+    ],
+    "categories": {
+      "thejournal": {
+        "id": "2",
+        "name": "International",
+        "slug": "international"
+      }
+    },
+    "publication_data": {
+      "primary": "thejournal",
+      "all": [
+        "thejournal"
+      ],
+      "categories": {
+        "thejournal": [
+          {
+            "id": "1",
+            "name": "Irish",
+            "slug": "irish"
+          },
+          {
+            "id": "2",
+            "name": "International",
+            "slug": "international"
+          }
+        ]
+      }
+    },
+    "images": {
+      "thumbnail": {
+        "image": "http://c3.thejournal.ie/media/2017/09/facebook-stock-9-145x145.jpg",
+        "width": 145,
+        "height": 145
+      },
+      "medium": {
+        "image": "http://c3.thejournal.ie/media/2017/09/facebook-stock-9-296x175.jpg",
+        "width": 296,
+        "height": 175
+      },
+      "large": {
+        "image": "http://c3.thejournal.ie/media/2017/09/facebook-stock-9-630x374.jpg",
+        "width": 630,
+        "height": 374
+      },
+      "larger": {
+        "image": "http://c3.thejournal.ie/media/2017/09/facebook-stock-9-744x442.jpg",
+        "width": 744,
+        "height": 442
+      },
+      "river_0": {
+        "image": "http://c3.thejournal.ie/media/2017/09/facebook-stock-9-230x150.jpg",
+        "width": 230,
+        "height": 150
+      },
+      "river_1": {
+        "image": "http://c1.thejournal.ie/media/2017/09/facebook-stock-9-2300x1500.jpg",
+        "width": 2300,
+        "height": 1500
+      },
+      "article_page_0": {
+        "image": "http://c3.thejournal.ie/media/2017/09/facebook-stock-9-390x285.jpg",
+        "width": 390,
+        "height": 285
+      },
+      "square_0": {
+        "image": "http://c3.thejournal.ie/media/2017/09/facebook-stock-9-390x390.jpg",
+        "width": 390,
+        "height": 390
+      },
+      "square_1": {
+        "image": "http://c3.thejournal.ie/media/2017/09/facebook-stock-9-197x197.jpg",
+        "width": 197,
+        "height": 197
+      },
+      "square_2": {
+        "image": "http://c1.thejournal.ie/media/2017/09/facebook-stock-9-96x96.jpg",
+        "width": 96,
+        "height": 96
+      },
+      "square_3": {
+        "image": "http://c1.thejournal.ie/media/2017/09/facebook-stock-9-85x85.jpg",
+        "width": 85,
+        "height": 85
+      },
+      "square_4": {
+        "image": "http://c3.thejournal.ie/media/2017/09/facebook-stock-9-100x100.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "square_5": {
+        "image": "http://c1.thejournal.ie/media/2017/09/facebook-stock-9-2000x2000.jpg",
+        "width": 2000,
+        "height": 2000
+      },
+      "main_story_0": {
+        "image": "http://c3.thejournal.ie/media/2017/09/facebook-stock-9-630x260.jpg",
+        "width": 630,
+        "height": 260
+      },
+      "main_story_1": {
+        "image": "http://c2.thejournal.ie/media/2017/09/facebook-stock-9-210x87.jpg",
+        "width": 210,
+        "height": 87
+      },
+      "main_story_2": {
+        "image": "http://c3.thejournal.ie/media/2017/09/facebook-stock-9-290x120.jpg",
+        "width": 290,
+        "height": 120
+      },
+      "super_wide_0": {
+        "image": "http://c3.thejournal.ie/media/2017/09/facebook-stock-9-950x260.jpg",
+        "width": 950,
+        "height": 260
+      },
+      "super_wide_1": {
+        "image": "http://c2.thejournal.ie/media/2017/09/facebook-stock-9-290x80.jpg",
+        "width": 290,
+        "height": 80
+      },
+      "listings_0": {
+        "image": "http://c3.thejournal.ie/media/2017/09/facebook-stock-9-150x100.jpg",
+        "width": 150,
+        "height": 100
+      },
+      "listings_1": {
+        "image": "http://c1.thejournal.ie/media/2017/09/facebook-stock-9-80x50.jpg",
+        "width": 80,
+        "height": 50
+      },
+      "listings_2": {
+        "image": "http://c3.thejournal.ie/media/2017/09/facebook-stock-9-225x150.jpg",
+        "width": 225,
+        "height": 150
+      },
+      "listings_3": {
+        "image": "http://c3.thejournal.ie/media/2017/09/facebook-stock-9-300x200.jpg",
+        "width": 300,
+        "height": 200
+      },
+      "listings_4": {
+        "image": "http://c3.thejournal.ie/media/2017/09/facebook-stock-9-304x203.jpg",
+        "width": 304,
+        "height": 203
+      },
+      "listings_5": {
+        "image": "http://c3.thejournal.ie/media/2017/09/facebook-stock-9-752x501.jpg",
+        "width": 752,
+        "height": 501
+      },
+      "listings_6": {
+        "image": "http://c3.thejournal.ie/media/2017/09/facebook-stock-9-310x207.jpg",
+        "width": 310,
+        "height": 207
+      },
+      "offer_large_0": {
+        "image": "http://c3.thejournal.ie/media/2017/09/facebook-stock-9-458x298.jpg",
+        "width": 458,
+        "height": 298
+      },
+      "offer_medium_0": {
+        "image": "http://c3.thejournal.ie/media/2017/09/facebook-stock-9-298x194.jpg",
+        "width": 298,
+        "height": 194
+      },
+      "offer_small_0": {
+        "image": "http://c3.thejournal.ie/media/2017/09/facebook-stock-9-218x140.jpg",
+        "width": 218,
+        "height": 140
+      },
+      "river_magazine_0": {
+        "image": "http://c3.thejournal.ie/media/2017/09/facebook-stock-9-630x332.jpg",
+        "width": 630,
+        "height": 332
+      },
+      "hero_0": {
+        "image": "http://c0.thejournal.ie/media/2017/09/facebook-stock-9-1366x380.jpg",
+        "width": 1366,
+        "height": 380
+      },
+      "original": {
+        "image": "http://c3.thejournal.ie/media/2017/09/facebook-stock-9.jpg",
+        "width": false,
+        "height": false
+      }
+    },
+    "is_short_post": false,
+    "image_data": {
+      "orientation": "landscape",
+      "credit": "Niall Carson/PA",
+      "caption": "Facebook HQ in Dublin.",
+      "id": "3601029",
+      "raw_source": "Niall Carson/PA",
+      "raw_source_url": false
+    },
+    "show_image": true,
+    "slideshows": false,
+    "poll": false,
+    "by_line_author": false,
+    "has_liveblog": 0,
+    "has_active_liveblog": 0,
+    "liveblog": [],
+    "primary_tag": {
+      "slug": "like-and-share",
+      "name": "Like and Share"
+    },
+    "tags": [
+      {
+        "name": "EU",
+        "slug": "eu",
+        "description": "A political and economic union consisting of 27 member countries. It is a trading bloc with common trading laws and product regulation for all of its members. The union was originaly the European Coal and Steel Community and was set up after the Second World War to help improve relations between countries. In 1957 it became the European Economic Community and in 1993 the EU was formally established.",
+        "image": "http://home.thejournal.ie/media/2010/09/eu-flag2-145x145.jpg",
+        "count": "1688"
+      },
+      {
+        "name": "Facebook",
+        "slug": "facebook",
+        "description": "Social networking site with over 500 million users worldwide. The site was founded in 2004 by Mark Zuckerburg, a Harvard student at the time of founding. The company employs 1,400  and has its European, African and Middle East headquarters in Dublin.",
+        "image": "http://thejournal.ie/media/2010/08/facebook2-145x145.jpg",
+        "count": "1594"
+      },
+      {
+        "name": "Google",
+        "slug": "google",
+        "description": "Provides a wide range of internet services, primarily a search engine. Google was founded by the \"Google guys\" Larry Page and Sergey Brin in 1998 when they were both Ph.D students at Stanford. The company employs 22,000 people and profited $6.5 billion in 2009. Google generates most of its profit from advertising.",
+        "image": "http://thejournal.ie/media/2010/08/google2-145x145.jpg",
+        "count": "782"
+      },
+      {
+        "name": "Like and Share",
+        "slug": "like-and-share",
+        "description": "",
+        "count": "7"
+      },
+      {
+        "name": "Tax",
+        "slug": "tax",
+        "description": "",
+        "count": "662"
+      }
+    ],
+    "embeds": {
+      "embed_1": {
+        "type": "ad",
+        "size": "mpu",
+        "id": "ad_1"
+      }
+    },
+    "inline_images": [],
+    "comments_allowed": 1,
+    "river_format": "landscape",
+    "author": {
+      "id": "1585",
+      "name": "AFP",
+      "email": "",
+      "twitter": "",
+      "description": "",
+      "googleplus": "",
+      "slug": "afp",
+      "publication": "",
+      "is_admin": false,
+      "avatar": "https://f1.thejournal.ie/media/2012/09/afplogo-133x92.png",
+      "is_syndication": true
+    },
+    "admin_author": {
+      "id": "185",
+      "name": "Garreth MacNamee",
+      "email": "garreth@thejournal.ie"
+    },
+    "banner_video": {
+      "has_banner_video": false,
+      "embed": null
+    },
+    "advertising": {
+      "targets": [
+        {
+          "key": "targeting-key",
+          "values": [
+            "eu",
+            "facebook",
+            "google",
+            "like-and-share",
+            "tax"
+          ]
+        },
+        {
+          "key": "targetingkey",
+          "values": [
+            "eu",
+            "facebook",
+            "google",
+            "like-and-share",
+            "tax"
+          ]
+        }
+      ],
+      "dfp_unit_template": "regular_%s",
+      "dfp_units": {
+        "dfp_footer": true,
+        "dfp_logo": false,
+        "dfp_mpu": true
+      }
+    },
+    "retargeting": [
+      {
+        "key": "irish_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "irish_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "international_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "international_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      }
+    ],
+    "id_name": "article",
+    "primary_image": {
+      "id": 3601026,
+      "object_id": 3601026,
+      "object_type": "article",
+      "crops": [
+        "original"
+      ],
+      "credit": {
+        "text": "Niall Carson/PA",
+        "url": false
+      },
+      "version": 3601029
+    },
+    "time_label": {
+      "is_displayed": true,
+      "is_replaced": false,
+      "replacement_text": null
+    }
+  },
+  {
+    "id": 3598564,
+    "title": "Lawsuit accuses Google of paying women less than men",
+    "slug": "google-gender-pay",
+    "date": "2017-09-14 22:47:14",
+    "date_modified": "2017-09-14 21:54:39",
+    "date_published": "2017-09-14 22:48:13",
+    "is_updated": false,
+    "has_audio": "0",
+    "has_video": "0",
+    "has_slideshow": "0",
+    "is_hot_on_twitter": "0",
+    "publication": "thejournal",
+    "stats": {
+      "views": "9404",
+      "comments": "43",
+      "facebook": "7",
+      "twitter": "0",
+      "email": "1",
+      "dislikes": "0",
+      "likes": "0"
+    },
+    "syndication_source": "afp",
+    "seo_title": null,
+    "seo_description": null,
+    "is_sponsored": 0,
+    "sticky": null,
+    "header_url": null,
+    "internal_syndication_id": null,
+    "digest_key": "article_3598564",
+    "date_unix": 1505425634,
+    "date_modified_unix": 1505426079,
+    "status": "publish",
+    "is_exclusive": "0",
+    "excerpt": "Google said it disagrees with the &#8220;central allegations&#8221;.",
+    "content": "<p>A TRIO OF former Google employees has filed a lawsuit accusing the technology giant of paying women less than men for the same work.</p>\n<p>The lawsuit filed in a San Francisco state court on behalf of the three women accused Google of “systemic and pervasive pay and promotion discrimination against its female employees” in California.</p>\n<p>Lawyers are seeking class-action status for the suit in a bid to represent more women currently or formerly employed at Google.</p>\n<p>Responding to the lawsuit, the US technology giant denied any discriminatory policies.</p>\n<p>“We work really hard to create a great workplace for everyone, and to give everyone the chance to thrive here,” Google spokeswoman Gina Scigliano said in response to an AFP inquiry.</p>\n<p>“In relation to this particular lawsuit, we’ll review it in detail, but we disagree with the central allegations.”</p>\n<p>Lawyers for the women accuse Google of violating California equal pay law along with the state labour code.</p>\n<p>The complaint also alleged Google consistently assigned women to “lower tiers” or “job ladders” with lower compensation and fewer opportunities for promotion than their male counterparts.</p>\n<p>[embed id=\"embed_1\"]</p>\n<p>Plaintiff Kelly Ellis said in a statement released by attorneys that the lawsuit addresses “a pervasive problem of gender bias at Google”.</p>\n<p>Google’s Scigliano maintained that job levels and promotions at the company were determined through “rigorous” committees and undergo review that includes checking for gender bias.</p>\n<p>“If we ever see individual discrepancies or problems, we work to fix them,” she said.</p>\n<p>The suit comes with the US Labor Department auditing pay practices into possible gender discrimination.</p>\n<p>It also comes as Google deals with the aftermath of a firestorm over sexism and free speech sparked by a “manifesto” published as an internal memo by then-employee James Damore.</p>\n<p>The memo by a Google engineer defended the Silicon Valley gender gap, claiming that “biological differences” were a key factor in the low percentage of women in technology jobs.</p>\n<p>The memo was leaked outside the company, and triggered outcry from those claiming it perpetuated stereotypes and discrimination.</p>\n<p>The controversy came with Silicon Valley struggling in the face of accusations of rampant sexual harassment and discrimination affecting startups like Uber and venture capital firms investing in the sector.</p>\n<p><em>- <a href=\"http://www.afp.com/en\">© – AFP, 2017</a></em></p>\n<h3>Read: <a href=\"http://www.thejournal.ie/funding-natural-disasters-3596384-Sep2017/\">Donegal flood humanitarian scheme to be rolled out for all natural disasters</a> &gt;</h3>\n<h3>Read: <a href=\"http://www.thejournal.ie/weather-cold-september-3598515-Sep2017/\">Temperatures could dip below freezing in some areas this weekend</a> &gt;</h3>\n",
+    "permalink": "http://www.thejournal.ie/google-gender-pay-3598564-Sep2017/",
+    "shortlink": "http://jrnl.ie/3598564",
+    "type": "post",
+    "secondary_publications": [],
+    "main_story_links": [
+      {
+        "text": "",
+        "url": ""
+      },
+      {
+        "text": "",
+        "url": ""
+      }
+    ],
+    "categories": {
+      "thejournal": {
+        "id": "2",
+        "name": "International",
+        "slug": "international"
+      }
+    },
+    "publication_data": {
+      "primary": "thejournal",
+      "all": [
+        "thejournal"
+      ],
+      "categories": {
+        "thejournal": [
+          {
+            "id": "2",
+            "name": "International",
+            "slug": "international"
+          }
+        ]
+      }
+    },
+    "images": {
+      "thumbnail": {
+        "image": "http://c2.thejournal.ie/media/2017/09/google-headquarters-145x145.jpg",
+        "width": 145,
+        "height": 145
+      },
+      "medium": {
+        "image": "http://c2.thejournal.ie/media/2017/09/google-headquarters-296x197.jpg",
+        "width": 296,
+        "height": 197
+      },
+      "large": {
+        "image": "http://c2.thejournal.ie/media/2017/09/google-headquarters-630x420.jpg",
+        "width": 630,
+        "height": 420
+      },
+      "larger": {
+        "image": "http://c2.thejournal.ie/media/2017/09/google-headquarters-744x496.jpg",
+        "width": 744,
+        "height": 496
+      },
+      "river_0": {
+        "image": "http://c2.thejournal.ie/media/2017/09/google-headquarters-230x150.jpg",
+        "width": 230,
+        "height": 150
+      },
+      "river_1": {
+        "image": "http://c0.thejournal.ie/media/2017/09/google-headquarters-2300x1500.jpg",
+        "width": 2300,
+        "height": 1500
+      },
+      "article_page_0": {
+        "image": "http://c2.thejournal.ie/media/2017/09/google-headquarters-390x285.jpg",
+        "width": 390,
+        "height": 285
+      },
+      "square_0": {
+        "image": "http://c2.thejournal.ie/media/2017/09/google-headquarters-390x390.jpg",
+        "width": 390,
+        "height": 390
+      },
+      "square_1": {
+        "image": "http://c2.thejournal.ie/media/2017/09/google-headquarters-197x197.jpg",
+        "width": 197,
+        "height": 197
+      },
+      "square_2": {
+        "image": "http://c0.thejournal.ie/media/2017/09/google-headquarters-96x96.jpg",
+        "width": 96,
+        "height": 96
+      },
+      "square_3": {
+        "image": "http://c0.thejournal.ie/media/2017/09/google-headquarters-85x85.jpg",
+        "width": 85,
+        "height": 85
+      },
+      "square_4": {
+        "image": "http://c2.thejournal.ie/media/2017/09/google-headquarters-100x100.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "square_5": {
+        "image": "http://c0.thejournal.ie/media/2017/09/google-headquarters-2000x2000.jpg",
+        "width": 2000,
+        "height": 2000
+      },
+      "main_story_0": {
+        "image": "http://c2.thejournal.ie/media/2017/09/google-headquarters-630x260.jpg",
+        "width": 630,
+        "height": 260
+      },
+      "main_story_1": {
+        "image": "http://c1.thejournal.ie/media/2017/09/google-headquarters-210x87.jpg",
+        "width": 210,
+        "height": 87
+      },
+      "main_story_2": {
+        "image": "http://c2.thejournal.ie/media/2017/09/google-headquarters-290x120.jpg",
+        "width": 290,
+        "height": 120
+      },
+      "super_wide_0": {
+        "image": "http://c2.thejournal.ie/media/2017/09/google-headquarters-950x260.jpg",
+        "width": 950,
+        "height": 260
+      },
+      "super_wide_1": {
+        "image": "http://c1.thejournal.ie/media/2017/09/google-headquarters-290x80.jpg",
+        "width": 290,
+        "height": 80
+      },
+      "listings_0": {
+        "image": "http://c2.thejournal.ie/media/2017/09/google-headquarters-150x100.jpg",
+        "width": 150,
+        "height": 100
+      },
+      "listings_1": {
+        "image": "http://c0.thejournal.ie/media/2017/09/google-headquarters-80x50.jpg",
+        "width": 80,
+        "height": 50
+      },
+      "listings_2": {
+        "image": "http://c2.thejournal.ie/media/2017/09/google-headquarters-225x150.jpg",
+        "width": 225,
+        "height": 150
+      },
+      "listings_3": {
+        "image": "http://c2.thejournal.ie/media/2017/09/google-headquarters-300x200.jpg",
+        "width": 300,
+        "height": 200
+      },
+      "listings_4": {
+        "image": "http://c2.thejournal.ie/media/2017/09/google-headquarters-304x203.jpg",
+        "width": 304,
+        "height": 203
+      },
+      "listings_5": {
+        "image": "http://c2.thejournal.ie/media/2017/09/google-headquarters-752x501.jpg",
+        "width": 752,
+        "height": 501
+      },
+      "listings_6": {
+        "image": "http://c2.thejournal.ie/media/2017/09/google-headquarters-310x207.jpg",
+        "width": 310,
+        "height": 207
+      },
+      "offer_large_0": {
+        "image": "http://c2.thejournal.ie/media/2017/09/google-headquarters-458x298.jpg",
+        "width": 458,
+        "height": 298
+      },
+      "offer_medium_0": {
+        "image": "http://c2.thejournal.ie/media/2017/09/google-headquarters-298x194.jpg",
+        "width": 298,
+        "height": 194
+      },
+      "offer_small_0": {
+        "image": "http://c2.thejournal.ie/media/2017/09/google-headquarters-218x140.jpg",
+        "width": 218,
+        "height": 140
+      },
+      "river_magazine_0": {
+        "image": "http://c2.thejournal.ie/media/2017/09/google-headquarters-630x332.jpg",
+        "width": 630,
+        "height": 332
+      },
+      "hero_0": {
+        "image": "http://c3.thejournal.ie/media/2017/09/google-headquarters-1366x380.jpg",
+        "width": 1366,
+        "height": 380
+      },
+      "original": {
+        "image": "http://c2.thejournal.ie/media/2017/09/google-headquarters.jpg",
+        "width": false,
+        "height": false
+      }
+    },
+    "is_short_post": false,
+    "image_data": {
+      "orientation": "landscape",
+      "credit": "DPA/PA Images",
+      "caption": "Google HQ in California.",
+      "id": "3598566",
+      "raw_source": "DPA/PA Images",
+      "raw_source_url": false
+    },
+    "show_image": true,
+    "slideshows": false,
+    "poll": false,
+    "by_line_author": false,
+    "has_liveblog": 0,
+    "has_active_liveblog": 0,
+    "liveblog": [],
+    "primary_tag": {
+      "slug": "google-it",
+      "name": "Google It"
+    },
+    "tags": [
+      {
+        "name": "equal pay",
+        "slug": "equal-pay",
+        "description": "",
+        "count": "13"
+      },
+      {
+        "name": "gender divide",
+        "slug": "gender-divide",
+        "description": "",
+        "count": "11"
+      },
+      {
+        "name": "Google",
+        "slug": "google",
+        "description": "Provides a wide range of internet services, primarily a search engine. Google was founded by the \"Google guys\" Larry Page and Sergey Brin in 1998 when they were both Ph.D students at Stanford. The company employs 22,000 people and profited $6.5 billion in 2009. Google generates most of its profit from advertising.",
+        "image": "http://thejournal.ie/media/2010/08/google2-145x145.jpg",
+        "count": "781"
+      },
+      {
+        "name": "Google It",
+        "slug": "google-it",
+        "description": "",
+        "count": "7"
+      },
+      {
+        "name": "Law Suit",
+        "slug": "law-suit",
+        "description": "",
+        "count": "9"
+      }
+    ],
+    "embeds": {
+      "embed_1": {
+        "type": "ad",
+        "size": "mpu",
+        "id": "ad_1"
+      }
+    },
+    "inline_images": [],
+    "comments_allowed": 1,
+    "river_format": "landscape",
+    "author": {
+      "id": "1585",
+      "name": "AFP",
+      "email": "",
+      "twitter": "",
+      "description": "",
+      "googleplus": "",
+      "slug": "afp",
+      "publication": "",
+      "is_admin": false,
+      "avatar": "https://f3.thejournal.ie/media/2012/09/afplogo-133x92.png",
+      "is_syndication": true
+    },
+    "admin_author": {
+      "id": "185",
+      "name": "Garreth MacNamee",
+      "email": "garreth@thejournal.ie"
+    },
+    "banner_video": {
+      "has_banner_video": false,
+      "embed": null
+    },
+    "advertising": {
+      "targets": [
+        {
+          "key": "targeting-key",
+          "values": [
+            "equal-pay",
+            "gender-divide",
+            "google",
+            "google-it",
+            "law-suit"
+          ]
+        },
+        {
+          "key": "targetingkey",
+          "values": [
+            "equal-pay",
+            "gender-divide",
+            "google",
+            "google-it",
+            "law-suit"
+          ]
+        }
+      ],
+      "dfp_unit_template": "regular_%s",
+      "dfp_units": {
+        "dfp_footer": true,
+        "dfp_logo": false,
+        "dfp_mpu": true
+      }
+    },
+    "retargeting": [
+      {
+        "key": "international_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "international_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      }
+    ],
+    "id_name": "article",
+    "primary_image": {
+      "id": 3598564,
+      "object_id": 3598564,
+      "object_type": "article",
+      "crops": [
+        "original"
+      ],
+      "credit": {
+        "text": "DPA/PA Images",
+        "url": false
+      },
+      "version": 3598566
+    },
+    "time_label": {
+      "is_displayed": true,
+      "is_replaced": false,
+      "replacement_text": null
+    }
+  },
+  {
+    "id": 3560885,
+    "title": "Ireland's biggest newspaper group wants Google and Facebook to pay for news",
+    "slug": "inm-advertising-sales-2",
+    "date": "2017-08-23 14:54:38",
+    "date_modified": "2017-08-23 18:17:44",
+    "has_audio": "0",
+    "has_video": "0",
+    "has_slideshow": "0",
+    "is_hot_on_twitter": "0",
+    "publication": "thejournal",
+    "stats": {
+      "views": "17134",
+      "comments": "39",
+      "facebook": "100",
+      "twitter": "0",
+      "email": "1",
+      "dislikes": "0",
+      "likes": "0"
+    },
+    "syndication_source": "fora",
+    "seo_title": null,
+    "seo_description": null,
+    "is_sponsored": 0,
+    "sticky": null,
+    "header_url": null,
+    "internal_syndication_id": 3560193,
+    "digest_key": "article_3560885",
+    "date_unix": 1503496478,
+    "date_modified_unix": 1503512264,
+    "status": "publish",
+    "is_exclusive": "0",
+    "excerpt": "Company chairman Leslie Buckley said traditional publishers should &#8216;demand payment&#8217; from the online duopoly.",
+    "content": "<p>IRELAND’S LARGEST NEWSPAPER publisher has said that traditional media outlets should demand web giants Google and Facebook pay for the material they use.</p>\n<p>Commenting on Independent News and Media’s financial results for the first half of 2017, group chairman Leslie Buckley said traditional publishers should “demand payment for the use of their content from digital giants Google and Facebook”.</p>\n<p>“The operating environment in the media industry remains challenging,” he said. “We believe that issues need to be addressed.”</p>\n<p>Meanwhile, in an unprecedented moment at INM’s AGM today, chief executive Robert Pitt failed to back Buckley’s re-election to the board. As <a href=\"https://fora.ie/inm-profit-forecast-3504254-Jul2017/\">previously explained by Fora</a>, the two fell out over a potential bid for radio station Newstalk.</p>\n<p>In terms of online advertising, the biggest money-maker for most media companies, Google and Facebook dominate the industry.</p>\n<p>A recent <a href=\"https://uk.reuters.com/article/us-alphabet-facebook-analysis-idUKKBN1AD1ZY\" target=\"_blank\">news report by wire agency Reuters</a> said the duopoly is tipped to hoover up half of the world’s internet advertising sales this year.</p>\n<p>In Ireland alone, <a href=\"https://fora.ie/mobile-advertising-ireland-3045734-Oct2016/\">Google and Facebook enjoyed 50% of the €216 million</a> spent on digital ads in the first half of 2016, according to data prepared by PwC and trade body IAB Ireland.</p>\n<p><strong>Advertising </strong></p>\n<p>The dominance of the so-called ‘big two’ has prompted news outlets like INM to suggest that they should pay for the articles and videos they use to populate their platforms and attract users.</p>\n<p>However, that’s unlikely to happen any time soon – Google Australia, for one, this week <a href=\"https://www.theguardian.com/media/2017/aug/22/google-rejects-levy-on-aggregators-to-help-pay-for-australian-journalism\" target=\"_blank\">rejected a proposal</a> for it to pay a levy to prop up journalism down under.</p>\n<p>A spokesman for INM told <em>Fora</em> that the group doesn’t have any further details on how Facebook and Google might be pursued for payment.</p>\n<p>“The chairman was raising the issue in the context of key factors affecting INM’s financial performance,” the spokesman said.</p>\n<p>[embed id=\"embed_2\"]</p>\n<p>[image id=\"image_1\"]</p>\n<p>The move follows a similar push from INM’s largest shareholder, Denis O’Brien, to force the two Silicon Valley giants to share their advertising revenues with firms such as his Caribbean-focused Digicel that “build the networks”.</p>\n<p><strong>Digital ads</strong></p>\n<p>INM – which publishes a slew of regional and national titles including the Irish Independent, Sunday Independent and the Herald – reported a slowdown in digital ad sales growth for the period of January to June 2017.</p>\n<blockquote class=\"coloured\">\n<div>While the group’s financial report doesn’t provide a breakdown of digital revenues, INM reported that online sales grew by 6.3% compared to the same six-month period last year - ”a lower rate than previously envisaged”.</div>\n</blockquote>\n<p>Last year, INM’s digital revenue grew by 23% in the first half of 2016 and 18% in the second half.</p>\n<p>Car sales website CarsIreland.ie – which the media group <a href=\"https://fora.ie/inm-carsireland-purchase-2772633-May2016/\">took over in 2016</a> – helped drive digital sales growth in the first half of 2017 while online sales on other sites have “moderated”.</p>\n<p>It blamed this slowdown on a move away from “direct transactional selling” – a buzzword for when an advertiser flogs a single product or service and doesn’t try to build a long-term ‘relationship’ with their audience.</p>\n<p>[image id=\"image_2\"]</p>\n<p>INM’s half-year results showed that the company’s overall sales have fallen 8.4% to just over €148 million.</p>\n<p>While the group was profitable, its pre-tax profit decreased by 19.5% to just under €15 million “due to continued revenue challenges”.</p>\n<p><strong><em><a href=\"https://fora.ie/mailing-list\" target=\"_blank\">Sign up to our newsletter to receive a regular digest of Fora’s top articles delivered to your inbox</a>.</em></strong></p>\n<p><em>Written by Conor McMahon and posted on <a href=\"https://fora.ie\">Fora.ie</a></em></p>\n<p>[embed id=\"embed_1\"]</p>\n<span id='subscription-link'></span>",
+    "permalink": "http://www.thejournal.ie/inm-advertising-sales-2-3560885-Aug2017/",
+    "shortlink": "http://jrnl.ie/3560885",
+    "type": "post",
+    "secondary_publications": [],
+    "main_story_links": [
+      {
+        "text": "",
+        "url": ""
+      },
+      {
+        "text": "",
+        "url": ""
+      }
+    ],
+    "categories": {
+      "thejournal": {
+        "id": "30",
+        "name": "Business",
+        "slug": "business"
+      }
+    },
+    "publication_data": {
+      "primary": "thejournal",
+      "all": [
+        "thejournal"
+      ],
+      "categories": {
+        "thejournal": [
+          {
+            "id": "1",
+            "name": "Irish",
+            "slug": "irish"
+          },
+          {
+            "id": "27",
+            "name": "Tech",
+            "slug": "tech"
+          },
+          {
+            "id": "30",
+            "name": "Business",
+            "slug": "business"
+          }
+        ]
+      }
+    },
+    "images": {
+      "thumbnail": {
+        "image": "http://c2.thejournal.ie/media/2017/08/inm-financial-results-3-145x145.jpg",
+        "width": 145,
+        "height": 145
+      },
+      "medium": {
+        "image": "http://c2.thejournal.ie/media/2017/08/inm-financial-results-3-296x213.jpg",
+        "width": 296,
+        "height": 213
+      },
+      "large": {
+        "image": "http://c2.thejournal.ie/media/2017/08/inm-financial-results-3-630x455.jpg",
+        "width": 630,
+        "height": 455
+      },
+      "larger": {
+        "image": "http://c2.thejournal.ie/media/2017/08/inm-financial-results-3-744x537.jpg",
+        "width": 744,
+        "height": 537
+      },
+      "river_0": {
+        "image": "http://c2.thejournal.ie/media/2017/08/inm-financial-results-3-230x150.jpg",
+        "width": 230,
+        "height": 150
+      },
+      "river_1": {
+        "image": "http://c0.thejournal.ie/media/2017/08/inm-financial-results-3-2300x1500.jpg",
+        "width": 2300,
+        "height": 1500
+      },
+      "article_page_0": {
+        "image": "http://c2.thejournal.ie/media/2017/08/inm-financial-results-3-390x285.jpg",
+        "width": 390,
+        "height": 285
+      },
+      "square_0": {
+        "image": "http://c2.thejournal.ie/media/2017/08/inm-financial-results-3-390x390.jpg",
+        "width": 390,
+        "height": 390
+      },
+      "square_1": {
+        "image": "http://c2.thejournal.ie/media/2017/08/inm-financial-results-3-197x197.jpg",
+        "width": 197,
+        "height": 197
+      },
+      "square_2": {
+        "image": "http://c0.thejournal.ie/media/2017/08/inm-financial-results-3-96x96.jpg",
+        "width": 96,
+        "height": 96
+      },
+      "square_3": {
+        "image": "http://c0.thejournal.ie/media/2017/08/inm-financial-results-3-85x85.jpg",
+        "width": 85,
+        "height": 85
+      },
+      "square_4": {
+        "image": "http://c2.thejournal.ie/media/2017/08/inm-financial-results-3-100x100.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "square_5": {
+        "image": "http://c0.thejournal.ie/media/2017/08/inm-financial-results-3-2000x2000.jpg",
+        "width": 2000,
+        "height": 2000
+      },
+      "main_story_0": {
+        "image": "http://c2.thejournal.ie/media/2017/08/inm-financial-results-3-630x260.jpg",
+        "width": 630,
+        "height": 260
+      },
+      "main_story_1": {
+        "image": "http://c1.thejournal.ie/media/2017/08/inm-financial-results-3-210x87.jpg",
+        "width": 210,
+        "height": 87
+      },
+      "main_story_2": {
+        "image": "http://c2.thejournal.ie/media/2017/08/inm-financial-results-3-290x120.jpg",
+        "width": 290,
+        "height": 120
+      },
+      "super_wide_0": {
+        "image": "http://c2.thejournal.ie/media/2017/08/inm-financial-results-3-950x260.jpg",
+        "width": 950,
+        "height": 260
+      },
+      "super_wide_1": {
+        "image": "http://c1.thejournal.ie/media/2017/08/inm-financial-results-3-290x80.jpg",
+        "width": 290,
+        "height": 80
+      },
+      "listings_0": {
+        "image": "http://c2.thejournal.ie/media/2017/08/inm-financial-results-3-150x100.jpg",
+        "width": 150,
+        "height": 100
+      },
+      "listings_1": {
+        "image": "http://c0.thejournal.ie/media/2017/08/inm-financial-results-3-80x50.jpg",
+        "width": 80,
+        "height": 50
+      },
+      "listings_2": {
+        "image": "http://c2.thejournal.ie/media/2017/08/inm-financial-results-3-225x150.jpg",
+        "width": 225,
+        "height": 150
+      },
+      "listings_3": {
+        "image": "http://c2.thejournal.ie/media/2017/08/inm-financial-results-3-300x200.jpg",
+        "width": 300,
+        "height": 200
+      },
+      "listings_4": {
+        "image": "http://c2.thejournal.ie/media/2017/08/inm-financial-results-3-304x203.jpg",
+        "width": 304,
+        "height": 203
+      },
+      "listings_5": {
+        "image": "http://c2.thejournal.ie/media/2017/08/inm-financial-results-3-752x501.jpg",
+        "width": 752,
+        "height": 501
+      },
+      "listings_6": {
+        "image": "http://c2.thejournal.ie/media/2017/08/inm-financial-results-3-310x207.jpg",
+        "width": 310,
+        "height": 207
+      },
+      "offer_large_0": {
+        "image": "http://c2.thejournal.ie/media/2017/08/inm-financial-results-3-458x298.jpg",
+        "width": 458,
+        "height": 298
+      },
+      "offer_medium_0": {
+        "image": "http://c2.thejournal.ie/media/2017/08/inm-financial-results-3-298x194.jpg",
+        "width": 298,
+        "height": 194
+      },
+      "offer_small_0": {
+        "image": "http://c2.thejournal.ie/media/2017/08/inm-financial-results-3-218x140.jpg",
+        "width": 218,
+        "height": 140
+      },
+      "river_magazine_0": {
+        "image": "http://c2.thejournal.ie/media/2017/08/inm-financial-results-3-630x332.jpg",
+        "width": 630,
+        "height": 332
+      },
+      "hero_0": {
+        "image": "http://c3.thejournal.ie/media/2017/08/inm-financial-results-3-1366x380.jpg",
+        "width": 1366,
+        "height": 380
+      },
+      "original": {
+        "image": "http://c0.thejournal.ie/media/2017/08/90434160_90434160.jpg",
+        "width": false,
+        "height": false
+      }
+    },
+    "is_short_post": false,
+    "image_data": {
+      "orientation": "landscape",
+      "credit": "Leah Farrell/Rollingnews.ie",
+      "caption": "",
+      "id": "3560401",
+      "raw_source": "Leah Farrell/Rollingnews.ie",
+      "raw_source_url": false
+    },
+    "show_image": true,
+    "slideshows": false,
+    "poll": false,
+    "by_line_author": false,
+    "has_liveblog": 0,
+    "has_active_liveblog": 0,
+    "liveblog": [],
+    "primary_tag": {
+      "slug": "advertising",
+      "name": "Advertising"
+    },
+    "tags": [
+      {
+        "name": "Advertising",
+        "slug": "advertising",
+        "description": "",
+        "count": "356"
+      },
+      {
+        "name": "AGM",
+        "slug": "agm",
+        "description": "Annual General Meeting. Meetings that official bodies and organisations are required by law to hold. They are held to elect a board of directors and inform shareholders.",
+        "image": "http://home.thejournal.ie/media/2010/09/agm-145x145.jpg",
+        "count": "28"
+      },
+      {
+        "name": "Facebook",
+        "slug": "facebook",
+        "description": "Social networking site with over 500 million users worldwide. The site was founded in 2004 by Mark Zuckerburg, a Harvard student at the time of founding. The company employs 1,400  and has its European, African and Middle East headquarters in Dublin.",
+        "image": "http://thejournal.ie/media/2010/08/facebook2-145x145.jpg",
+        "count": "1589"
+      },
+      {
+        "name": "fora",
+        "slug": "fora",
+        "description": "",
+        "count": "1061"
+      },
+      {
+        "name": "Google",
+        "slug": "google",
+        "description": "Provides a wide range of internet services, primarily a search engine. Google was founded by the \"Google guys\" Larry Page and Sergey Brin in 1998 when they were both Ph.D students at Stanford. The company employs 22,000 people and profited $6.5 billion in 2009. Google generates most of its profit from advertising.",
+        "image": "http://thejournal.ie/media/2010/08/google2-145x145.jpg",
+        "count": "780"
+      },
+      {
+        "name": "Independent",
+        "slug": "independent",
+        "description": "",
+        "count": "175"
+      },
+      {
+        "name": "INM",
+        "slug": "inm",
+        "description": "",
+        "count": "73"
+      },
+      {
+        "name": "Irish Independent",
+        "slug": "irish-independent",
+        "description": "",
+        "count": "77"
+      },
+      {
+        "name": "Leslie Buckley",
+        "slug": "leslie-buckley",
+        "description": "",
+        "count": "4"
+      },
+      {
+        "name": "Media",
+        "slug": "media",
+        "description": "",
+        "count": "663"
+      },
+      {
+        "name": "News",
+        "slug": "news",
+        "description": "",
+        "count": "1472"
+      },
+      {
+        "name": "Robert Pitt",
+        "slug": "robert-pitt",
+        "description": "",
+        "count": "1"
+      }
+    ],
+    "embeds": {
+      "embed_1": {
+        "type": "button",
+        "id": "3560885_button_1",
+        "href": "https://fora.ie",
+        "label": "Take me to Fora",
+        "icon": "url"
+      },
+      "embed_2": {
+        "type": "ad",
+        "size": "mpu",
+        "id": "ad_2"
+      }
+    },
+    "inline_images": [
+      {
+        "src": "http://c0.thejournal.ie/media/2017/08/file-photo-facebook-to-hire-3000-new-staff-to-help-police-content.jpg",
+        "width": 2465,
+        "height": 1832,
+        "alt": "File Photo Facebook to hire 3,000 new staff to help police content",
+        "title": "",
+        "caption": "",
+        "credit": {
+          "source": "RollingNews.ie",
+          "html": "Source: RollingNews.ie"
+        },
+        "id": "3560412",
+        "class": "aligncenter",
+        "key": "image_1",
+        "object_id": "3560412",
+        "object_type": "inline",
+        "version": "3560412"
+      },
+      {
+        "src": "http://c1.thejournal.ie/media/2017/08/indo-9.jpg",
+        "width": 2508,
+        "height": 1908,
+        "alt": "indo",
+        "title": "",
+        "caption": "",
+        "credit": {
+          "source": "Sam Boal",
+          "service_name": "Photocall Ireland",
+          "html": "Source: Sam Boal/Photocall Ireland"
+        },
+        "id": "3560416",
+        "class": "aligncenter",
+        "key": "image_2",
+        "object_id": "3560416",
+        "object_type": "inline",
+        "version": "3560416"
+      }
+    ],
+    "comments_allowed": 1,
+    "river_format": "landscape",
+    "author": {
+      "id": "4319",
+      "name": "Fora Staff",
+      "email": "",
+      "twitter": "",
+      "description": "",
+      "googleplus": "",
+      "slug": "fora-staff",
+      "publication": "",
+      "is_admin": false,
+      "avatar": "https://f3.thejournal.ie/media/2016/06/Fora_avatar_1.1-133x133.png",
+      "is_syndication": true
+    },
+    "admin_author": {
+      "id": "116",
+      "name": "Órla Ryan",
+      "email": "orla@thejournal.ie"
+    },
+    "banner_video": {
+      "has_banner_video": false,
+      "embed": null
+    },
+    "advertising": {
+      "targets": [
+        {
+          "key": "targeting-key",
+          "values": [
+            "advertising",
+            "agm",
+            "facebook",
+            "fora",
+            "google",
+            "independent",
+            "inm",
+            "irish-independent",
+            "leslie-buckley",
+            "media",
+            "news",
+            "robert-pitt",
+            "irish-vertical",
+            "tech-vertical",
+            "business-vertical"
+          ]
+        },
+        {
+          "key": "targetingkey",
+          "values": [
+            "advertising",
+            "agm",
+            "facebook",
+            "fora",
+            "google",
+            "independent",
+            "inm",
+            "irish-independent",
+            "leslie-buckley",
+            "media",
+            "news",
+            "robert-pitt",
+            "irish-vertical",
+            "tech-vertical",
+            "business-vertical"
+          ]
+        }
+      ],
+      "dfp_unit_template": "sponsored_%s",
+      "dfp_units": {
+        "dfp_footer": true,
+        "dfp_logo": true,
+        "dfp_mpu": true
+      }
+    },
+    "subscription-tag": {
+      "name": "fora",
+      "slug": "fora",
+      "label": "Fora Subscription",
+      "copy": "Get the top business news from Fora delivered to your inbox"
+    },
+    "retargeting": [
+      {
+        "key": "irish_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "irish_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "tech_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "tech_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "business_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "business_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "business_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      }
+    ],
+    "id_name": "article",
+    "primary_image": {
+      "id": 3560885,
+      "object_id": 3560885,
+      "object_type": "article",
+      "crops": [
+        "original"
+      ],
+      "credit": {
+        "text": "Leah Farrell/Rollingnews.ie",
+        "url": false
+      },
+      "version": 3560401
+    },
+    "time_label": {
+      "is_displayed": true,
+      "is_replaced": false,
+      "replacement_text": null
+    }
+  },
+  {
+    "id": 3540534,
+    "title": "Google cancels meeting to discuss gender and diversity due to 'safety concerns'",
+    "slug": "google-sexism-meeting-cancelled",
+    "date": "2017-08-11 08:15:45",
+    "date_modified": "2017-08-11 08:18:57",
+    "has_audio": "0",
+    "has_video": "0",
+    "has_slideshow": "0",
+    "is_hot_on_twitter": "0",
+    "publication": "thejournal",
+    "stats": {
+      "views": "15222",
+      "comments": "115",
+      "facebook": "54",
+      "twitter": "0",
+      "email": "2",
+      "dislikes": "0",
+      "likes": "0"
+    },
+    "syndication_source": "afp",
+    "seo_title": null,
+    "seo_description": null,
+    "is_sponsored": 0,
+    "sticky": null,
+    "header_url": null,
+    "internal_syndication_id": null,
+    "digest_key": "article_3540534",
+    "date_unix": 1502435745,
+    "date_modified_unix": 1502439537,
+    "status": "publish",
+    "is_exclusive": "0",
+    "excerpt": "Questions being posed internally by employees, along with some of their names, began appearing on outside websites.",
+    "content": "<p>[image id=\"image_1\"]</p>\n<p>GOOGLE HAS CANCELLED a meeting intended to air viewpoints on diversity, sexism and free speech, citing worker safety concerns.</p>\n<p>“We’ll find a better way to help our employees connect and discuss these important issues further,” a Google spokesperson said in response to an AFP inquiry.</p>\n<p>The employee gathering was scheduled to air viewpoints after the dismissal of a Google engineer over a memo defending the Silicon Valley gender gap.</p>\n<p>The “manifesto” published as an internal memo by James Damore claimed “biological differences” were a key factor in the low percentage of women in technology jobs and sparked outcry from those claiming it perpetuated stereotypes and discrimination.</p>\n<p>Then Damore was fired — according to media reports and his own email to the far-right news website Breitbart — which ignited backlash from those claiming Google was stifling free speech and politically conservative viewpoints.</p>\n<p>News of the ‘town hall’ meeting’s cancellation was sent to employees in a memo from chief executive Sundar Pichai, who apologised to them for giving late notice.</p>\n<p>Questions being posed internally by employees, along with some of their names, began appearing on outside websites, prompting safety concerns, according to a copy of the memo obtained by AFP.</p>\n<p>[embed id=\"embed_1\"]</p>\n<p><strong>Sexism </strong></p>\n<p>“We had hoped to have a frank, open discussion today as we always do to bring us together and move forward,” Pichai said in the memo.</p>\n<blockquote class=\"coloured\">\n<div>Googlers are writing in, concerned about their safety and worried they may be ‘outed’ publicly for asking a question in the Town Hall.</div>\n</blockquote>\n<p>He said Google intends a series of internal forums in the coming days to give people chances to speak freely without fear.</p>\n<p>Pichai said he has met with many people at Google about the controversy, with the vast majority supporting the decision to fire the author of the manifesto.</p>\n<p>The fresh controversy comes with Silicon Valley struggling in the face of accusations of rampant sexual harassment and discrimination affecting startups like Uber and venture capital firms investing in the sector.</p>\n<p>Earlier this week, Pichai said employees have a right to express themselves but that the memo appeared to “cross the line by advancing harmful gender stereotypes in our workplace”.</p>\n<p>“To suggest a group of our colleagues have traits that make them less biologically suited to that work is offensive and not OK,” Pichai said in his email to employees.</p>\n<p>Damore’s firing made him a hero to the far right and those claiming political correctness has gone too far.</p>\n<p><em><em>- <a href=\"https://www.afp.com/en/home\" target=\"_blank\">© AFP 2017</a></em></em></p>\n<h3>Read: <a href=\"http://www.thejournal.ie/google-gender-diversity-3534752-Aug2017/\">Google sacks worker who said women don’t fill tech jobs due to ‘biological issues’ in internal memo</a>\n</h3>\n<h3>Read: <a href=\"http://www.thejournal.ie/china-bus-crash-3540490-Aug2017/\">At least 36 people killed in bus crash in China</a>\n</h3>\n",
+    "permalink": "http://www.thejournal.ie/google-sexism-meeting-cancelled-3540534-Aug2017/",
+    "shortlink": "http://jrnl.ie/3540534",
+    "type": "post",
+    "secondary_publications": [],
+    "main_story_links": [
+      {
+        "text": "",
+        "url": ""
+      },
+      {
+        "text": "",
+        "url": ""
+      }
+    ],
+    "categories": {
+      "thejournal": {
+        "id": "27",
+        "name": "Tech",
+        "slug": "tech"
+      }
+    },
+    "publication_data": {
+      "primary": "thejournal",
+      "all": [
+        "thejournal"
+      ],
+      "categories": {
+        "thejournal": [
+          {
+            "id": "2",
+            "name": "International",
+            "slug": "international"
+          },
+          {
+            "id": "27",
+            "name": "Tech",
+            "slug": "tech"
+          }
+        ]
+      }
+    },
+    "images": {
+      "thumbnail": {
+        "image": "http://c1.thejournal.ie/media/2017/08/shutterstock_315779180-145x145.jpg",
+        "width": 145,
+        "height": 145
+      },
+      "medium": {
+        "image": "http://c1.thejournal.ie/media/2017/08/shutterstock_315779180-296x197.jpg",
+        "width": 296,
+        "height": 197
+      },
+      "large": {
+        "image": "http://c1.thejournal.ie/media/2017/08/shutterstock_315779180-630x420.jpg",
+        "width": 630,
+        "height": 420
+      },
+      "larger": {
+        "image": "http://c1.thejournal.ie/media/2017/08/shutterstock_315779180-744x496.jpg",
+        "width": 744,
+        "height": 496
+      },
+      "river_0": {
+        "image": "http://c1.thejournal.ie/media/2017/08/shutterstock_315779180-230x150.jpg",
+        "width": 230,
+        "height": 150
+      },
+      "river_1": {
+        "image": "http://c3.thejournal.ie/media/2017/08/shutterstock_315779180-2300x1500.jpg",
+        "width": 2300,
+        "height": 1500
+      },
+      "article_page_0": {
+        "image": "http://c1.thejournal.ie/media/2017/08/shutterstock_315779180-390x285.jpg",
+        "width": 390,
+        "height": 285
+      },
+      "square_0": {
+        "image": "http://c1.thejournal.ie/media/2017/08/shutterstock_315779180-390x390.jpg",
+        "width": 390,
+        "height": 390
+      },
+      "square_1": {
+        "image": "http://c1.thejournal.ie/media/2017/08/shutterstock_315779180-197x197.jpg",
+        "width": 197,
+        "height": 197
+      },
+      "square_2": {
+        "image": "http://c3.thejournal.ie/media/2017/08/shutterstock_315779180-96x96.jpg",
+        "width": 96,
+        "height": 96
+      },
+      "square_3": {
+        "image": "http://c3.thejournal.ie/media/2017/08/shutterstock_315779180-85x85.jpg",
+        "width": 85,
+        "height": 85
+      },
+      "square_4": {
+        "image": "http://c1.thejournal.ie/media/2017/08/shutterstock_315779180-100x100.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "square_5": {
+        "image": "http://c3.thejournal.ie/media/2017/08/shutterstock_315779180-2000x2000.jpg",
+        "width": 2000,
+        "height": 2000
+      },
+      "main_story_0": {
+        "image": "http://c1.thejournal.ie/media/2017/08/shutterstock_315779180-630x260.jpg",
+        "width": 630,
+        "height": 260
+      },
+      "main_story_1": {
+        "image": "http://c0.thejournal.ie/media/2017/08/shutterstock_315779180-210x87.jpg",
+        "width": 210,
+        "height": 87
+      },
+      "main_story_2": {
+        "image": "http://c1.thejournal.ie/media/2017/08/shutterstock_315779180-290x120.jpg",
+        "width": 290,
+        "height": 120
+      },
+      "super_wide_0": {
+        "image": "http://c1.thejournal.ie/media/2017/08/shutterstock_315779180-950x260.jpg",
+        "width": 950,
+        "height": 260
+      },
+      "super_wide_1": {
+        "image": "http://c0.thejournal.ie/media/2017/08/shutterstock_315779180-290x80.jpg",
+        "width": 290,
+        "height": 80
+      },
+      "listings_0": {
+        "image": "http://c1.thejournal.ie/media/2017/08/shutterstock_315779180-150x100.jpg",
+        "width": 150,
+        "height": 100
+      },
+      "listings_1": {
+        "image": "http://c3.thejournal.ie/media/2017/08/shutterstock_315779180-80x50.jpg",
+        "width": 80,
+        "height": 50
+      },
+      "listings_2": {
+        "image": "http://c1.thejournal.ie/media/2017/08/shutterstock_315779180-225x150.jpg",
+        "width": 225,
+        "height": 150
+      },
+      "listings_3": {
+        "image": "http://c1.thejournal.ie/media/2017/08/shutterstock_315779180-300x200.jpg",
+        "width": 300,
+        "height": 200
+      },
+      "listings_4": {
+        "image": "http://c1.thejournal.ie/media/2017/08/shutterstock_315779180-304x203.jpg",
+        "width": 304,
+        "height": 203
+      },
+      "listings_5": {
+        "image": "http://c1.thejournal.ie/media/2017/08/shutterstock_315779180-752x501.jpg",
+        "width": 752,
+        "height": 501
+      },
+      "listings_6": {
+        "image": "http://c1.thejournal.ie/media/2017/08/shutterstock_315779180-310x207.jpg",
+        "width": 310,
+        "height": 207
+      },
+      "offer_large_0": {
+        "image": "http://c1.thejournal.ie/media/2017/08/shutterstock_315779180-458x298.jpg",
+        "width": 458,
+        "height": 298
+      },
+      "offer_medium_0": {
+        "image": "http://c1.thejournal.ie/media/2017/08/shutterstock_315779180-298x194.jpg",
+        "width": 298,
+        "height": 194
+      },
+      "offer_small_0": {
+        "image": "http://c1.thejournal.ie/media/2017/08/shutterstock_315779180-218x140.jpg",
+        "width": 218,
+        "height": 140
+      },
+      "river_magazine_0": {
+        "image": "http://c1.thejournal.ie/media/2017/08/shutterstock_315779180-630x332.jpg",
+        "width": 630,
+        "height": 332
+      },
+      "hero_0": {
+        "image": "http://c2.thejournal.ie/media/2017/08/shutterstock_315779180-1366x380.jpg",
+        "width": 1366,
+        "height": 380
+      },
+      "hide_article_image": {
+        "image": null,
+        "width": null,
+        "height": null
+      },
+      "original": {
+        "image": "http://c1.thejournal.ie/media/2017/08/shutterstock_315779180.jpg",
+        "width": false,
+        "height": false
+      }
+    },
+    "is_short_post": false,
+    "image_data": {
+      "orientation": "landscape",
+      "credit": "Shutterstock/antb",
+      "caption": "",
+      "id": "3540551",
+      "raw_source": "Shutterstock / antb",
+      "raw_source_url": false
+    },
+    "show_image": false,
+    "slideshows": false,
+    "poll": false,
+    "by_line_author": false,
+    "has_liveblog": 0,
+    "has_active_liveblog": 0,
+    "liveblog": [],
+    "primary_tag": {
+      "slug": "silicon-valley",
+      "name": "Silicon Valley"
+    },
+    "tags": [
+      {
+        "name": "Cancelled",
+        "slug": "cancelled",
+        "description": "",
+        "count": "62"
+      },
+      {
+        "name": "Free Speech",
+        "slug": "free-speech",
+        "description": "",
+        "count": "40"
+      },
+      {
+        "name": "Gender",
+        "slug": "gender",
+        "description": "",
+        "count": "214"
+      },
+      {
+        "name": "Google",
+        "slug": "google",
+        "description": "Provides a wide range of internet services, primarily a search engine. Google was founded by the \"Google guys\" Larry Page and Sergey Brin in 1998 when they were both Ph.D students at Stanford. The company employs 22,000 people and profited $6.5 billion in 2009. Google generates most of its profit from advertising.",
+        "image": "http://thejournal.ie/media/2010/08/google2-145x145.jpg",
+        "count": "779"
+      },
+      {
+        "name": "James Damore",
+        "slug": "james-damore",
+        "description": "",
+        "count": "1"
+      },
+      {
+        "name": "Meeting",
+        "slug": "meeting",
+        "description": "",
+        "count": "138"
+      },
+      {
+        "name": "Memo",
+        "slug": "memo",
+        "description": "",
+        "count": "15"
+      },
+      {
+        "name": "Sexism",
+        "slug": "sexism",
+        "description": "",
+        "count": "146"
+      },
+      {
+        "name": "Silicon Valley",
+        "slug": "silicon-valley",
+        "description": "",
+        "count": "43"
+      },
+      {
+        "name": "Sundar Pichai",
+        "slug": "sundar-pichai",
+        "description": "",
+        "count": "2"
+      }
+    ],
+    "embeds": {
+      "embed_1": {
+        "type": "ad",
+        "size": "mpu",
+        "id": "ad_1"
+      }
+    },
+    "inline_images": [
+      {
+        "src": "http://c1.thejournal.ie/media/2017/08/shutterstock_315779180.jpg",
+        "width": 1000,
+        "height": 667,
+        "alt": "shutterstock_315779180",
+        "title": "",
+        "caption": "",
+        "credit": {
+          "source": "Shutterstock",
+          "service_name": "antb",
+          "html": "Source: Shutterstock/antb"
+        },
+        "id": "3540551",
+        "class": "aligncenter",
+        "key": "image_1",
+        "object_id": "3540551",
+        "object_type": "inline",
+        "version": "3540551"
+      }
+    ],
+    "comments_allowed": 1,
+    "river_format": "landscape",
+    "author": {
+      "id": "1585",
+      "name": "AFP",
+      "email": "",
+      "twitter": "",
+      "description": "",
+      "googleplus": "",
+      "slug": "afp",
+      "publication": "",
+      "is_admin": false,
+      "avatar": "https://f3.thejournal.ie/media/2012/09/afplogo-133x92.png",
+      "is_syndication": true
+    },
+    "admin_author": {
+      "id": "116",
+      "name": "Órla Ryan",
+      "email": "orla@thejournal.ie"
+    },
+    "banner_video": {
+      "has_banner_video": false,
+      "embed": null
+    },
+    "advertising": {
+      "targets": [
+        {
+          "key": "targeting-key",
+          "values": [
+            "cancelled",
+            "free-speech",
+            "gender",
+            "google",
+            "james-damore",
+            "meeting",
+            "memo",
+            "sexism",
+            "silicon-valley",
+            "sundar-pichai"
+          ]
+        },
+        {
+          "key": "targetingkey",
+          "values": [
+            "cancelled",
+            "free-speech",
+            "gender",
+            "google",
+            "james-damore",
+            "meeting",
+            "memo",
+            "sexism",
+            "silicon-valley",
+            "sundar-pichai"
+          ]
+        }
+      ],
+      "dfp_unit_template": "regular_%s",
+      "dfp_units": {
+        "dfp_footer": true,
+        "dfp_logo": false,
+        "dfp_mpu": true
+      }
+    },
+    "retargeting": [
+      {
+        "key": "international_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "international_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "tech_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "tech_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      }
+    ],
+    "id_name": "article",
+    "primary_image": {
+      "id": 3540534,
+      "object_id": 3540534,
+      "object_type": "article",
+      "crops": [
+        "original"
+      ],
+      "credit": {
+        "text": "Shutterstock / antb",
+        "url": false
+      },
+      "version": 3540551
+    },
+    "time_label": {
+      "is_displayed": true,
+      "is_replaced": false,
+      "replacement_text": null
+    }
+  },
+  {
+    "id": 3534752,
+    "title": "Google sacks worker who said women don't fill tech jobs due to 'biological issues' in internal memo",
+    "slug": "google-gender-diversity",
+    "date": "2017-08-08 07:45:18",
+    "date_modified": "2017-08-08 07:46:15",
+    "date_published": "2017-08-08 07:45:18",
+    "is_updated": false,
+    "has_audio": "0",
+    "has_video": "0",
+    "has_slideshow": "0",
+    "is_hot_on_twitter": "0",
+    "publication": "thejournal",
+    "stats": {
+      "views": "23695",
+      "comments": "139",
+      "facebook": "555",
+      "twitter": "0",
+      "email": "2",
+      "dislikes": "0",
+      "likes": "0"
+    },
+    "syndication_source": "afp",
+    "seo_title": null,
+    "seo_description": null,
+    "is_sponsored": 0,
+    "sticky": null,
+    "header_url": null,
+    "internal_syndication_id": null,
+    "digest_key": "article_3534752",
+    "date_unix": 1502174718,
+    "date_modified_unix": 1502178375,
+    "status": "publish",
+    "is_exclusive": "0",
+    "excerpt": "US media reports have said that the employee was removed from their position after violating the company code of conduct.",
+    "content": "<p>GOOGLE HAS FIRED the author of an internal memo defending the gender-gap in Silicon Valley tech jobs as a matter of biology, according to media reports.</p>\n<p>The move was not officially confirmed by Google. It told AFP that the company “can’t comment on individual employee cases”.</p>\n<p>In an email to employees, Google chief executive Sundar Pichai supported the right of employees to express themselves, saying that much of what was in the memo is fair to debate, according to a copy of the message obtained by AFP.</p>\n<p>“However, portions of the memo violate our code of conduct and cross the line by advancing harmful gender stereotypes in our workplace,” Pichai said in the email.</p>\n<blockquote class=\"coloured\">\n<div>To suggest a group of our colleagues have traits that make them less biologically suited to that work is offensive and not OK.</div>\n</blockquote>\n<p>Pichai noted that the company code of conduct calls for ‘Googlers’ to do their utmost to create “a culture free of harassment, intimidation, bias and unlawful discrimination”.</p>\n<p>However, Pichai defended the author’s right to criticise Google training, workplace ideology, and whether programmes promoting workplace diversity are adequately open to all.</p>\n<p>“The author had a right to express their views on those topics,” Pichai said.</p>\n<p>“We encourage an environment in which people can do this and it remains our policy to not take action against anyone for prompting these discussions.”</p>\n<p>Recode, Bloomberg and other media outlets reported yesterday that the author of the controversial internal document was fired.</p>\n<p>[embed id=\"embed_1\"]</p>\n<p><strong>“Biological causes”</strong></p>\n<p>The leaked internal document that triggered the controversy claimed “biological causes” explained the lack of women in tech industry leadership roles.</p>\n<p>The screed – dubbed sexist by US media – went viral, reviving the simmering debate over a culture of sexism and lack of diversity in tech sectors.</p>\n<p>“I’m simply stating that the distribution of preferences and abilities of men and women differ in part due to biological causes and that these differences may explain why we don’t see equal representation of women in tech and leadership,” read the 3,000-word memo.</p>\n<p>According to the author, natural aptitudes of men allow them to become better computer programmers, while women have more “openness directed towards feelings and aesthetics rather than ideas” – meaning they “prefer jobs in social or artistic areas”.</p>\n<p>In response to the leaked memo, Danielle Brown, Google’s new vice president of diversity, told employees in an email that “it’s not a viewpoint that I or this company endorses, promotes or encourages”.</p>\n<p>“I found that it advanced incorrect assumptions about gender,” she said.</p>\n<p>The controversy comes as increasing numbers of women are going public with complaints of gender-based discrimination in Silicon Valley.</p>\n<p>Currently some 69% of Google’s employees are men, according to the company’s latest figures, a proportion that rises to 80% when it comes to technology jobs.</p>\n<p>In 2016 at Facebook just 27% of senior executives were women. At Apple, around 30% of total employees are women.</p>\n<p><a href=\"http://www.afp.com/en\" target=\"_blank\">- © AFP, 2017</a></p>\n<h3>Read: <a href=\"http://www.thejournal.ie/canada-eu-flights-illegal-3515173-Jul2017/\">EU and Canada’s attempts to fight terrorism by sharing airline passenger details deemed illegal</a>\n</h3>\n<h3>Read: <a href=\"http://www.thejournal.ie/apple-tax-ireland-fund-3511828-Jul2017/\">Ireland is looking for someone to hold onto the €15 billion from Apple’s tax bill</a>\n</h3>\n",
+    "permalink": "http://www.thejournal.ie/google-gender-diversity-3534752-Aug2017/",
+    "shortlink": "http://jrnl.ie/3534752",
+    "type": "post",
+    "secondary_publications": [],
+    "main_story_links": [
+      {
+        "text": "",
+        "url": ""
+      },
+      {
+        "text": "",
+        "url": ""
+      }
+    ],
+    "categories": {
+      "thejournal": {
+        "id": "27",
+        "name": "Tech",
+        "slug": "tech"
+      }
+    },
+    "publication_data": {
+      "primary": "thejournal",
+      "all": [
+        "thejournal"
+      ],
+      "categories": {
+        "thejournal": [
+          {
+            "id": "2",
+            "name": "International",
+            "slug": "international"
+          },
+          {
+            "id": "27",
+            "name": "Tech",
+            "slug": "tech"
+          }
+        ]
+      }
+    },
+    "images": {
+      "thumbnail": {
+        "image": "http://c0.thejournal.ie/media/2017/08/googles-nyc-offices-in-downtown-manhattan-145x145.jpg",
+        "width": 145,
+        "height": 145
+      },
+      "medium": {
+        "image": "http://c0.thejournal.ie/media/2017/08/googles-nyc-offices-in-downtown-manhattan-296x196.jpg",
+        "width": 296,
+        "height": 196
+      },
+      "large": {
+        "image": "http://c0.thejournal.ie/media/2017/08/googles-nyc-offices-in-downtown-manhattan-630x418.jpg",
+        "width": 630,
+        "height": 418
+      },
+      "larger": {
+        "image": "http://c0.thejournal.ie/media/2017/08/googles-nyc-offices-in-downtown-manhattan-744x494.jpg",
+        "width": 744,
+        "height": 494
+      },
+      "river_0": {
+        "image": "http://c0.thejournal.ie/media/2017/08/googles-nyc-offices-in-downtown-manhattan-230x150.jpg",
+        "width": 230,
+        "height": 150
+      },
+      "river_1": {
+        "image": "http://c2.thejournal.ie/media/2017/08/googles-nyc-offices-in-downtown-manhattan-2300x1500.jpg",
+        "width": 2300,
+        "height": 1500
+      },
+      "article_page_0": {
+        "image": "http://c0.thejournal.ie/media/2017/08/googles-nyc-offices-in-downtown-manhattan-390x285.jpg",
+        "width": 390,
+        "height": 285
+      },
+      "square_0": {
+        "image": "http://c0.thejournal.ie/media/2017/08/googles-nyc-offices-in-downtown-manhattan-390x390.jpg",
+        "width": 390,
+        "height": 390
+      },
+      "square_1": {
+        "image": "http://c0.thejournal.ie/media/2017/08/googles-nyc-offices-in-downtown-manhattan-197x197.jpg",
+        "width": 197,
+        "height": 197
+      },
+      "square_2": {
+        "image": "http://c2.thejournal.ie/media/2017/08/googles-nyc-offices-in-downtown-manhattan-96x96.jpg",
+        "width": 96,
+        "height": 96
+      },
+      "square_3": {
+        "image": "http://c2.thejournal.ie/media/2017/08/googles-nyc-offices-in-downtown-manhattan-85x85.jpg",
+        "width": 85,
+        "height": 85
+      },
+      "square_4": {
+        "image": "http://c0.thejournal.ie/media/2017/08/googles-nyc-offices-in-downtown-manhattan-100x100.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "square_5": {
+        "image": "http://c2.thejournal.ie/media/2017/08/googles-nyc-offices-in-downtown-manhattan-2000x2000.jpg",
+        "width": 2000,
+        "height": 2000
+      },
+      "main_story_0": {
+        "image": "http://c0.thejournal.ie/media/2017/08/googles-nyc-offices-in-downtown-manhattan-630x260.jpg",
+        "width": 630,
+        "height": 260
+      },
+      "main_story_1": {
+        "image": "http://c3.thejournal.ie/media/2017/08/googles-nyc-offices-in-downtown-manhattan-210x87.jpg",
+        "width": 210,
+        "height": 87
+      },
+      "main_story_2": {
+        "image": "http://c0.thejournal.ie/media/2017/08/googles-nyc-offices-in-downtown-manhattan-290x120.jpg",
+        "width": 290,
+        "height": 120
+      },
+      "super_wide_0": {
+        "image": "http://c0.thejournal.ie/media/2017/08/googles-nyc-offices-in-downtown-manhattan-950x260.jpg",
+        "width": 950,
+        "height": 260
+      },
+      "super_wide_1": {
+        "image": "http://c3.thejournal.ie/media/2017/08/googles-nyc-offices-in-downtown-manhattan-290x80.jpg",
+        "width": 290,
+        "height": 80
+      },
+      "listings_0": {
+        "image": "http://c0.thejournal.ie/media/2017/08/googles-nyc-offices-in-downtown-manhattan-150x100.jpg",
+        "width": 150,
+        "height": 100
+      },
+      "listings_1": {
+        "image": "http://c2.thejournal.ie/media/2017/08/googles-nyc-offices-in-downtown-manhattan-80x50.jpg",
+        "width": 80,
+        "height": 50
+      },
+      "listings_2": {
+        "image": "http://c0.thejournal.ie/media/2017/08/googles-nyc-offices-in-downtown-manhattan-225x150.jpg",
+        "width": 225,
+        "height": 150
+      },
+      "listings_3": {
+        "image": "http://c0.thejournal.ie/media/2017/08/googles-nyc-offices-in-downtown-manhattan-300x200.jpg",
+        "width": 300,
+        "height": 200
+      },
+      "listings_4": {
+        "image": "http://c0.thejournal.ie/media/2017/08/googles-nyc-offices-in-downtown-manhattan-304x203.jpg",
+        "width": 304,
+        "height": 203
+      },
+      "listings_5": {
+        "image": "http://c0.thejournal.ie/media/2017/08/googles-nyc-offices-in-downtown-manhattan-752x501.jpg",
+        "width": 752,
+        "height": 501
+      },
+      "listings_6": {
+        "image": "http://c0.thejournal.ie/media/2017/08/googles-nyc-offices-in-downtown-manhattan-310x207.jpg",
+        "width": 310,
+        "height": 207
+      },
+      "offer_large_0": {
+        "image": "http://c0.thejournal.ie/media/2017/08/googles-nyc-offices-in-downtown-manhattan-458x298.jpg",
+        "width": 458,
+        "height": 298
+      },
+      "offer_medium_0": {
+        "image": "http://c0.thejournal.ie/media/2017/08/googles-nyc-offices-in-downtown-manhattan-298x194.jpg",
+        "width": 298,
+        "height": 194
+      },
+      "offer_small_0": {
+        "image": "http://c0.thejournal.ie/media/2017/08/googles-nyc-offices-in-downtown-manhattan-218x140.jpg",
+        "width": 218,
+        "height": 140
+      },
+      "river_magazine_0": {
+        "image": "http://c0.thejournal.ie/media/2017/08/googles-nyc-offices-in-downtown-manhattan-630x332.jpg",
+        "width": 630,
+        "height": 332
+      },
+      "hero_0": {
+        "image": "http://c1.thejournal.ie/media/2017/08/googles-nyc-offices-in-downtown-manhattan-1366x380.jpg",
+        "width": 1366,
+        "height": 380
+      },
+      "original": {
+        "image": "http://c0.thejournal.ie/media/2017/08/googles-nyc-offices-in-downtown-manhattan.jpg",
+        "width": false,
+        "height": false
+      }
+    },
+    "is_short_post": false,
+    "image_data": {
+      "orientation": "landscape",
+      "credit": "Sachelle Babbar/Zuma Press/PA Images",
+      "caption": "In an internal memo, the Google CEO was critical of the comments.",
+      "id": "3534769",
+      "raw_source": "Sachelle Babbar/Zuma Press/PA Images",
+      "raw_source_url": false
+    },
+    "show_image": true,
+    "slideshows": false,
+    "poll": false,
+    "by_line_author": false,
+    "has_liveblog": 0,
+    "has_active_liveblog": 0,
+    "liveblog": [],
+    "primary_tag": {
+      "slug": "sexism-row",
+      "name": "Sexism Row"
+    },
+    "tags": [
+      {
+        "name": "diversity",
+        "slug": "diversity",
+        "description": "",
+        "count": "51"
+      },
+      {
+        "name": "fired",
+        "slug": "fired",
+        "description": "",
+        "count": "56"
+      },
+      {
+        "name": "Gender",
+        "slug": "gender",
+        "description": "",
+        "count": "216"
+      },
+      {
+        "name": "Google",
+        "slug": "google",
+        "description": "Provides a wide range of internet services, primarily a search engine. Google was founded by the \"Google guys\" Larry Page and Sergey Brin in 1998 when they were both Ph.D students at Stanford. The company employs 22,000 people and profited $6.5 billion in 2009. Google generates most of its profit from advertising.",
+        "image": "http://thejournal.ie/media/2010/08/google2-145x145.jpg",
+        "count": "780"
+      },
+      {
+        "name": "Sexism Row",
+        "slug": "sexism-row",
+        "description": "",
+        "count": "26"
+      },
+      {
+        "name": "Tech",
+        "slug": "tech",
+        "description": "",
+        "count": "289"
+      }
+    ],
+    "embeds": {
+      "embed_1": {
+        "type": "ad",
+        "size": "mpu",
+        "id": "ad_1"
+      }
+    },
+    "inline_images": [],
+    "comments_allowed": 0,
+    "river_format": "landscape",
+    "author": {
+      "id": "1585",
+      "name": "AFP",
+      "email": "",
+      "twitter": "",
+      "description": "",
+      "googleplus": "",
+      "slug": "afp",
+      "publication": "",
+      "is_admin": false,
+      "avatar": "https://f0.thejournal.ie/media/2012/09/afplogo-133x92.png",
+      "is_syndication": true
+    },
+    "admin_author": {
+      "id": "187",
+      "name": "Sean Murray",
+      "email": "sean@thejournal.ie"
+    },
+    "banner_video": {
+      "has_banner_video": false,
+      "embed": null
+    },
+    "advertising": {
+      "targets": [
+        {
+          "key": "targeting-key",
+          "values": [
+            "diversity",
+            "fired",
+            "gender",
+            "google",
+            "sexism-row",
+            "tech"
+          ]
+        },
+        {
+          "key": "targetingkey",
+          "values": [
+            "diversity",
+            "fired",
+            "gender",
+            "google",
+            "sexism-row",
+            "tech"
+          ]
+        }
+      ],
+      "dfp_unit_template": "regular_%s",
+      "dfp_units": {
+        "dfp_footer": true,
+        "dfp_logo": false,
+        "dfp_mpu": true
+      }
+    },
+    "retargeting": [
+      {
+        "key": "tech_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "international_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "international_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "tech_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "tech_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      }
+    ],
+    "id_name": "article",
+    "primary_image": {
+      "id": 3534752,
+      "object_id": 3534752,
+      "object_type": "article",
+      "crops": [
+        "original"
+      ],
+      "credit": {
+        "text": "Sachelle Babbar/Zuma Press/PA Images",
+        "url": false
+      },
+      "version": 3534769
+    },
+    "time_label": {
+      "is_displayed": true,
+      "is_replaced": false,
+      "replacement_text": null
+    }
+  },
+  {
+    "id": 3493258,
+    "title": "Google won't have to pay €1 billion tax in France - because its Irish subsidiary is not taxable there",
+    "slug": "google-tax-compliant",
+    "date": "2017-07-12 22:16:03",
+    "date_modified": "2017-07-12 21:29:08",
+    "has_audio": "0",
+    "has_video": "0",
+    "has_slideshow": "0",
+    "is_hot_on_twitter": "0",
+    "publication": "thejournal",
+    "stats": {
+      "views": "16812",
+      "comments": "20",
+      "facebook": "103",
+      "twitter": "0",
+      "email": "2",
+      "dislikes": "0",
+      "likes": "0"
+    },
+    "syndication_source": "afp",
+    "seo_title": null,
+    "seo_description": null,
+    "is_sponsored": 0,
+    "sticky": null,
+    "header_url": null,
+    "internal_syndication_id": null,
+    "digest_key": "article_3493258",
+    "date_unix": 1499894163,
+    "date_modified_unix": 1499894948,
+    "status": "publish",
+    "is_exclusive": "0",
+    "excerpt": "A French court ruled in favour of the search engine giant today.",
+    "content": "<p>GOOGLE IS NOT liable for €1.115 billion in unpaid taxes claimed by the French state, a French court ruled today, saying the internet giant’s Irish subsidiary is not taxable in France.</p>\n<p>“The French company Google Ireland Limited (GIL) is not taxable in France for the 2005 to 2010 period,” the court ruled.</p>\n<p>Google paid just €6.7 million in corporate taxes in 2015 in France by booking revenues for its online empire at its European subsidiary in Ireland, which has a lower tax rate.</p>\n<p>The group employs 700 people in France but advertising contracts for its search engine or video-sharing website YouTube are signed with its Irish subsidiary.</p>\n<p>The French claim was the latest in a series against the California-based group, which faces mounting legal problems in the EU.</p>\n<p>European action has become increasingly aggressive against US technology giants Amazon, Facebook and Apple as well as Google.</p>\n<p>The EU hit Google <a href=\"EU%20fines%20Google%20%E2%82%AC2.4%20billion%20for%20'abusing%20its%20market%20dominance'\">with a record €2.4 billion fine</a> on 27 June for abusing its dominant position in the search engine business and illegally favouring its own shopping service over rivals.</p>\n<p>[embed id=\"embed_1\"]</p>\n<p>In 2016, European competition chief Margrethe Vestager shocked Washington and the world by ordering iPhone manufacturer Apple to repay €13 billion in back taxes in Ireland after paying a near-zero rate of tax some years.</p>\n<p>Newly elected French President Emmanuel Macron promised to get tough on US internet giants during his campaign, seeing their low tax rates as a source of resentment about globalisation and unfair on European companies.</p>\n<p>The government’s public accounts ministry said later today that it was weighing an appeal.</p>\n<p>“The administration has two months to appeal these rulings and is already working to this end,” it said in a statement.</p>\n<p>Economy Minister Bruno Le Maire had said Sunday: “It is time Europe got a grip and defended its interests, making Google, Amazon and Facebook pay the taxes they owe European taxpayers.”</p>\n<p>The French claim was significantly higher than the amount Google agreed to pay Italian and British tax authorities over its tax arrangements with its Irish subsidiary.</p>\n<p>In May, the group agreed to pay €306 million to Italian authorities. Last year, it struck a deal with Britain to pay £130 million (€170 million) for a decade of business, which was criticised at the time by opposition MPs as being too low.</p>\n<p>The French claim was a fraction of the company’s annual profits: In April, Alphabet, Google’s parent company, declared a 29 percent jump in profit to $5.4 billion in the first quarter of 2017.</p>\n<p><em>- <a href=\"http://www.thejournal.ie/abu-bakr-al-baghdadi-dead-3490382-Jul2017/afp.com/en\">© AFP 2017</a></em></p>\n<h3>Read: <a href=\"http://www.thejournal.ie/uber-google-emails-3485174-Jul2017/\">Emails between Google and Uber show how the tech giants became enemies</a>\n</h3>\n<h3>Read: <a href=\"http://www.thejournal.ie/eu-google-fine-3465689-Jun2017/\">EU fines Google €2.4 billion for ‘abusing its market dominance’</a>\n</h3>\n",
+    "permalink": "http://www.thejournal.ie/google-tax-compliant-3493258-Jul2017/",
+    "shortlink": "http://jrnl.ie/3493258",
+    "type": "post",
+    "secondary_publications": [],
+    "main_story_links": [
+      {
+        "text": "",
+        "url": ""
+      },
+      {
+        "text": "",
+        "url": ""
+      }
+    ],
+    "categories": {
+      "thejournal": {
+        "id": "27",
+        "name": "Tech",
+        "slug": "tech"
+      }
+    },
+    "publication_data": {
+      "primary": "thejournal",
+      "all": [
+        "thejournal"
+      ],
+      "categories": {
+        "thejournal": [
+          {
+            "id": "1",
+            "name": "Irish",
+            "slug": "irish"
+          },
+          {
+            "id": "2",
+            "name": "International",
+            "slug": "international"
+          },
+          {
+            "id": "27",
+            "name": "Tech",
+            "slug": "tech"
+          }
+        ]
+      }
+    },
+    "images": {
+      "thumbnail": {
+        "image": "http://c0.thejournal.ie/media/2017/07/european-commissioner-for-competition-margrethe-vestager-on-googl-145x145.jpg",
+        "width": 145,
+        "height": 145
+      },
+      "medium": {
+        "image": "http://c0.thejournal.ie/media/2017/07/european-commissioner-for-competition-margrethe-vestager-on-googl-296x197.jpg",
+        "width": 296,
+        "height": 197
+      },
+      "large": {
+        "image": "http://c0.thejournal.ie/media/2017/07/european-commissioner-for-competition-margrethe-vestager-on-googl-630x420.jpg",
+        "width": 630,
+        "height": 420
+      },
+      "larger": {
+        "image": "http://c0.thejournal.ie/media/2017/07/european-commissioner-for-competition-margrethe-vestager-on-googl-744x496.jpg",
+        "width": 744,
+        "height": 496
+      },
+      "river_0": {
+        "image": "http://c0.thejournal.ie/media/2017/07/european-commissioner-for-competition-margrethe-vestager-on-googl-230x150.jpg",
+        "width": 230,
+        "height": 150
+      },
+      "river_1": {
+        "image": "http://c2.thejournal.ie/media/2017/07/european-commissioner-for-competition-margrethe-vestager-on-googl-2300x1500.jpg",
+        "width": 2300,
+        "height": 1500
+      },
+      "article_page_0": {
+        "image": "http://c0.thejournal.ie/media/2017/07/european-commissioner-for-competition-margrethe-vestager-on-googl-390x285.jpg",
+        "width": 390,
+        "height": 285
+      },
+      "square_0": {
+        "image": "http://c0.thejournal.ie/media/2017/07/european-commissioner-for-competition-margrethe-vestager-on-googl-390x390.jpg",
+        "width": 390,
+        "height": 390
+      },
+      "square_1": {
+        "image": "http://c0.thejournal.ie/media/2017/07/european-commissioner-for-competition-margrethe-vestager-on-googl-197x197.jpg",
+        "width": 197,
+        "height": 197
+      },
+      "square_2": {
+        "image": "http://c2.thejournal.ie/media/2017/07/european-commissioner-for-competition-margrethe-vestager-on-googl-96x96.jpg",
+        "width": 96,
+        "height": 96
+      },
+      "square_3": {
+        "image": "http://c2.thejournal.ie/media/2017/07/european-commissioner-for-competition-margrethe-vestager-on-googl-85x85.jpg",
+        "width": 85,
+        "height": 85
+      },
+      "square_4": {
+        "image": "http://c0.thejournal.ie/media/2017/07/european-commissioner-for-competition-margrethe-vestager-on-googl-100x100.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "square_5": {
+        "image": "http://c2.thejournal.ie/media/2017/07/european-commissioner-for-competition-margrethe-vestager-on-googl-2000x2000.jpg",
+        "width": 2000,
+        "height": 2000
+      },
+      "main_story_0": {
+        "image": "http://c0.thejournal.ie/media/2017/07/european-commissioner-for-competition-margrethe-vestager-on-googl-630x260.jpg",
+        "width": 630,
+        "height": 260
+      },
+      "main_story_1": {
+        "image": "http://c3.thejournal.ie/media/2017/07/european-commissioner-for-competition-margrethe-vestager-on-googl-210x87.jpg",
+        "width": 210,
+        "height": 87
+      },
+      "main_story_2": {
+        "image": "http://c0.thejournal.ie/media/2017/07/european-commissioner-for-competition-margrethe-vestager-on-googl-290x120.jpg",
+        "width": 290,
+        "height": 120
+      },
+      "super_wide_0": {
+        "image": "http://c0.thejournal.ie/media/2017/07/european-commissioner-for-competition-margrethe-vestager-on-googl-950x260.jpg",
+        "width": 950,
+        "height": 260
+      },
+      "super_wide_1": {
+        "image": "http://c3.thejournal.ie/media/2017/07/european-commissioner-for-competition-margrethe-vestager-on-googl-290x80.jpg",
+        "width": 290,
+        "height": 80
+      },
+      "listings_0": {
+        "image": "http://c0.thejournal.ie/media/2017/07/european-commissioner-for-competition-margrethe-vestager-on-googl-150x100.jpg",
+        "width": 150,
+        "height": 100
+      },
+      "listings_1": {
+        "image": "http://c2.thejournal.ie/media/2017/07/european-commissioner-for-competition-margrethe-vestager-on-googl-80x50.jpg",
+        "width": 80,
+        "height": 50
+      },
+      "listings_2": {
+        "image": "http://c0.thejournal.ie/media/2017/07/european-commissioner-for-competition-margrethe-vestager-on-googl-225x150.jpg",
+        "width": 225,
+        "height": 150
+      },
+      "listings_3": {
+        "image": "http://c0.thejournal.ie/media/2017/07/european-commissioner-for-competition-margrethe-vestager-on-googl-300x200.jpg",
+        "width": 300,
+        "height": 200
+      },
+      "listings_4": {
+        "image": "http://c0.thejournal.ie/media/2017/07/european-commissioner-for-competition-margrethe-vestager-on-googl-304x203.jpg",
+        "width": 304,
+        "height": 203
+      },
+      "listings_5": {
+        "image": "http://c0.thejournal.ie/media/2017/07/european-commissioner-for-competition-margrethe-vestager-on-googl-752x501.jpg",
+        "width": 752,
+        "height": 501
+      },
+      "listings_6": {
+        "image": "http://c0.thejournal.ie/media/2017/07/european-commissioner-for-competition-margrethe-vestager-on-googl-310x207.jpg",
+        "width": 310,
+        "height": 207
+      },
+      "offer_large_0": {
+        "image": "http://c0.thejournal.ie/media/2017/07/european-commissioner-for-competition-margrethe-vestager-on-googl-458x298.jpg",
+        "width": 458,
+        "height": 298
+      },
+      "offer_medium_0": {
+        "image": "http://c0.thejournal.ie/media/2017/07/european-commissioner-for-competition-margrethe-vestager-on-googl-298x194.jpg",
+        "width": 298,
+        "height": 194
+      },
+      "offer_small_0": {
+        "image": "http://c0.thejournal.ie/media/2017/07/european-commissioner-for-competition-margrethe-vestager-on-googl-218x140.jpg",
+        "width": 218,
+        "height": 140
+      },
+      "river_magazine_0": {
+        "image": "http://c0.thejournal.ie/media/2017/07/european-commissioner-for-competition-margrethe-vestager-on-googl-630x332.jpg",
+        "width": 630,
+        "height": 332
+      },
+      "hero_0": {
+        "image": "http://c1.thejournal.ie/media/2017/07/european-commissioner-for-competition-margrethe-vestager-on-googl-1366x380.jpg",
+        "width": 1366,
+        "height": 380
+      },
+      "original": {
+        "image": "http://c0.thejournal.ie/media/2017/07/european-commissioner-for-competition-margrethe-vestager-on-googl.jpg",
+        "width": false,
+        "height": false
+      }
+    },
+    "is_short_post": false,
+    "image_data": {
+      "orientation": "landscape",
+      "credit": "Thierry Monasse DPA/PA Images",
+      "caption": "",
+      "id": "3493270",
+      "raw_source": "Thierry Monasse DPA/PA Images",
+      "raw_source_url": false
+    },
+    "show_image": true,
+    "slideshows": false,
+    "poll": false,
+    "by_line_author": false,
+    "has_liveblog": 0,
+    "has_active_liveblog": 0,
+    "liveblog": [],
+    "primary_tag": {
+      "slug": "tax-compliant",
+      "name": "Tax Compliant"
+    },
+    "tags": [
+      {
+        "name": "Corporation Tax",
+        "slug": "corporation-tax",
+        "description": "",
+        "count": "159"
+      },
+      {
+        "name": "Court ruling",
+        "slug": "court-ruling",
+        "description": "",
+        "count": "11"
+      },
+      {
+        "name": "EU",
+        "slug": "eu",
+        "description": "A political and economic union consisting of 27 member countries. It is a trading bloc with common trading laws and product regulation for all of its members. The union was originaly the European Coal and Steel Community and was set up after the Second World War to help improve relations between countries. In 1957 it became the European Economic Community and in 1993 the EU was formally established.",
+        "image": "http://home.thejournal.ie/media/2010/09/eu-flag2-145x145.jpg",
+        "count": "1672"
+      },
+      {
+        "name": "European Union",
+        "slug": "european-union",
+        "description": "A political and economic union consisting of 27 member countries. It is a trading bloc with common trading laws and product regulation for all of its members. The union was originaly the European Coal and Steel Community and was set up after the Second World War to help improve relations between countries. In 1957 it became the European Economic Community and in 1993 the EU was formally established.",
+        "image": "http://thejournal.ie/media/2010/09/eu-flag-145x145.jpg",
+        "count": "661"
+      },
+      {
+        "name": "France",
+        "slug": "france",
+        "description": "",
+        "count": "2158"
+      },
+      {
+        "name": "Google",
+        "slug": "google",
+        "description": "Provides a wide range of internet services, primarily a search engine. Google was founded by the \"Google guys\" Larry Page and Sergey Brin in 1998 when they were both Ph.D students at Stanford. The company employs 22,000 people and profited $6.5 billion in 2009. Google generates most of its profit from advertising.",
+        "image": "http://thejournal.ie/media/2010/08/google2-145x145.jpg",
+        "count": "777"
+      },
+      {
+        "name": "Ireland",
+        "slug": "ireland",
+        "description": "",
+        "count": "7733"
+      },
+      {
+        "name": "Tax Compliant",
+        "slug": "tax-compliant",
+        "description": "",
+        "count": "1"
+      },
+      {
+        "name": "Tech",
+        "slug": "tech",
+        "description": "",
+        "count": "286"
+      }
+    ],
+    "embeds": {
+      "embed_1": {
+        "type": "ad",
+        "size": "mpu",
+        "id": "ad_1"
+      }
+    },
+    "inline_images": [],
+    "comments_allowed": 1,
+    "river_format": "landscape",
+    "author": {
+      "id": "1585",
+      "name": "AFP",
+      "email": "",
+      "twitter": "",
+      "description": "",
+      "googleplus": "",
+      "slug": "afp",
+      "publication": "",
+      "is_admin": false,
+      "avatar": "https://f1.thejournal.ie/media/2012/09/afplogo-133x92.png",
+      "is_syndication": true
+    },
+    "admin_author": {
+      "id": "187",
+      "name": "Sean Murray",
+      "email": "sean@thejournal.ie"
+    },
+    "banner_video": {
+      "has_banner_video": false,
+      "embed": null
+    },
+    "advertising": {
+      "targets": [
+        {
+          "key": "targeting-key",
+          "values": [
+            "corporation-tax",
+            "court-ruling",
+            "eu",
+            "european-union",
+            "france",
+            "google",
+            "ireland",
+            "tax-compliant",
+            "tech"
+          ]
+        },
+        {
+          "key": "targetingkey",
+          "values": [
+            "corporation-tax",
+            "court-ruling",
+            "eu",
+            "european-union",
+            "france",
+            "google",
+            "ireland",
+            "tax-compliant",
+            "tech"
+          ]
+        }
+      ],
+      "dfp_unit_template": "regular_%s",
+      "dfp_units": {
+        "dfp_footer": true,
+        "dfp_logo": false,
+        "dfp_mpu": true
+      }
+    },
+    "retargeting": [
+      {
+        "key": "tech_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "irish_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "irish_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "international_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "international_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "tech_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "tech_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      }
+    ],
+    "id_name": "article",
+    "primary_image": {
+      "id": 3493258,
+      "object_id": 3493258,
+      "object_type": "article",
+      "crops": [
+        "original"
+      ],
+      "credit": {
+        "text": "Thierry Monasse DPA/PA Images",
+        "url": false
+      },
+      "version": 3493270
+    },
+    "time_label": {
+      "is_displayed": true,
+      "is_replaced": false,
+      "replacement_text": null
+    }
+  },
+  {
+    "id": 3485174,
+    "title": "Emails between Google and Uber show how the tech giants became enemies",
+    "slug": "uber-google-emails",
+    "date": "2017-07-09 08:30:29",
+    "date_modified": "2017-07-07 19:32:12",
+    "has_audio": "0",
+    "has_video": "0",
+    "has_slideshow": "0",
+    "is_hot_on_twitter": "0",
+    "publication": "thejournal",
+    "stats": {
+      "views": "17147",
+      "comments": "1",
+      "facebook": "22",
+      "twitter": "0",
+      "email": "0",
+      "dislikes": "0",
+      "likes": "0"
+    },
+    "syndication_source": "businessinsider",
+    "seo_title": null,
+    "seo_description": null,
+    "is_sponsored": 0,
+    "sticky": null,
+    "header_url": null,
+    "internal_syndication_id": null,
+    "digest_key": "article_3485174",
+    "date_unix": 1499585429,
+    "date_modified_unix": 1499455932,
+    "show_syndication_links": true,
+    "status": "publish",
+    "is_exclusive": "0",
+    "excerpt": "Uber was suspicious that Google was going to launch a competing lift-sharing service.",
+    "content": "<p>THE MORE UBER’S CEO heard rumours about Google’s plans for its self-driving cars, the more he begged to get a meeting with Google co-founder Larry Page.</p>\n<p>Emails disclosed in a court filing on Thursday show Travis Kalanick’s suspicions and reaction as it became clear that Google — an early investor in Uber — was exploring launching a competing lift-sharing service using the self-driving cars it was developing.</p>\n<p>The two companies are bitter enemies today, with each racing to develop competing self-driving car technology. Google’s self-driving car spin-out Waymo has also sued Uber, alleging theft of intellectual property and patent violations.</p>\n<p>Before all the bad blood, though, Kalanick, who resigned last month, sought to partner with Google on self-driving cars instead of competing, according to the emails, dating from 2015. A high-ranking Google executive appeared to see the value of a partnership as well.</p>\n<p><strong>‘I hope I’m wrong here’</strong></p>\n<p>However, Kalanick’s distrust and fears about Google’s motives were inflamed as he suspected Page — a Google co-founder and the CEO of its parent company, Alphabet — was purposefully avoiding him and that Google was secretly plotting to move into his turf.</p>\n<p>“A meeting with Larry could calm this down if it’s not true but he has been avoiding any meeting with me since last fall,” Kalanick wrote in an email in March 2015.</p>\n<p>“Without any dialogue we get pushed into the assumption that Google is competing in the short term and has probably been planning to do so for quite a bit longer than has been let on,” Kalanick continued.</p>\n<blockquote class=\"coloured\">\n<div>I hope I’m wrong here, just need to do a meeting with Larry ASAP to get clarity and a mutual understanding of how to do a proper partnership here.</div>\n</blockquote>\n<p>The emails document how the relationship between the two tech giants unravelled, and how the brewing sense of mistrust and betrayal ultimately led to an acrimonious legal feud that has captivated Silicon Valley.</p>\n<p>Here’s one of the emails in Thursday’s filing:</p>\n<p>[embed id=\"embed_1\"]</p>\n<p>[image id=\"image_1\"]</p>\n<p>Kalanick’s emails were sent to David Drummond, Google’s head of business and an Uber board member at the time. Drummond agreed that the “value of a partnership now far outweighs concerns about an uncertain future”.</p>\n<p>A Google Calendar invite, also in the court filing, shows that Page, Drummond, Kalanick, and Emil Michael, who was then Uber’s head of business, met for lunch three days later at Google’s headquarters in Mountain View, California.</p>\n<p>What happened next, though, is what Uber wants to question Page about in a legal deposition. In the company’s argument for why it should be able to depose Page, Uber said that not only did the Alphabet CEO attend the lunch meeting to discuss the idea of a partnership, but he “has knowledge about why Waymo rejected that avenue and instead chose to compete with Uber”.</p>\n<p>“Any such competitive business decisions are relevant to the issues in and motivations behind this lawsuit, and to damages,” Uber’s lawyers said. Now it’s up the judge to decide whether Page has to answer Uber’s questions about why the partnership was falling apart from the beginning.</p>\n<p><strong>14,000 company files</strong></p>\n<p>The lawsuit revolves around Waymo’s allegations that one of its former engineers downloaded 14,000 company files relating to self-driving car technology and took them with him when he joined Uber.</p>\n<p>An Uber spokesperson sent Business Insider the following statement about the latest emails: ”There is no substitute for these depositions, which would resolve some key unanswered questions. For instance: why, after Google learned of the alleged downloading of 14,000 files, did Mr Page not alert Uber’s then-CEO to that fact when they spoke?</p>\n<p>“Simultaneously, Google was rejecting a partnership with Uber, choosing instead to compete. This—and the lack of evidence supporting Waymo’s case—begs the obvious question: was this lawsuit actually motivated by the downloading of the files, or was it an attempt to slow down a competitor?”</p>\n<p>Waymo disputed Uber’s complaint about the lack of evidence supporting its case to Business Insider.</p>\n<p>“Uber continues to mischaracterise our claims in order to distract people from the bottom line: that Uber is using stolen Waymo trade secrets in their technology,” a Waymo spokesperson said.</p>\n<p>“We look forward to presenting our evidence at trial and respectfully await the Court’s ruling on Uber’s deposition requests.”</p>\n<p><em><a href=\"http://uk.businessinsider.com/emails-uber-wanted-to-partner-with-google-on-self-driving-cars-2017-7\">- Biz Carson, Business Insider</a> </em></p>\n<h3>Read: <a href=\"http://www.thejournal.ie/cyberattack-sweeping-the-world-3467364-Jun2017/\">Cyberattack that has swept the world was ‘aimed at Ukraine’</a>\n</h3>\n<h3>Read: <a href=\"http://www.thejournal.ie/bizimply-bono-3-3423000-Jun2017/\">Bono-backed startup says there’s only so far you can trade on a famous name</a>\n</h3>\n",
+    "permalink": "http://www.thejournal.ie/uber-google-emails-3485174-Jul2017/",
+    "shortlink": "http://jrnl.ie/3485174",
+    "type": "post",
+    "secondary_publications": [],
+    "main_story_links": [
+      {
+        "text": "",
+        "url": ""
+      },
+      {
+        "text": "",
+        "url": ""
+      }
+    ],
+    "categories": {
+      "thejournal": {
+        "id": "27",
+        "name": "Tech",
+        "slug": "tech"
+      }
+    },
+    "publication_data": {
+      "primary": "thejournal",
+      "all": [
+        "thejournal"
+      ],
+      "categories": {
+        "thejournal": [
+          {
+            "id": "2",
+            "name": "International",
+            "slug": "international"
+          },
+          {
+            "id": "27",
+            "name": "Tech",
+            "slug": "tech"
+          }
+        ]
+      }
+    },
+    "images": {
+      "thumbnail": {
+        "image": "http://c1.thejournal.ie/media/2017/07/screen-shot-2017-07-06-at-21908-pm-145x145.png",
+        "width": 145,
+        "height": 145
+      },
+      "medium": {
+        "image": "http://c1.thejournal.ie/media/2017/07/screen-shot-2017-07-06-at-21908-pm-296x274.png",
+        "width": 296,
+        "height": 274
+      },
+      "large": {
+        "image": "http://c1.thejournal.ie/media/2017/07/screen-shot-2017-07-06-at-21908-pm-540x500.png",
+        "width": 540,
+        "height": 500
+      },
+      "larger": {
+        "image": "http://c1.thejournal.ie/media/2017/07/screen-shot-2017-07-06-at-21908-pm-744x688.png",
+        "width": 744,
+        "height": 688
+      },
+      "river_0": {
+        "image": "http://c1.thejournal.ie/media/2017/07/screen-shot-2017-07-06-at-21908-pm-230x150.png",
+        "width": 230,
+        "height": 150
+      },
+      "river_1": {
+        "image": "http://c3.thejournal.ie/media/2017/07/screen-shot-2017-07-06-at-21908-pm-2300x1500.png",
+        "width": 2300,
+        "height": 1500
+      },
+      "article_page_0": {
+        "image": "http://c1.thejournal.ie/media/2017/07/screen-shot-2017-07-06-at-21908-pm-390x285.png",
+        "width": 390,
+        "height": 285
+      },
+      "square_0": {
+        "image": "http://c1.thejournal.ie/media/2017/07/screen-shot-2017-07-06-at-21908-pm-390x390.png",
+        "width": 390,
+        "height": 390
+      },
+      "square_1": {
+        "image": "http://c1.thejournal.ie/media/2017/07/screen-shot-2017-07-06-at-21908-pm-197x197.png",
+        "width": 197,
+        "height": 197
+      },
+      "square_2": {
+        "image": "http://c3.thejournal.ie/media/2017/07/screen-shot-2017-07-06-at-21908-pm-96x96.png",
+        "width": 96,
+        "height": 96
+      },
+      "square_3": {
+        "image": "http://c3.thejournal.ie/media/2017/07/screen-shot-2017-07-06-at-21908-pm-85x85.png",
+        "width": 85,
+        "height": 85
+      },
+      "square_4": {
+        "image": "http://c1.thejournal.ie/media/2017/07/screen-shot-2017-07-06-at-21908-pm-100x100.png",
+        "width": 100,
+        "height": 100
+      },
+      "square_5": {
+        "image": "http://c3.thejournal.ie/media/2017/07/screen-shot-2017-07-06-at-21908-pm-2000x2000.png",
+        "width": 2000,
+        "height": 2000
+      },
+      "main_story_0": {
+        "image": "http://c1.thejournal.ie/media/2017/07/screen-shot-2017-07-06-at-21908-pm-630x260.png",
+        "width": 630,
+        "height": 260
+      },
+      "main_story_1": {
+        "image": "http://c0.thejournal.ie/media/2017/07/screen-shot-2017-07-06-at-21908-pm-210x87.png",
+        "width": 210,
+        "height": 87
+      },
+      "main_story_2": {
+        "image": "http://c1.thejournal.ie/media/2017/07/screen-shot-2017-07-06-at-21908-pm-290x120.png",
+        "width": 290,
+        "height": 120
+      },
+      "super_wide_0": {
+        "image": "http://c1.thejournal.ie/media/2017/07/screen-shot-2017-07-06-at-21908-pm-950x260.png",
+        "width": 950,
+        "height": 260
+      },
+      "super_wide_1": {
+        "image": "http://c0.thejournal.ie/media/2017/07/screen-shot-2017-07-06-at-21908-pm-290x80.png",
+        "width": 290,
+        "height": 80
+      },
+      "listings_0": {
+        "image": "http://c1.thejournal.ie/media/2017/07/screen-shot-2017-07-06-at-21908-pm-150x100.png",
+        "width": 150,
+        "height": 100
+      },
+      "listings_1": {
+        "image": "http://c3.thejournal.ie/media/2017/07/screen-shot-2017-07-06-at-21908-pm-80x50.png",
+        "width": 80,
+        "height": 50
+      },
+      "listings_2": {
+        "image": "http://c1.thejournal.ie/media/2017/07/screen-shot-2017-07-06-at-21908-pm-225x150.png",
+        "width": 225,
+        "height": 150
+      },
+      "listings_3": {
+        "image": "http://c1.thejournal.ie/media/2017/07/screen-shot-2017-07-06-at-21908-pm-300x200.png",
+        "width": 300,
+        "height": 200
+      },
+      "listings_4": {
+        "image": "http://c1.thejournal.ie/media/2017/07/screen-shot-2017-07-06-at-21908-pm-304x203.png",
+        "width": 304,
+        "height": 203
+      },
+      "listings_5": {
+        "image": "http://c1.thejournal.ie/media/2017/07/screen-shot-2017-07-06-at-21908-pm-752x501.png",
+        "width": 752,
+        "height": 501
+      },
+      "listings_6": {
+        "image": "http://c1.thejournal.ie/media/2017/07/screen-shot-2017-07-06-at-21908-pm-310x207.png",
+        "width": 310,
+        "height": 207
+      },
+      "offer_large_0": {
+        "image": "http://c1.thejournal.ie/media/2017/07/screen-shot-2017-07-06-at-21908-pm-458x298.png",
+        "width": 458,
+        "height": 298
+      },
+      "offer_medium_0": {
+        "image": "http://c1.thejournal.ie/media/2017/07/screen-shot-2017-07-06-at-21908-pm-298x194.png",
+        "width": 298,
+        "height": 194
+      },
+      "offer_small_0": {
+        "image": "http://c1.thejournal.ie/media/2017/07/screen-shot-2017-07-06-at-21908-pm-218x140.png",
+        "width": 218,
+        "height": 140
+      },
+      "river_magazine_0": {
+        "image": "http://c1.thejournal.ie/media/2017/07/screen-shot-2017-07-06-at-21908-pm-630x332.png",
+        "width": 630,
+        "height": 332
+      },
+      "hero_0": {
+        "image": "http://c2.thejournal.ie/media/2017/07/screen-shot-2017-07-06-at-21908-pm-1366x380.png",
+        "width": 1366,
+        "height": 380
+      },
+      "hide_article_image": {
+        "image": null,
+        "width": null,
+        "height": null
+      },
+      "original": {
+        "image": "http://c1.thejournal.ie/media/2017/07/screen-shot-2017-07-06-at-21908-pm.png",
+        "width": false,
+        "height": false
+      }
+    },
+    "is_short_post": false,
+    "image_data": {
+      "orientation": "landscape",
+      "credit": "Court filing",
+      "caption": "Travis Kalanick wanted to meet Larry Page about a possible partnership ",
+      "id": "3485192",
+      "raw_source": "Court filing",
+      "raw_source_url": false
+    },
+    "show_image": false,
+    "slideshows": false,
+    "poll": false,
+    "by_line_author": false,
+    "has_liveblog": 0,
+    "has_active_liveblog": 0,
+    "liveblog": [],
+    "primary_tag": {
+      "slug": "self-driving-cars",
+      "name": "SELF-DRIVING CARS"
+    },
+    "tags": [
+      {
+        "name": "alphabet",
+        "slug": "alphabet",
+        "description": "",
+        "count": "8"
+      },
+      {
+        "name": "Cars",
+        "slug": "cars",
+        "description": "",
+        "count": "365"
+      },
+      {
+        "name": "Emails",
+        "slug": "emails",
+        "description": "",
+        "count": "54"
+      },
+      {
+        "name": "Google",
+        "slug": "google",
+        "description": "Provides a wide range of internet services, primarily a search engine. Google was founded by the \"Google guys\" Larry Page and Sergey Brin in 1998 when they were both Ph.D students at Stanford. The company employs 22,000 people and profited $6.5 billion in 2009. Google generates most of its profit from advertising.",
+        "image": "http://thejournal.ie/media/2010/08/google2-145x145.jpg",
+        "count": "776"
+      },
+      {
+        "name": "Larry Page",
+        "slug": "larry-page",
+        "description": "Larry Page founded Google with Sergey Brin in 1998. Page was the co-president of the company until 2001.",
+        "image": "http://cdn.thejournal.ie/media/2010/11/Larry-page-145x145.jpg",
+        "count": "13"
+      },
+      {
+        "name": "self-driving",
+        "slug": "self-driving",
+        "description": "",
+        "count": "11"
+      },
+      {
+        "name": "SELF-DRIVING CARS",
+        "slug": "self-driving-cars",
+        "description": "",
+        "count": "18"
+      },
+      {
+        "name": "Silicon Valley",
+        "slug": "silicon-valley",
+        "description": "",
+        "count": "40"
+      },
+      {
+        "name": "Travis Kalanick",
+        "slug": "travis-kalanick",
+        "description": "",
+        "count": "5"
+      },
+      {
+        "name": "uber",
+        "slug": "uber",
+        "description": "",
+        "count": "52"
+      },
+      {
+        "name": "Waymo",
+        "slug": "waymo",
+        "description": "",
+        "count": "2"
+      }
+    ],
+    "embeds": {
+      "embed_1": {
+        "type": "ad",
+        "size": "mpu",
+        "id": "ad_1"
+      }
+    },
+    "inline_images": [
+      {
+        "src": "http://c1.thejournal.ie/media/2017/07/screen-shot-2017-07-06-at-21908-pm.png",
+        "width": 769,
+        "height": 712,
+        "alt": "screen shot 2017-07-06 at 21908 pm",
+        "title": "",
+        "caption": "Travis Kalanick wanted to meet Larry Page about a possible partnership",
+        "credit": {
+          "source": "Court filing",
+          "html": "Source: Court filing"
+        },
+        "id": "3485192",
+        "class": "aligncenter",
+        "key": "image_1",
+        "object_id": "3485192",
+        "object_type": "inline",
+        "version": "3485192"
+      }
+    ],
+    "comments_allowed": 1,
+    "river_format": "landscape",
+    "author": {
+      "id": "886",
+      "name": "Business Insider",
+      "email": "",
+      "twitter": "",
+      "description": "",
+      "googleplus": "",
+      "slug": "business-insider",
+      "publication": "",
+      "is_admin": false,
+      "avatar": "https://f3.thejournal.ie/media/2016/10/EjEK7KeO-133x133.jpg",
+      "is_syndication": true
+    },
+    "admin_author": {
+      "id": "116",
+      "name": "Órla Ryan",
+      "email": "orla@thejournal.ie"
+    },
+    "banner_video": {
+      "has_banner_video": false,
+      "embed": null
+    },
+    "advertising": {
+      "targets": [
+        {
+          "key": "targeting-key",
+          "values": [
+            "alphabet",
+            "cars",
+            "emails",
+            "google",
+            "larry-page",
+            "self-driving",
+            "self-driving-cars",
+            "silicon-valley",
+            "travis-kalanick",
+            "uber",
+            "waymo"
+          ]
+        },
+        {
+          "key": "targetingkey",
+          "values": [
+            "alphabet",
+            "cars",
+            "emails",
+            "google",
+            "larry-page",
+            "self-driving",
+            "self-driving-cars",
+            "silicon-valley",
+            "travis-kalanick",
+            "uber",
+            "waymo"
+          ]
+        }
+      ],
+      "dfp_unit_template": "regular_%s",
+      "dfp_units": {
+        "dfp_footer": true,
+        "dfp_logo": false,
+        "dfp_mpu": true
+      }
+    },
+    "retargeting": [
+      {
+        "key": "international_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "international_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "tech_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "tech_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      }
+    ],
+    "id_name": "article",
+    "primary_image": {
+      "id": 3485174,
+      "object_id": 3485174,
+      "object_type": "article",
+      "crops": [
+        "original"
+      ],
+      "credit": {
+        "text": "Court filing",
+        "url": false
+      },
+      "version": 3485192
+    },
+    "time_label": {
+      "is_displayed": true,
+      "is_replaced": false,
+      "replacement_text": null
+    }
+  },
+  {
+    "id": 3465689,
+    "title": "EU fines Google €2.4 billion for 'abusing its market dominance'",
+    "slug": "eu-google-fine",
+    "date": "2017-06-27 11:03:19",
+    "date_modified": "2017-06-27 11:11:02",
+    "has_audio": "0",
+    "has_video": "0",
+    "has_slideshow": "0",
+    "is_hot_on_twitter": "0",
+    "publication": "thejournal",
+    "stats": {
+      "views": "10570",
+      "comments": "51",
+      "facebook": "15",
+      "twitter": "0",
+      "email": "2",
+      "dislikes": "0",
+      "likes": "0"
+    },
+    "syndication_source": "afp",
+    "seo_title": null,
+    "seo_description": null,
+    "is_sponsored": 0,
+    "sticky": null,
+    "header_url": null,
+    "internal_syndication_id": null,
+    "digest_key": "article_3465689",
+    "date_unix": 1498557799,
+    "date_modified_unix": 1498561862,
+    "status": "publish",
+    "is_exclusive": "0",
+    "excerpt": "The EU accused Google of giving its own online service, Google Shopping, too much priority over competitors.",
+    "content": "<p>THE EU SLAPPED Google with a record €2.4 billion anti-trust fine today, in a fresh assault on a US tech giant that risks the wrath of President Donald Trump.</p>\n<p>Hard-charging European Commission competition chief Margrethe Vestager said Google had “abused its market dominance” as the world’s most popular search engine to give illegal advantage to its own shopping service.</p>\n<p>“What Google has done is illegal under EU antitrust rules. It denied other companies the chance to compete on the merits and to innovate,” Vestager said in a statement.</p>\n<p>“And most importantly, it denied European consumers a genuine choice of services and the full benefits of innovation.”</p>\n<p>The fine broke the previous EU record for a monopoly case against US chipmaker Intel of €1.06 billion.</p>\n<p>[embed id=\"embed_1\"]</p>\n<p>The decision comes less than a year after Vestager issued with an order that iPhone manufacturer Apple repay €13 billion in back taxes in Ireland.</p>\n<p>Crucially for Google, Brussels has demanded that the US tech giant change the business model for Google Shopping to meet the EU’s concerns.</p>\n<p>While an EU record, the amount is below the maximum possible of about €8 billion or 10 percent of Google’s total revenue last year.</p>\n<p>Brussels accuses Google of giving its own online service, Google Shopping, too much priority in search results to the detriment of other price comparison services, such as TripAdvisor and Expedia.</p>\n<p>The case, launched in 2010, is one of three against Google and of several against blockbuster US companies including Starbucks, Apple, Amazon and McDonalds.</p>\n<p><em><em>- <a href=\"https://www.afp.com/en/home\">© AFP 2017</a></em></em></p>\n<h3>Read: <a href=\"http://www.thejournal.ie/frenchwoman-migrant-britain-3465344-Jun2017/\">Frenchwoman on trial for helping migrant lover smuggle into Britain</a>\n</h3>\n<h3>Read: <a href=\"http://www.thejournal.ie/bungee-death-dutch-spain-teenager-3465493-Jun2017/\">Bungee instructor’s poor English ‘led to Dutch teen jumping off bridge unsecured’</a>\n</h3>\n",
+    "permalink": "http://www.thejournal.ie/eu-google-fine-3465689-Jun2017/",
+    "shortlink": "http://jrnl.ie/3465689",
+    "type": "post",
+    "secondary_publications": [],
+    "main_story_links": [
+      {
+        "text": "",
+        "url": ""
+      },
+      {
+        "text": "",
+        "url": ""
+      }
+    ],
+    "categories": {
+      "thejournal": {
+        "id": "1",
+        "name": "Irish",
+        "slug": "irish"
+      }
+    },
+    "publication_data": {
+      "primary": "thejournal",
+      "all": [
+        "thejournal"
+      ],
+      "categories": {
+        "thejournal": [
+          {
+            "id": "1",
+            "name": "Irish",
+            "slug": "irish"
+          }
+        ]
+      }
+    },
+    "images": {
+      "thumbnail": {
+        "image": "http://c2.thejournal.ie/media/2017/06/google-fine-145x145.jpg",
+        "width": 145,
+        "height": 145
+      },
+      "medium": {
+        "image": "http://c2.thejournal.ie/media/2017/06/google-fine-296x202.jpg",
+        "width": 296,
+        "height": 202
+      },
+      "large": {
+        "image": "http://c2.thejournal.ie/media/2017/06/google-fine-630x430.jpg",
+        "width": 630,
+        "height": 430
+      },
+      "larger": {
+        "image": "http://c2.thejournal.ie/media/2017/06/google-fine-744x508.jpg",
+        "width": 744,
+        "height": 508
+      },
+      "river_0": {
+        "image": "http://c2.thejournal.ie/media/2017/06/google-fine-230x150.jpg",
+        "width": 230,
+        "height": 150
+      },
+      "river_1": {
+        "image": "http://c0.thejournal.ie/media/2017/06/google-fine-2300x1500.jpg",
+        "width": 2300,
+        "height": 1500
+      },
+      "article_page_0": {
+        "image": "http://c2.thejournal.ie/media/2017/06/google-fine-390x285.jpg",
+        "width": 390,
+        "height": 285
+      },
+      "square_0": {
+        "image": "http://c2.thejournal.ie/media/2017/06/google-fine-390x390.jpg",
+        "width": 390,
+        "height": 390
+      },
+      "square_1": {
+        "image": "http://c2.thejournal.ie/media/2017/06/google-fine-197x197.jpg",
+        "width": 197,
+        "height": 197
+      },
+      "square_2": {
+        "image": "http://c0.thejournal.ie/media/2017/06/google-fine-96x96.jpg",
+        "width": 96,
+        "height": 96
+      },
+      "square_3": {
+        "image": "http://c0.thejournal.ie/media/2017/06/google-fine-85x85.jpg",
+        "width": 85,
+        "height": 85
+      },
+      "square_4": {
+        "image": "http://c2.thejournal.ie/media/2017/06/google-fine-100x100.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "square_5": {
+        "image": "http://c0.thejournal.ie/media/2017/06/google-fine-2000x2000.jpg",
+        "width": 2000,
+        "height": 2000
+      },
+      "main_story_0": {
+        "image": "http://c2.thejournal.ie/media/2017/06/google-fine-630x260.jpg",
+        "width": 630,
+        "height": 260
+      },
+      "main_story_1": {
+        "image": "http://c1.thejournal.ie/media/2017/06/google-fine-210x87.jpg",
+        "width": 210,
+        "height": 87
+      },
+      "main_story_2": {
+        "image": "http://c2.thejournal.ie/media/2017/06/google-fine-290x120.jpg",
+        "width": 290,
+        "height": 120
+      },
+      "super_wide_0": {
+        "image": "http://c2.thejournal.ie/media/2017/06/google-fine-950x260.jpg",
+        "width": 950,
+        "height": 260
+      },
+      "super_wide_1": {
+        "image": "http://c1.thejournal.ie/media/2017/06/google-fine-290x80.jpg",
+        "width": 290,
+        "height": 80
+      },
+      "listings_0": {
+        "image": "http://c2.thejournal.ie/media/2017/06/google-fine-150x100.jpg",
+        "width": 150,
+        "height": 100
+      },
+      "listings_1": {
+        "image": "http://c0.thejournal.ie/media/2017/06/google-fine-80x50.jpg",
+        "width": 80,
+        "height": 50
+      },
+      "listings_2": {
+        "image": "http://c2.thejournal.ie/media/2017/06/google-fine-225x150.jpg",
+        "width": 225,
+        "height": 150
+      },
+      "listings_3": {
+        "image": "http://c2.thejournal.ie/media/2017/06/google-fine-300x200.jpg",
+        "width": 300,
+        "height": 200
+      },
+      "listings_4": {
+        "image": "http://c2.thejournal.ie/media/2017/06/google-fine-304x203.jpg",
+        "width": 304,
+        "height": 203
+      },
+      "listings_5": {
+        "image": "http://c2.thejournal.ie/media/2017/06/google-fine-752x501.jpg",
+        "width": 752,
+        "height": 501
+      },
+      "listings_6": {
+        "image": "http://c2.thejournal.ie/media/2017/06/google-fine-310x207.jpg",
+        "width": 310,
+        "height": 207
+      },
+      "offer_large_0": {
+        "image": "http://c2.thejournal.ie/media/2017/06/google-fine-458x298.jpg",
+        "width": 458,
+        "height": 298
+      },
+      "offer_medium_0": {
+        "image": "http://c2.thejournal.ie/media/2017/06/google-fine-298x194.jpg",
+        "width": 298,
+        "height": 194
+      },
+      "offer_small_0": {
+        "image": "http://c2.thejournal.ie/media/2017/06/google-fine-218x140.jpg",
+        "width": 218,
+        "height": 140
+      },
+      "river_magazine_0": {
+        "image": "http://c2.thejournal.ie/media/2017/06/google-fine-630x332.jpg",
+        "width": 630,
+        "height": 332
+      },
+      "hero_0": {
+        "image": "http://c3.thejournal.ie/media/2017/06/google-fine-1366x380.jpg",
+        "width": 1366,
+        "height": 380
+      },
+      "original": {
+        "image": "http://c2.thejournal.ie/media/2017/06/google-fine.jpg",
+        "width": false,
+        "height": false
+      }
+    },
+    "is_short_post": false,
+    "image_data": {
+      "orientation": "landscape",
+      "credit": "Yui Mok/PA Wire",
+      "caption": "",
+      "id": "3465709",
+      "raw_source": "Yui Mok/PA Wire",
+      "raw_source_url": false
+    },
+    "show_image": true,
+    "slideshows": false,
+    "poll": false,
+    "by_line_author": false,
+    "has_liveblog": 0,
+    "has_active_liveblog": 0,
+    "liveblog": [],
+    "primary_tag": {
+      "slug": "unfair-advantage",
+      "name": "Unfair Advantage"
+    },
+    "tags": [
+      {
+        "name": "Europe",
+        "slug": "europe",
+        "description": "",
+        "count": "911"
+      },
+      {
+        "name": "Fine",
+        "slug": "fine",
+        "description": "",
+        "count": "99"
+      },
+      {
+        "name": "Google",
+        "slug": "google",
+        "description": "Provides a wide range of internet services, primarily a search engine. Google was founded by the \"Google guys\" Larry Page and Sergey Brin in 1998 when they were both Ph.D students at Stanford. The company employs 22,000 people and profited $6.5 billion in 2009. Google generates most of its profit from advertising.",
+        "image": "http://thejournal.ie/media/2010/08/google2-145x145.jpg",
+        "count": "776"
+      },
+      {
+        "name": "Search Engine",
+        "slug": "search-engine",
+        "description": "A computer program that retrieves information from a computer network or the internet.",
+        "image": "http://thejournal.ie/media/2010/08/google3-145x145.jpg",
+        "count": "41"
+      },
+      {
+        "name": "Unfair Advantage",
+        "slug": "unfair-advantage",
+        "description": "",
+        "count": "23"
+      }
+    ],
+    "embeds": {
+      "embed_1": {
+        "type": "ad",
+        "size": "mpu",
+        "id": "ad_1"
+      }
+    },
+    "inline_images": [],
+    "comments_allowed": 1,
+    "river_format": "landscape",
+    "author": {
+      "id": "1585",
+      "name": "AFP",
+      "email": "",
+      "twitter": "",
+      "description": "",
+      "googleplus": "",
+      "slug": "afp",
+      "publication": "",
+      "is_admin": false,
+      "avatar": "https://f3.thejournal.ie/media/2012/09/afplogo-133x92.png",
+      "is_syndication": true
+    },
+    "admin_author": {
+      "id": "187",
+      "name": "Sean Murray",
+      "email": "sean@thejournal.ie"
+    },
+    "banner_video": {
+      "has_banner_video": false,
+      "embed": null
+    },
+    "advertising": {
+      "targets": [
+        {
+          "key": "targeting-key",
+          "values": [
+            "europe",
+            "fine",
+            "google",
+            "search-engine",
+            "unfair-advantage"
+          ]
+        },
+        {
+          "key": "targetingkey",
+          "values": [
+            "europe",
+            "fine",
+            "google",
+            "search-engine",
+            "unfair-advantage"
+          ]
+        }
+      ],
+      "dfp_unit_template": "regular_%s",
+      "dfp_units": {
+        "dfp_footer": true,
+        "dfp_logo": false,
+        "dfp_mpu": true
+      }
+    },
+    "retargeting": [
+      {
+        "key": "irish_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "irish_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      }
+    ],
+    "id_name": "article",
+    "primary_image": {
+      "id": 3465689,
+      "object_id": 3465689,
+      "object_type": "article",
+      "crops": [
+        "original"
+      ],
+      "credit": {
+        "text": "Yui Mok/PA Wire",
+        "url": false
+      },
+      "version": 3465709
+    },
+    "time_label": {
+      "is_displayed": true,
+      "is_replaced": false,
+      "replacement_text": null
+    }
+  },
+  {
+    "id": 3404428,
+    "title": "A Google AI beat the world's best player at this ancient Chinese board game",
+    "slug": "go-google-ai",
+    "date": "2017-05-23 11:58:06",
+    "date_modified": "2017-05-23 11:58:06",
+    "has_audio": "0",
+    "has_video": "0",
+    "has_slideshow": "0",
+    "is_hot_on_twitter": "0",
+    "publication": "thejournal",
+    "stats": {
+      "views": "8907",
+      "comments": "17",
+      "facebook": "1",
+      "twitter": "0",
+      "email": "1",
+      "dislikes": "0",
+      "likes": "0"
+    },
+    "syndication_source": "",
+    "seo_title": null,
+    "seo_description": null,
+    "is_sponsored": 0,
+    "sticky": null,
+    "header_url": null,
+    "internal_syndication_id": null,
+    "digest_key": "article_3404428",
+    "date_unix": 1495537086,
+    "date_modified_unix": 1495540686,
+    "status": "publish",
+    "is_exclusive": "0",
+    "excerpt": "&#8220;I feel like his game is more and more like the &#8216;Go god&#8217;. Really, it is brilliant,&#8221; the player said.",
+    "content": "<p>GOOGLE’S COMPUTER ALGORITHM AlphaGo has narrowly beaten the world’s top-ranked player in the ancient Chinese board game of Go, reaffirming the arrival of what its developers tout as a ground-breaking new form of artificial intelligence.</p>\n<p>AlphaGo took the first of a scheduled three games against brash 19-year-old Chinese world number one Ke Jie, who after the match anointed the programme as the new “Go god”.</p>\n<p>AlphaGo stunned the Go community and futurists a year ago when it trounced South Korean grandmaster Lee Se-Dol four games to one.</p>\n<p>That marked the first time a computer programme had beaten a top player in a full contest and was hailed as a landmark for artificial intelligence (AI).</p>\n<p>This week’s matchup in the eastern Chinese city of Wuzhen, between Ke and an updated version of AlphaGo, has been highly anticipated amid speculation about whether AI could beat the world’s top player.</p>\n<p>But a visibly flummoxed Ke – who last year had declared he would never lose to an AI opponent – said AlphaGo had become too strong for humans, despite the razor-thin half-point winning margin.</p>\n<p>“I feel like his game is more and more like the ‘Go god’. Really, it is brilliant,” he said.</p>\n<p>Ke vowed never again to subject himself to the “horrible experience” of matching wits with the machine following this week’s contests.</p>\n<p>AlphaGo’s feats have fuelled visions of a brave new world of AI that can not only drive cars and operate “smart homes”, but potentially help mankind figure out some of the most complex scientific, technical and medical problems.</p>\n<p>Computer programmes have previously beaten humans in cerebral contests, starting with the victory by IBM’s Deep Blue over chess grandmaster Garry Kasparov in 1997.</p>\n<p>But AlphaGo’s success is considered the most significant yet for AI due to the complexity of Go, which has an incomputable number of move options and puts a premium on human-like “intuition”, instinct and the ability to learn.</p>\n<p>Go involves two players alternately laying black and white stones on a grid, seeking to seal off the most territory.</p>\n<p>[embed id=\"embed_1\"]</p>\n<p><strong>‘Beautiful’ game</strong></p>\n<p>Before AlphaGo, mechanical mastery of the game had been perceived to be years away. Its victories have been analysed and praised by students of the game as innovative and even “beautiful”, opening up new ways of approaching strategy.</p>\n<p>AlphaGo uses two sets of “deep neural networks” containing millions of connections similar to neurons in the brain.</p>\n<p>It is partly self-taught, having played millions of games against itself following initial programming.</p>\n<p>After Lee lost to AlphaGo last year, Ke boldly declared “Bring it on!”</p>\n<p>But the writing was on the wall in January when Ke and other top Chinese players were flattened by a mysterious competitor in online contests.</p>\n<p>That opponent was revealed afterwards to be the latest version of AlphaGo, which was being given an online test run by its developer, London-based AI company DeepMind Technologies, which Google acquired in 2014.</p>\n<p>Ke, a phenom who went pro at age 11 and has described himself as “pretentious”, has vacillated between awe and disdain for AlphaGo.</p>\n<p>He called it a “cold machine” lacking passion for the game in comments Monday night on China’s Twitter-like Weibo platform.</p>\n<p>Ke and AlphaGo will face off again on Thursday and Saturday.</p>\n<p>For some, rapid advances in AI conjure sci-fi images of a “Terminator” future in which machines “wake up” and enslave humanity.</p>\n<p>But DeepMind founder Demis Hassabis dismissed such concerns.</p>\n<p>“This isn’t about man competing with machines, but rather using them as tools to explore and discover new knowledge together,” he said before Tuesday’s match.</p>\n<blockquote class=\"coloured\">\n<div>Ultimately, it doesn’t matter whether AlphaGo wins or loses… either way, humanity wins.</div>\n</blockquote>\n<h3>Explainer: <a href=\"http://www.thejournal.ie/google-ai-deepmind-victory-2649667-Mar2016/\">Why is Google’s AI beating a board game world champion so significant?</a>\n</h3>\n",
+    "permalink": "http://www.thejournal.ie/go-google-ai-3404428-May2017/",
+    "shortlink": "http://jrnl.ie/3404428",
+    "type": "post",
+    "secondary_publications": [],
+    "main_story_links": [
+      {
+        "text": "",
+        "url": ""
+      },
+      {
+        "text": "",
+        "url": ""
+      }
+    ],
+    "categories": {
+      "thejournal": {
+        "id": "27",
+        "name": "Tech",
+        "slug": "tech"
+      }
+    },
+    "publication_data": {
+      "primary": "thejournal",
+      "all": [
+        "thejournal"
+      ],
+      "categories": {
+        "thejournal": [
+          {
+            "id": "2",
+            "name": "International",
+            "slug": "international"
+          },
+          {
+            "id": "27",
+            "name": "Tech",
+            "slug": "tech"
+          }
+        ]
+      }
+    },
+    "images": {
+      "thumbnail": {
+        "image": "http://c0.thejournal.ie/media/2017/05/china-computer-go-145x145.jpg",
+        "width": 145,
+        "height": 145
+      },
+      "medium": {
+        "image": "http://c0.thejournal.ie/media/2017/05/china-computer-go-296x197.jpg",
+        "width": 296,
+        "height": 197
+      },
+      "large": {
+        "image": "http://c0.thejournal.ie/media/2017/05/china-computer-go-630x420.jpg",
+        "width": 630,
+        "height": 420
+      },
+      "larger": {
+        "image": "http://c0.thejournal.ie/media/2017/05/china-computer-go-744x496.jpg",
+        "width": 744,
+        "height": 496
+      },
+      "river_0": {
+        "image": "http://c0.thejournal.ie/media/2017/05/china-computer-go-230x150.jpg",
+        "width": 230,
+        "height": 150
+      },
+      "river_1": {
+        "image": "http://c2.thejournal.ie/media/2017/05/china-computer-go-2300x1500.jpg",
+        "width": 2300,
+        "height": 1500
+      },
+      "article_page_0": {
+        "image": "http://c0.thejournal.ie/media/2017/05/china-computer-go-390x285.jpg",
+        "width": 390,
+        "height": 285
+      },
+      "square_0": {
+        "image": "http://c0.thejournal.ie/media/2017/05/china-computer-go-390x390.jpg",
+        "width": 390,
+        "height": 390
+      },
+      "square_1": {
+        "image": "http://c0.thejournal.ie/media/2017/05/china-computer-go-197x197.jpg",
+        "width": 197,
+        "height": 197
+      },
+      "square_2": {
+        "image": "http://c2.thejournal.ie/media/2017/05/china-computer-go-96x96.jpg",
+        "width": 96,
+        "height": 96
+      },
+      "square_3": {
+        "image": "http://c2.thejournal.ie/media/2017/05/china-computer-go-85x85.jpg",
+        "width": 85,
+        "height": 85
+      },
+      "square_4": {
+        "image": "http://c0.thejournal.ie/media/2017/05/china-computer-go-100x100.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "square_5": {
+        "image": "http://c2.thejournal.ie/media/2017/05/china-computer-go-2000x2000.jpg",
+        "width": 2000,
+        "height": 2000
+      },
+      "main_story_0": {
+        "image": "http://c0.thejournal.ie/media/2017/05/china-computer-go-630x260.jpg",
+        "width": 630,
+        "height": 260
+      },
+      "main_story_1": {
+        "image": "http://c3.thejournal.ie/media/2017/05/china-computer-go-210x87.jpg",
+        "width": 210,
+        "height": 87
+      },
+      "main_story_2": {
+        "image": "http://c0.thejournal.ie/media/2017/05/china-computer-go-290x120.jpg",
+        "width": 290,
+        "height": 120
+      },
+      "super_wide_0": {
+        "image": "http://c0.thejournal.ie/media/2017/05/china-computer-go-950x260.jpg",
+        "width": 950,
+        "height": 260
+      },
+      "super_wide_1": {
+        "image": "http://c3.thejournal.ie/media/2017/05/china-computer-go-290x80.jpg",
+        "width": 290,
+        "height": 80
+      },
+      "listings_0": {
+        "image": "http://c0.thejournal.ie/media/2017/05/china-computer-go-150x100.jpg",
+        "width": 150,
+        "height": 100
+      },
+      "listings_1": {
+        "image": "http://c2.thejournal.ie/media/2017/05/china-computer-go-80x50.jpg",
+        "width": 80,
+        "height": 50
+      },
+      "listings_2": {
+        "image": "http://c0.thejournal.ie/media/2017/05/china-computer-go-225x150.jpg",
+        "width": 225,
+        "height": 150
+      },
+      "listings_3": {
+        "image": "http://c0.thejournal.ie/media/2017/05/china-computer-go-300x200.jpg",
+        "width": 300,
+        "height": 200
+      },
+      "listings_4": {
+        "image": "http://c0.thejournal.ie/media/2017/05/china-computer-go-304x203.jpg",
+        "width": 304,
+        "height": 203
+      },
+      "listings_5": {
+        "image": "http://c0.thejournal.ie/media/2017/05/china-computer-go-752x501.jpg",
+        "width": 752,
+        "height": 501
+      },
+      "listings_6": {
+        "image": "http://c0.thejournal.ie/media/2017/05/china-computer-go-310x207.jpg",
+        "width": 310,
+        "height": 207
+      },
+      "offer_large_0": {
+        "image": "http://c0.thejournal.ie/media/2017/05/china-computer-go-458x298.jpg",
+        "width": 458,
+        "height": 298
+      },
+      "offer_medium_0": {
+        "image": "http://c0.thejournal.ie/media/2017/05/china-computer-go-298x194.jpg",
+        "width": 298,
+        "height": 194
+      },
+      "offer_small_0": {
+        "image": "http://c0.thejournal.ie/media/2017/05/china-computer-go-218x140.jpg",
+        "width": 218,
+        "height": 140
+      },
+      "river_magazine_0": {
+        "image": "http://c0.thejournal.ie/media/2017/05/china-computer-go-630x332.jpg",
+        "width": 630,
+        "height": 332
+      },
+      "hero_0": {
+        "image": "http://c1.thejournal.ie/media/2017/05/china-computer-go-1366x380.jpg",
+        "width": 1366,
+        "height": 380
+      },
+      "original": {
+        "image": "http://c0.thejournal.ie/media/2017/05/china-computer-go.jpg",
+        "width": false,
+        "height": false
+      }
+    },
+    "is_short_post": false,
+    "image_data": {
+      "orientation": "landscape",
+      "credit": "AP Photo/Peng Peng",
+      "caption": "",
+      "id": "3404440",
+      "raw_source": "AP Photo/Peng Peng",
+      "raw_source_url": false
+    },
+    "show_image": true,
+    "slideshows": false,
+    "poll": false,
+    "by_line_author": false,
+    "has_liveblog": 0,
+    "has_active_liveblog": 0,
+    "liveblog": [],
+    "primary_tag": {
+      "slug": "alphago",
+      "name": "Alphago"
+    },
+    "tags": [
+      {
+        "name": "AI",
+        "slug": "ai",
+        "description": "",
+        "count": "24"
+      },
+      {
+        "name": "Alphago",
+        "slug": "alphago",
+        "description": "",
+        "count": "2"
+      },
+      {
+        "name": "China",
+        "slug": "china",
+        "description": "",
+        "count": "1062"
+      },
+      {
+        "name": "Chinese",
+        "slug": "chinese",
+        "description": "",
+        "count": "58"
+      },
+      {
+        "name": "go",
+        "slug": "go",
+        "description": "",
+        "count": "10"
+      },
+      {
+        "name": "Google",
+        "slug": "google",
+        "description": "Provides a wide range of internet services, primarily a search engine. Google was founded by the \"Google guys\" Larry Page and Sergey Brin in 1998 when they were both Ph.D students at Stanford. The company employs 22,000 people and profited $6.5 billion in 2009. Google generates most of its profit from advertising.",
+        "image": "http://thejournal.ie/media/2010/08/google2-145x145.jpg",
+        "count": "774"
+      },
+      {
+        "name": "ke",
+        "slug": "ke",
+        "description": "",
+        "count": "1"
+      }
+    ],
+    "embeds": {
+      "embed_1": {
+        "type": "ad",
+        "size": "mpu",
+        "id": "ad_1"
+      }
+    },
+    "inline_images": [],
+    "comments_allowed": 1,
+    "river_format": "landscape",
+    "author": {
+      "id": "3970",
+      "name": "Cormac Fitzgerald",
+      "email": "cormac@thejournal.ie",
+      "twitter": "cormfitz",
+      "description": "",
+      "googleplus": "",
+      "slug": "cormac-fitzgerald",
+      "publication": "",
+      "is_admin": true,
+      "avatar": "https://f2.thejournal.ie/media/2016/05/IMG_7444_2500-pix_72dpi-133x133.jpg",
+      "is_syndication": false
+    },
+    "admin_author": {
+      "id": "158",
+      "name": "Cormac Fitzgerald",
+      "email": "cormac@thejournal.ie"
+    },
+    "banner_video": {
+      "has_banner_video": false,
+      "embed": null
+    },
+    "advertising": {
+      "targets": [
+        {
+          "key": "targeting-key",
+          "values": [
+            "ai",
+            "alphago",
+            "china",
+            "chinese",
+            "go",
+            "google",
+            "ke"
+          ]
+        },
+        {
+          "key": "targetingkey",
+          "values": [
+            "ai",
+            "alphago",
+            "china",
+            "chinese",
+            "go",
+            "google",
+            "ke"
+          ]
+        }
+      ],
+      "dfp_unit_template": "regular_%s",
+      "dfp_units": {
+        "dfp_footer": true,
+        "dfp_logo": false,
+        "dfp_mpu": true
+      }
+    },
+    "retargeting": [
+      {
+        "key": "international_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "international_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "tech_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "tech_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      }
+    ],
+    "id_name": "article",
+    "primary_image": {
+      "id": 3404428,
+      "object_id": 3404428,
+      "object_type": "article",
+      "crops": [
+        "original"
+      ],
+      "credit": {
+        "text": "AP Photo/Peng Peng",
+        "url": false
+      },
+      "version": 3404440
+    },
+    "time_label": {
+      "is_displayed": true,
+      "is_replaced": false,
+      "replacement_text": null
+    }
+  },
+  {
+    "id": 3371786,
+    "title": "Use Gmail? Sneaky hackers use contact emails to attack Google Docs",
+    "slug": "google-docs-attack",
+    "date": "2017-05-04 07:44:33",
+    "date_modified": "2017-05-04 07:50:56",
+    "has_audio": "0",
+    "has_video": "0",
+    "has_slideshow": "0",
+    "is_hot_on_twitter": "0",
+    "publication": "thejournal",
+    "stats": {
+      "views": "13257",
+      "comments": "5",
+      "facebook": "0",
+      "twitter": "0",
+      "email": "3",
+      "dislikes": "0",
+      "likes": "0"
+    },
+    "syndication_source": "afp",
+    "seo_title": null,
+    "seo_description": null,
+    "is_sponsored": 0,
+    "sticky": null,
+    "header_url": null,
+    "internal_syndication_id": null,
+    "digest_key": "article_3371786",
+    "date_unix": 1493880273,
+    "date_modified_unix": 1493884256,
+    "status": "publish",
+    "is_exclusive": "0",
+    "excerpt": "The internet giant has managed to contain the attack.  ",
+    "content": "<p>A ‘PHISHING’ SCAM that tricked people with what appeared to be Google Docs links was doused by the internet giant after spreading wildly.</p>\n<p>The purpose of the scam, and the culprits behind it, remained unknown.</p>\n<p>“We have taken action to protect users against an email impersonating Google Docs, and have disabled offending accounts,” a Google spokesperson said in an email response to an AFP inquiry.</p>\n<p>“We’ve removed the fake pages, pushed updates through Safe Browsing, and our abuse team is working to prevent this kind of spoofing from happening again.”</p>\n<p>The scam combined “a phishing attack and a worm,” using a deceptive email to get people to open the door to malicious code that wriggled into their messaging programs to spread itself to others, according to Electronic Frontier Foundation staff technologist Cooper Quintin.</p>\n<p>Email sent from a known contact’s real address would arrive containing a link it claimed led to a file to be shared at Google Docs online service, according to a rundown of the chicanery.</p>\n<p>Clicking the link led to a real Google web address and asked for authorisation to run an application the attacker had cleverly called ‘Google Docs.’</p>\n<p>[embed id=\"embed_2\"]</p>\n<p>Permissions granted to the application included allowing it to read or send email on a person’s behalf.</p>\n<p>“It doesn’t immediately look like a phishing email,” Quintin said.</p>\n<blockquote>\n<div>When you authorize the app, the very next thing it does is send the same emails to everyone in your contacts.</div>\n</blockquote>\n<p>[embed id=\"embed_1\"]</p>\n<p>The application, along with online domains it was connecting to, were disabled within hours of it starting to spread wildly, according to Quintin.</p>\n<p>“I suspect that it was far more successful than whoever released it into the world hoped or expected, and was maybe undone by its own success,” he said.</p>\n<blockquote>\n<div>The domains went down pretty quickly. Google disabled the app, so it is no longer a threat.</div>\n</blockquote>\n<p>The campaign affected fewer than a tenth of a percent of Gmail users, and was stopped within an hour, according to the California-based internet powerhouse.</p>\n<p>Gmail is reported to have more than a billion users.</p>\n<p>Google determined that while contact information was accessed, no other data was gleaned by the ruse, according to the spokesperson.</p>\n<p><a href=\"https://www.afp.com/\">© – AFP 2017</a></p>\n<h3>Read; <a href=\"http://www.thejournal.ie/google-fake-news-search-3274147-Mar2017/\">Google vows fix for ‘inappropriate’ search results &gt;</a>\n</h3>\n<h3>Read: <a href=\"http://www.thejournal.ie/uber-executive-sexual-harassment-3262896-Feb2017/\">Uber executive leaves after claims he failed to disclose sex harassment allegation &gt;</a>\n</h3>\n",
+    "permalink": "http://www.thejournal.ie/google-docs-attack-3371786-May2017/",
+    "shortlink": "http://jrnl.ie/3371786",
+    "type": "post",
+    "secondary_publications": [],
+    "main_story_links": [
+      {
+        "text": "",
+        "url": ""
+      },
+      {
+        "text": "",
+        "url": ""
+      }
+    ],
+    "categories": {
+      "thejournal": {
+        "id": "27",
+        "name": "Tech",
+        "slug": "tech"
+      }
+    },
+    "publication_data": {
+      "primary": "thejournal",
+      "all": [
+        "thejournal"
+      ],
+      "categories": {
+        "thejournal": [
+          {
+            "id": "2",
+            "name": "International",
+            "slug": "international"
+          },
+          {
+            "id": "27",
+            "name": "Tech",
+            "slug": "tech"
+          }
+        ]
+      }
+    },
+    "images": {
+      "thumbnail": {
+        "image": "http://c2.thejournal.ie/media/2017/05/google-docs-phishing-attack-145x145.jpg",
+        "width": 145,
+        "height": 145
+      },
+      "medium": {
+        "image": "http://c2.thejournal.ie/media/2017/05/google-docs-phishing-attack-296x189.jpg",
+        "width": 296,
+        "height": 189
+      },
+      "river_0": {
+        "image": "http://c2.thejournal.ie/media/2017/05/google-docs-phishing-attack-230x150.jpg",
+        "width": 230,
+        "height": 150
+      },
+      "river_1": {
+        "image": "http://c0.thejournal.ie/media/2017/05/google-docs-phishing-attack-2300x1500.jpg",
+        "width": 2300,
+        "height": 1500
+      },
+      "article_page_0": {
+        "image": "http://c2.thejournal.ie/media/2017/05/google-docs-phishing-attack-390x285.jpg",
+        "width": 390,
+        "height": 285
+      },
+      "square_0": {
+        "image": "http://c2.thejournal.ie/media/2017/05/google-docs-phishing-attack-390x390.jpg",
+        "width": 390,
+        "height": 390
+      },
+      "square_1": {
+        "image": "http://c2.thejournal.ie/media/2017/05/google-docs-phishing-attack-197x197.jpg",
+        "width": 197,
+        "height": 197
+      },
+      "square_2": {
+        "image": "http://c0.thejournal.ie/media/2017/05/google-docs-phishing-attack-96x96.jpg",
+        "width": 96,
+        "height": 96
+      },
+      "square_3": {
+        "image": "http://c0.thejournal.ie/media/2017/05/google-docs-phishing-attack-85x85.jpg",
+        "width": 85,
+        "height": 85
+      },
+      "square_4": {
+        "image": "http://c2.thejournal.ie/media/2017/05/google-docs-phishing-attack-100x100.jpg",
+        "width": 100,
+        "height": 100
+      },
+      "square_5": {
+        "image": "http://c0.thejournal.ie/media/2017/05/google-docs-phishing-attack-2000x2000.jpg",
+        "width": 2000,
+        "height": 2000
+      },
+      "main_story_0": {
+        "image": "http://c2.thejournal.ie/media/2017/05/google-docs-phishing-attack-630x260.jpg",
+        "width": 630,
+        "height": 260
+      },
+      "main_story_1": {
+        "image": "http://c1.thejournal.ie/media/2017/05/google-docs-phishing-attack-210x87.jpg",
+        "width": 210,
+        "height": 87
+      },
+      "main_story_2": {
+        "image": "http://c2.thejournal.ie/media/2017/05/google-docs-phishing-attack-290x120.jpg",
+        "width": 290,
+        "height": 120
+      },
+      "super_wide_0": {
+        "image": "http://c2.thejournal.ie/media/2017/05/google-docs-phishing-attack-950x260.jpg",
+        "width": 950,
+        "height": 260
+      },
+      "super_wide_1": {
+        "image": "http://c1.thejournal.ie/media/2017/05/google-docs-phishing-attack-290x80.jpg",
+        "width": 290,
+        "height": 80
+      },
+      "listings_0": {
+        "image": "http://c2.thejournal.ie/media/2017/05/google-docs-phishing-attack-150x100.jpg",
+        "width": 150,
+        "height": 100
+      },
+      "listings_1": {
+        "image": "http://c0.thejournal.ie/media/2017/05/google-docs-phishing-attack-80x50.jpg",
+        "width": 80,
+        "height": 50
+      },
+      "listings_2": {
+        "image": "http://c2.thejournal.ie/media/2017/05/google-docs-phishing-attack-225x150.jpg",
+        "width": 225,
+        "height": 150
+      },
+      "listings_3": {
+        "image": "http://c2.thejournal.ie/media/2017/05/google-docs-phishing-attack-300x200.jpg",
+        "width": 300,
+        "height": 200
+      },
+      "listings_4": {
+        "image": "http://c2.thejournal.ie/media/2017/05/google-docs-phishing-attack-304x203.jpg",
+        "width": 304,
+        "height": 203
+      },
+      "listings_5": {
+        "image": "http://c2.thejournal.ie/media/2017/05/google-docs-phishing-attack-752x501.jpg",
+        "width": 752,
+        "height": 501
+      },
+      "listings_6": {
+        "image": "http://c2.thejournal.ie/media/2017/05/google-docs-phishing-attack-310x207.jpg",
+        "width": 310,
+        "height": 207
+      },
+      "offer_large_0": {
+        "image": "http://c2.thejournal.ie/media/2017/05/google-docs-phishing-attack-458x298.jpg",
+        "width": 458,
+        "height": 298
+      },
+      "offer_medium_0": {
+        "image": "http://c2.thejournal.ie/media/2017/05/google-docs-phishing-attack-298x194.jpg",
+        "width": 298,
+        "height": 194
+      },
+      "offer_small_0": {
+        "image": "http://c2.thejournal.ie/media/2017/05/google-docs-phishing-attack-218x140.jpg",
+        "width": 218,
+        "height": 140
+      },
+      "river_magazine_0": {
+        "image": "http://c2.thejournal.ie/media/2017/05/google-docs-phishing-attack-630x332.jpg",
+        "width": 630,
+        "height": 332
+      },
+      "hero_0": {
+        "image": "http://c3.thejournal.ie/media/2017/05/google-docs-phishing-attack-1366x380.jpg",
+        "width": 1366,
+        "height": 380
+      },
+      "original": {
+        "image": "http://c2.thejournal.ie/media/2017/05/google-docs-phishing-attack.jpg",
+        "width": false,
+        "height": false
+      }
+    },
+    "is_short_post": false,
+    "image_data": {
+      "orientation": "landscape",
+      "credit": "AP/PA Images",
+      "caption": "The campaign affected fewer than a tenth of a percent of Gmail users.",
+      "id": "3371813",
+      "raw_source": "AP/PA Images",
+      "raw_source_url": false
+    },
+    "show_image": true,
+    "slideshows": false,
+    "poll": false,
+    "by_line_author": false,
+    "has_liveblog": 0,
+    "has_active_liveblog": 0,
+    "liveblog": [],
+    "primary_tag": {
+      "slug": "phishing",
+      "name": "Phishing"
+    },
+    "tags": [
+      {
+        "name": "Cyber Security",
+        "slug": "cyber-security",
+        "description": "",
+        "count": "12"
+      },
+      {
+        "name": "Google",
+        "slug": "google",
+        "description": "Provides a wide range of internet services, primarily a search engine. Google was founded by the \"Google guys\" Larry Page and Sergey Brin in 1998 when they were both Ph.D students at Stanford. The company employs 22,000 people and profited $6.5 billion in 2009. Google generates most of its profit from advertising.",
+        "image": "http://thejournal.ie/media/2010/08/google2-145x145.jpg",
+        "count": "774"
+      },
+      {
+        "name": "Phishing",
+        "slug": "phishing",
+        "description": "",
+        "count": "27"
+      }
+    ],
+    "embeds": {
+      "embed_1": {
+        "id": "859895400173522944",
+        "type": "tweet",
+        "service": "twitter",
+        "tweet": {
+          "content": "We've addressed the issue with a phishing email claiming to be Google Docs. If you think you were affected, visit… <a href=\"https://t.co/rz7ZOPZX4z\">twitter.com/i/web/status/8…</a>",
+          "images": [],
+          "created_at": "Wed May 03 22:20:14 +0000 2017",
+          "id_str": "859895400173522944",
+          "text": "We've addressed the issue with a phishing email claiming to be Google Docs. If you think you were affected, visit… https://t.co/rz7ZOPZX4z",
+          "retweet_count": 1522,
+          "favourite_count": null,
+          "user": {
+            "id_str": "488683847",
+            "name": "Google Docs",
+            "screen_name": "googledocs",
+            "location": "",
+            "followers_count": 65205,
+            "profile_image_url_bigger": "http://cdn.thejournal.ie/embeds/6b2210084e4a06aceed8f7f6c3c3d7e5.jpg",
+            "profile_image_url_original": "http://cdn.thejournal.ie/embeds/b70043d7d1d4812b01f9c963fb6aad12.jpg",
+            "verified": true
+          },
+          "in_reply_to": {
+            "content": "We are investigating a phishing email that appears as Google Docs. We encourage you to not click through &amp; report as phishing within Gmail.",
+            "images": [],
+            "created_at": "Wed May 03 20:08:30 +0000 2017",
+            "id_str": "859862250659627008",
+            "text": "We are investigating a phishing email that appears as Google Docs. We encourage you to not click through &amp; report as phishing within Gmail.",
+            "retweet_count": 4072,
+            "favourite_count": null,
+            "user": {
+              "id_str": "488683847",
+              "name": "Google Docs",
+              "screen_name": "googledocs",
+              "location": "",
+              "followers_count": 65205,
+              "profile_image_url_bigger": "http://cdn.thejournal.ie/embeds/6b2210084e4a06aceed8f7f6c3c3d7e5.jpg",
+              "profile_image_url_original": "http://cdn.thejournal.ie/embeds/b70043d7d1d4812b01f9c963fb6aad12.jpg",
+              "verified": true
+            }
+          }
+        },
+        "iframe": "<iframe style=\"overflow: hidden; margin-bottom:0px\" width=\"500\" height=\"637\" src=\"http://www.thejournal.ie/embed.php?embed=JTNDYmxvY2txdW90ZStjbGFzcyUzRCUyMnR3aXR0ZXItdHdlZXQlMjIrZGF0YS13aWR0aCUzRCUyMjUwMCUyMiUzRSUzQ3ArbGFuZyUzRCUyMmVuJTIyK2RpciUzRCUyMmx0ciUyMiUzRVdlJTI2JTIzMzklM0J2ZSthZGRyZXNzZWQrdGhlK2lzc3VlK3dpdGgrYStwaGlzaGluZytlbWFpbCtjbGFpbWluZyt0bytiZStHb29nbGUrRG9jcy4rSWYreW91K3RoaW5rK3lvdSt3ZXJlK2FmZmVjdGVkJTJDK3Zpc2l0KyUzQ2EraHJlZiUzRCUyMmh0dHBzJTNBJTJGJTJGdC5jbyUyRk82OG5RakZoQkwlMjIlM0VodHRwcyUzQSUyRiUyRnQuY28lMkZPNjhuUWpGaEJMJTNDJTJGYSUzRS4rJTNDYStocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZ0LmNvJTJGQXRsWDZvTlphZiUyMiUzRXBpYy50d2l0dGVyLmNvbSUyRkF0bFg2b05aYWYlM0MlMkZhJTNFJTNDJTJGcCUzRSUyNm1kYXNoJTNCK0dvb2dsZStEb2NzKyUyOCU0MGdvb2dsZWRvY3MlMjkrJTNDYStocmVmJTNEJTIyaHR0cHMlM0ElMkYlMkZ0d2l0dGVyLmNvbSUyRmdvb2dsZWRvY3MlMkZzdGF0dXMlMkY4NTk4OTU0MDAxNzM1MjI5NDQlMjIlM0VNYXkrMyUyQysyMDE3JTNDJTJGYSUzRSUzQyUyRmJsb2NrcXVvdGUlM0UlM0NzY3JpcHQrYXN5bmMrc3JjJTNEJTIyJTJGJTJGcGxhdGZvcm0udHdpdHRlci5jb20lMkZ3aWRnZXRzLmpzJTIyK2NoYXJzZXQlM0QlMjJ1dGYtOCUyMiUzRSUzQyUyRnNjcmlwdCUzRQ==&hash=3ebef909409f6ed1116313b929fc43a9&service=twitter\"></iframe>",
+        "html": "<blockquote class=\"twitter-tweet\" data-width=\"500\"><p lang=\"en\" dir=\"ltr\">We&#39;ve addressed the issue with a phishing email claiming to be Google Docs. If you think you were affected, visit <a href=\"https://t.co/O68nQjFhBL\">https://t.co/O68nQjFhBL</a>. <a href=\"https://t.co/AtlX6oNZaf\">pic.twitter.com/AtlX6oNZaf</a></p>&mdash; Google Docs (@googledocs) <a href=\"https://twitter.com/googledocs/status/859895400173522944\">May 3, 2017</a></blockquote><script async src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>",
+        "credit": {
+          "source": "Google Docs",
+          "url": "https://twitter.com/googledocs",
+          "via": "",
+          "via_url": "",
+          "service_name": "Twitter",
+          "html": "Source: <a href=\"https://twitter.com/googledocs\" >Google Docs</a>/Twitter"
+        },
+        "source": "https://twitter.com/googledocs/status/859895400173522944"
+      },
+      "embed_2": {
+        "type": "ad",
+        "size": "mpu",
+        "id": "ad_2"
+      }
+    },
+    "inline_images": [],
+    "comments_allowed": 0,
+    "river_format": "landscape",
+    "author": {
+      "id": "1585",
+      "name": "AFP",
+      "email": "",
+      "twitter": "",
+      "description": "",
+      "googleplus": "",
+      "slug": "afp",
+      "publication": "",
+      "is_admin": false,
+      "avatar": "https://f3.thejournal.ie/media/2012/09/afplogo-133x92.png",
+      "is_syndication": true
+    },
+    "admin_author": {
+      "id": "95",
+      "name": "Rónán Duffy",
+      "email": "ronan@thejournal.ie"
+    },
+    "banner_video": {
+      "has_banner_video": false,
+      "embed": null
+    },
+    "advertising": {
+      "targets": [
+        {
+          "key": "targeting-key",
+          "values": [
+            "cyber-security",
+            "google",
+            "phishing"
+          ]
+        },
+        {
+          "key": "targetingkey",
+          "values": [
+            "cyber-security",
+            "google",
+            "phishing"
+          ]
+        }
+      ],
+      "dfp_unit_template": "regular_%s",
+      "dfp_units": {
+        "dfp_footer": true,
+        "dfp_logo": false,
+        "dfp_mpu": true
+      }
+    },
+    "retargeting": [
+      {
+        "key": "international_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "international_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "tech_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      },
+      {
+        "key": "tech_audience",
+        "bucket_ttl": 7776000,
+        "threshold": 1,
+        "threshold_window": 604800
+      }
+    ],
+    "id_name": "article",
+    "primary_image": {
+      "id": 3371786,
+      "object_id": 3371786,
+      "object_type": "article",
+      "crops": [
+        "original"
+      ],
+      "credit": {
+        "text": "AP/PA Images",
+        "url": false
+      },
+      "version": 3371813
+    },
+    "time_label": {
+      "is_displayed": true,
+      "is_replaced": false,
+      "replacement_text": null
+    }
+  }
+]
