@@ -1,2 +1,4 @@
 .env
-/vendor
+.idea/
+vendor/
+.phpunit.result.cache

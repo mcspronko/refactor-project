@@ -1,0 +1,27 @@
+parameters:
+  authentication.username: codetest
+  authentication.password: AQJl5jewY2lZkrJpiT1cCJkj1tLPn64R
+  resources.location: '/../../../../resources/demo-responses/'
+  resources.mapping:
+    thejournal: thejournal.json
+services:
+  finder:
+    class:     \Symfony\Component\Finder\Finder
+  curl.converter:
+    class:     \JournalMedia\Sample\Service\Http\Converter\JsonToArray
+  transfer.factory:
+    class:     \JournalMedia\Sample\Service\Http\TransferFactory
+  client.file:
+    class:     \JournalMedia\Sample\Service\Http\Client\File
+    arguments: ['@finder', '@curl.converter', '%resources.mapping%', '%resources.location%']
+  curl.http.client:
+    class:     \Symfony\Component\HttpClient\CurlHttpClient
+  curl.transfer.factory:
+    class:     \JournalMedia\Sample\Service\Http\TransferFactory
+    calls:
+      - [setMethod, ['GET']]
+      - [setUsername, ['%authentication.username%']]
+      - [setPassword, ['%authentication.password%']]
+  client.curl:
+    class:     \JournalMedia\Sample\Service\Http\Client\Curl
+    arguments: ['@curl.http.client', '@curl.converter']
