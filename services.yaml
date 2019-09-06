@@ -1,4 +1,5 @@
 parameters:
+  isSandbox: true
   authentication.username: codetest
   authentication.password: AQJl5jewY2lZkrJpiT1cCJkj1tLPn64R
   resources.location: '/../../../../resources/demo-responses/'
@@ -25,3 +26,19 @@ services:
   client.curl:
     class:     \JournalMedia\Sample\Service\Http\Client\Curl
     arguments: ['@curl.http.client', '@curl.converter']
+  container.provider:
+    class: \JournalMedia\Sample\Service\ContainerProvider
+  http.client.factory:
+    class:    \JournalMedia\Sample\Service\HttpClientFactory
+    arguments: ['@environment']
+  resource:
+    class:    \JournalMedia\Sample\Service\Resource
+    arguments: ['@http.client.factory', '@environment']
+  environment:
+    class:    \JournalMedia\Sample\Service\Environment
+    arguments: ['%isSandbox%']
+  article:
+    class:    \JournalMedia\Sample\Domain\Data\Article
+  article.repository:
+    class:     \JournalMedia\Sample\Domain\ArticleRepository
+    arguments: ['@resource', '@curl.converter']
