@@ -24,7 +24,7 @@
 
     $articles = json_decode($articles, true);
 
-    foreach ($articles['response']['page_items'] as $article) {
+    foreach ($articles['response']['articles'] as $article) {
         echo "<div class='media'>";
 
         ?>
