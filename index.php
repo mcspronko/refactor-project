@@ -30,7 +30,9 @@
         ?>
 
         <div class="media-left">
+            <?php if (isset($article['images']['river_0']['image'])) : ?>
             <img class="media-object" src="<?=$article['images']['river_0']['image']?>">
+            <?php endif; ?>
         </div>
 
         <div class="media-body">
