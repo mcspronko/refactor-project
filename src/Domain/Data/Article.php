@@ -18,6 +18,7 @@ class Article implements ArticleInterface
     private $slug;
     private $images;
     private $tags;
+    private $excerpt;
 
     public function setId($id): void
     {
@@ -87,5 +88,15 @@ class Article implements ArticleInterface
     public function getTags()
     {
         return $this->tags;
+    }
+
+    public function setExcerpt($excerpt): void
+    {
+        $this->excerpt = $excerpt;
+    }
+
+    public function getExcerpt()
+    {
+        return $this->excerpt;
     }
 }

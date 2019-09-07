@@ -45,6 +45,8 @@ interface ArticleInterface
      */
     public function setTags($tags): void;
 
+    public function setExcerpt($excerpt): void;
+
     /**
      * @return mixed
      */
@@ -79,4 +81,9 @@ interface ArticleInterface
      * @return mixed
      */
     public function getTags();
+
+    /**
+     * @return mixed
+     */
+    public function getExcerpt();
 }

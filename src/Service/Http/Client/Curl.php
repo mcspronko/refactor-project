@@ -6,7 +6,13 @@ namespace JournalMedia\Sample\Service\Http\Client;
 
 use JournalMedia\Sample\Api\ClientInterface;
 use JournalMedia\Sample\Api\ConverterInterface;
+use JournalMedia\Sample\Service\Http\ClientException;
+use JournalMedia\Sample\Service\Http\ConverterException;
 use JournalMedia\Sample\Service\Http\TransferFactory;
+use Symfony\Contracts\HttpClient\Exception\ClientExceptionInterface;
+use Symfony\Contracts\HttpClient\Exception\RedirectionExceptionInterface;
+use Symfony\Contracts\HttpClient\Exception\ServerExceptionInterface;
+use Symfony\Contracts\HttpClient\Exception\TransportExceptionInterface;
 use Symfony\Contracts\HttpClient\HttpClientInterface;
 
 /**
@@ -39,25 +45,26 @@ class Curl implements ClientInterface
 
     /**
      * @param TransferFactory $transferFactory
-     * @return array|string
-     * @throws \Symfony\Contracts\HttpClient\Exception\ClientExceptionInterface
-     * @throws \Symfony\Contracts\HttpClient\Exception\RedirectionExceptionInterface
-     * @throws \Symfony\Contracts\HttpClient\Exception\ServerExceptionInterface
-     * @throws \Symfony\Contracts\HttpClient\Exception\TransportExceptionInterface
+     * @return array|mixed
+     * @throws ClientException
+     * @throws ConverterException|ClientExceptionInterface|RedirectionExceptionInterface|ServerExceptionInterface|TransportExceptionInterface
      */
     public function send(TransferFactory $transferFactory)
     {
-        $transfer = $transferFactory->build();
+        try {
+            $transfer = $transferFactory->build();
 
-        $response = $this->client->request(
-            $transfer->getMethod(),
-            $transfer->getUri(),
-            [
-                'auth_basic' => [$transfer->getUsername(), $transfer->getPassword()],
-            ]
-        );
-
-        $result = $response->getContent();
+            $response = $this->client->request(
+                $transfer->getMethod(),
+                $transfer->getUri(),
+                [
+                    'auth_basic' => [$transfer->getUsername(), $transfer->getPassword()],
+                ]
+            );
+            $result = $response->getContent();
+        } catch (\Exception $exception) {
+            throw new ClientException('The error appeared during sending the request: ' . $exception->getMessage());
+        }
 
         return $this->converter->convert($result);
     }

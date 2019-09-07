@@ -4,6 +4,8 @@ declare(strict_types=1);
 
 namespace JournalMedia\Sample\Service;
 
+use JournalMedia\Sample\Api\Data\ArticleInterface;
+use JournalMedia\Sample\Api\ResponseInterface;
 use JournalMedia\Sample\Service\Http\TransferFactory;
 use Exception;
 
@@ -42,13 +44,13 @@ class Resource
 
     /**
      * @param string $uri
-     * @return array
+     * @return ResponseInterface[]|[]
      */
     public function loadAll($uri)
     {
         try {
             $client = $this->clientFactory->create();
-            $this->transferFactory->setUri($uri);
+            $this->transferFactory->setUri('http://api.thejournal.ie/v3/' . $uri);
             return $client->send($this->transferFactory);
         } catch (Exception $exception) {
             return [];

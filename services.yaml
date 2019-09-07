@@ -1,17 +1,28 @@
 parameters:
-  isSandbox: true
+  isSandbox: false
   authentication.username: codetest
   authentication.password: AQJl5jewY2lZkrJpiT1cCJkj1tLPn64R
+  api.url: 'http://api.thejournal.ie/v3/sample/'
   resources.location: '/../../../../resources/demo-responses/'
+  twig.templates: '../src/view-html/'
+  environment.options:
+    cache: '../tmp/cache'
   resources.mapping:
     thejournal: thejournal.json
 services:
+  twig:
+    class:    \Twig\Environment
+    arguments: ['@loader', '%environment.options%']
+  loader:
+    class: \Twig\Loader\FilesystemLoader
+    arguments: ['%twig.templates%']
   finder:
     class:     \Symfony\Component\Finder\Finder
   curl.converter:
     class:     \JournalMedia\Sample\Service\Http\Converter\JsonToArray
   transfer.factory:
     class:     \JournalMedia\Sample\Service\Http\TransferFactory
+    arguments: ['%api.url%']
   client.file:
     class:     \JournalMedia\Sample\Service\Http\Client\File
     arguments: ['@finder', '@curl.converter', '%resources.mapping%', '%resources.location%']
@@ -19,6 +30,7 @@ services:
     class:     \Symfony\Component\HttpClient\CurlHttpClient
   curl.transfer.factory:
     class:     \JournalMedia\Sample\Service\Http\TransferFactory
+    arguments: ['%api.url%']
     calls:
       - [setMethod, ['GET']]
       - [setUsername, ['%authentication.username%']]
@@ -42,3 +54,6 @@ services:
   article.repository:
     class:     \JournalMedia\Sample\Domain\ArticleRepository
     arguments: ['@resource', '@curl.converter']
+  publication.river.controller:
+    class: \JournalMedia\Sample\Http\Controller\PublicationRiverController
+    arguments: ['@article.repository']

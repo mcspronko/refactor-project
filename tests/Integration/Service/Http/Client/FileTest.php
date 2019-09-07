@@ -41,7 +41,7 @@ class FileTest extends TestCase
 
     public function testSendAll()
     {
-        $this->transferFactory->setUri('thejournal');
+        $this->transferFactory->addUri('thejournal');
         $response = $this->object->send($this->transferFactory);
 
         $this->assertNotEmpty($response);
@@ -49,7 +49,7 @@ class FileTest extends TestCase
 
     public function testSendById()
     {
-        $this->transferFactory->setUri('thejournal/3625482');
+        $this->transferFactory->addUri('thejournal/3625482');
         $response = $this->object->send($this->transferFactory);
 
         $this->assertNotEmpty($response);

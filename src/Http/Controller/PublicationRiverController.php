@@ -3,26 +3,24 @@ declare(strict_types=1);
 
 namespace JournalMedia\Sample\Http\Controller;
 
+use JournalMedia\Sample\Api\ArticleRepositoryInterface;
+use JournalMedia\Sample\Http\HtmlResponse;
+use JournalMedia\Sample\Service\ContainerProvider;
 use Psr\Http\Message\ResponseInterface;
 use Psr\Http\Message\ServerRequestInterface;
-use Zend\Diactoros\Response\HtmlResponse;
-use JournalMedia\Sample\Classes\DataHandler;
 
-class PublicationRiverController extends DataHandler
+/**
+ * Class PublicationRiverController
+ */
+class PublicationRiverController
 {
-    public function __invoke(ServerRequestInterface $request): ResponseInterface
+    public function __invoke(ServerRequestInterface $request, ResponseInterface $response, array $args ): ResponseInterface
     {
-    	$data = (getenv('DEMO_MODE') === "true") ? $this->fetchFile() : $this->fetchAPI();
+        /** @var ArticleRepositoryInterface $articleRepository */
+    	$articleRepository = ContainerProvider::getInstance()->get('article.repository');
+        $articles = $articleRepository->getList();
 
-        ob_start();
-
-        include("../src/View/index.php");
-
-        $view_content = ob_get_contents();
-        ob_end_clean();
-
-        return new HtmlResponse(
-        	$view_content
-        );
+        $response = new HtmlResponse();
+        return $response->render('index', ['articles' => $articles]);
     }
 }

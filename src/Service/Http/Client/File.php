@@ -7,6 +7,7 @@ namespace JournalMedia\Sample\Service\Http\Client;
 use JournalMedia\Sample\Api\ClientInterface;
 use JournalMedia\Sample\Api\ConverterInterface;
 use JournalMedia\Sample\Service\Http\ClientException;
+use JournalMedia\Sample\Service\Http\ConverterException;
 use JournalMedia\Sample\Service\Http\TransferFactory;
 use Symfony\Component\Finder\Finder;
 
@@ -56,14 +57,16 @@ class File implements ClientInterface
 
     /**
      * @param TransferFactory $transferFactory
-     * @return array|string
+     * @return array|mixed
      * @throws ClientException
+     * @throws ConverterException
      */
     public function send(TransferFactory $transferFactory)
     {
         $transfer = $transferFactory->build();
         $uri = $transfer->getUri();
 
+        $uri = str_replace($transferFactory->getApiUrl(), '', $uri);
         $uriParts = explode('/', $uri);
         if (in_array($uriParts[0], $this->resourceMapping)) {
             throw new ClientException(sprintf('The resource name can\'t be found for the given URI: %s', $uri));
@@ -78,6 +81,15 @@ class File implements ClientInterface
             $result = $file->getContents();
             break;
         }
+
+        $result = json_decode($result, true);
+        $result = [
+            'response' => [
+                'articles' => $result,
+                'pagination' => []
+            ]
+        ];
+        $result = json_encode($result);
 
         return $this->converter->convert($result);
     }

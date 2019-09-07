@@ -41,7 +41,7 @@ class CurlTest extends TestCase
 
     public function testSendAll()
     {
-        $this->transferFactory->setUri('http://api.thejournal.ie/v3/sample/thejournal');
+        $this->transferFactory->addUri('sample/thejournal');
         $response = $this->object->send($this->transferFactory);
 
         $this->assertNotEmpty($response);
@@ -49,7 +49,7 @@ class CurlTest extends TestCase
 
     public function testSendById()
     {
-        $this->transferFactory->setUri('http://api.thejournal.ie/v3/sample/thejournal/3625482');
+        $this->transferFactory->addUri('article/3625482');
         $response = $this->object->send($this->transferFactory);
 
         $this->assertNotEmpty($response);

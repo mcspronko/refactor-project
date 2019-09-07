@@ -6,6 +6,7 @@ namespace JournalMedia\Sample\Service;
 
 use JournalMedia\Sample\Api\ClientInterface;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
+use Exception;
 
 /**
  * Class HttpClientFactory
@@ -34,7 +35,7 @@ class HttpClientFactory
 
     /**
      * @return ClientInterface
-     * @throws \Exception
+     * @throws Exception
      */
     public function create(): ClientInterface
     {

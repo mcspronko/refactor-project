@@ -29,6 +29,13 @@ class TransferFactory
      */
     private $password;
 
+    private $apiUrl;
+
+    public function __construct($apiUrl)
+    {
+        $this->apiUrl = $apiUrl;
+    }
+
     /**
      * @param string $method
      */
@@ -59,6 +66,22 @@ class TransferFactory
     public function setUri(string $uri)
     {
         $this->uri = $uri;
+    }
+
+    /**
+     * @param string $uri
+     */
+    public function addUri($uri)
+    {
+        $this->uri = $this->apiUrl . $uri;
+    }
+
+    /**
+     * @return string
+     */
+    public function getApiUrl()
+    {
+        return $this->apiUrl;
     }
 
     /**

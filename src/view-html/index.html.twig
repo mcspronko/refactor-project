@@ -1,0 +1,21 @@
+{% include 'header.html.twig' %}
+<h1>{% if tag %} {{ "&#35;" + tag }} {% else %} {{ "TheJournal.ie" }} {% endif %}</h1>
+
+{% for article in articles %}
+    <div class="clearfix">
+        <div style="float: left; margin-right: 20px;">
+            <a href="/article/{{ article.id }}" style="width:230px; height:150px;">
+                <img src="{{ article.images.thumbnail.image }}" width="230" height="150" style="width:230px; height:150px;" />
+            </a>
+        </div>
+        <div>
+            <h4> <a href="/article/{{ article.id }}">{{ article.title }}</a></h4>
+            <p>
+                {{ article.excerpt }}
+            </p>
+        </div>
+    </div>
+    <hr>
+{% endfor %}
+
+{% include 'footer.html.twig' %}

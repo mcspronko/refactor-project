@@ -1,0 +1,13 @@
+{% include 'header.html.twig' %}
+<h1>{% if tag %} {{ "&#35;" + tag }} {% else %} {{ "TheJournal.ie" }} {% endif %}</h1>
+
+{{ article.content|raw }}
+
+<p>
+    <strong>Tags:</strong>
+    {% for tag in article.tags %}
+        <a href="/tag/{{ tag.slug }}">{{ tag.name }}</a>,
+    {% endfor %}
+</p>
+
+{% include 'footer.html.twig' %}
