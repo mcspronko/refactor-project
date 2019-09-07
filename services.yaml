@@ -1,14 +1,17 @@
 parameters:
-  isSandbox: false
+  isSandbox: 'false'
   authentication.username: codetest
   authentication.password: AQJl5jewY2lZkrJpiT1cCJkj1tLPn64R
-  api.url: 'http://api.thejournal.ie/v3/sample/'
+  api.url: 'http://api.thejournal.ie/v3/'
   resources.location: '/../../../../resources/demo-responses/'
   twig.templates: '../src/view-html/'
   environment.options:
     cache: '../tmp/cache'
   resources.mapping:
-    thejournal: thejournal.json
+    article: thejournal.json
+    sample/thejournal: thejournal.json
+    sample/tag/google: google.json
+    sample/tag/apple: apple.json
 services:
   twig:
     class:    \Twig\Environment

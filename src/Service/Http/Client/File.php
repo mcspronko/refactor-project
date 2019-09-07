@@ -67,12 +67,15 @@ class File implements ClientInterface
         $uri = $transfer->getUri();
 
         $uri = str_replace($transferFactory->getApiUrl(), '', $uri);
-        $uriParts = explode('/', $uri);
-        if (in_array($uriParts[0], $this->resourceMapping)) {
+        $parts = explode('/', $uri);
+        if (isset($parts[1]) && (int) $parts[1] > 0) {
+            $uri = $parts[0];
+        }
+        if (!isset($this->resourceMapping[$uri])) {
             throw new ClientException(sprintf('The resource name can\'t be found for the given URI: %s', $uri));
         }
 
-        $fileName = $this->resourceMapping[$uriParts[0]];
+        $fileName = $this->resourceMapping[$uri];
 
         $this->finder->in(__DIR__ . $this->location);
 

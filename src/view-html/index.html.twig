@@ -1,5 +1,5 @@
 {% include 'header.html.twig' %}
-<h1>{% if tag %} {{ "&#35;" + tag }} {% else %} {{ "TheJournal.ie" }} {% endif %}</h1>
+<h1>{% if tag %} {{ "#" ~ tag }} {% else %} {{ "TheJournal.ie" }} {% endif %}</h1>
 
 {% for article in articles %}
     <div class="clearfix">

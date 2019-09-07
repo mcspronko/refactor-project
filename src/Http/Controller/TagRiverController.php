@@ -19,9 +19,12 @@ class TagRiverController
         $tag = $args['tag'];
         /** @var ArticleRepositoryInterface $articleRepository */
         $articleRepository = ContainerProvider::getInstance()->get('article.repository');
-        $articles = $articleRepository->getList();
+        $articles = $articleRepository->getListByTag($tag);
 
         $response = new HtmlResponse();
-        return $response->render('index', ['articles' => $articles]);
+        return $response->render('index', [
+            'articles' => $articles,
+            'tag' => $tag
+        ]);
     }
 }

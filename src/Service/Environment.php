@@ -20,7 +20,7 @@ class Environment
      */
     public function __construct($isSandbox)
     {
-        $this->isSandbox = (bool) $isSandbox;
+        $this->isSandbox = $isSandbox == "true" ? true : false;
     }
 
     /**
