@@ -19,7 +19,8 @@ class ContainerProvider
     private static $container;
 
     private function __construct()
-    {}
+    {
+    }
 
     private static function init()
     {

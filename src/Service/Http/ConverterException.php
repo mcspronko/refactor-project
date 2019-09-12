@@ -8,4 +8,6 @@ namespace JournalMedia\Sample\Service\Http;
  * Class ConverterException
  */
 class ConverterException extends \Exception
-{}
+{
+
+}

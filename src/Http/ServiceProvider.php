@@ -12,7 +12,9 @@ use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Twig\Environment;
 use Twig\Loader\FilesystemLoader;
 
-
+/**
+ * Class ServiceProvider
+ */
 class ServiceProvider
 {
     private static $container;

@@ -39,11 +39,10 @@ class JsonToArray implements ConverterInterface
         $result = json_decode($data, true);
 
         if (isset($result['response'])) {
-
             $articles = [];
             if (isset($result['response']['articles'])) {
                 $articles = $result['response']['articles'];
-            } else if (isset($result['response']['page_items'])) {
+            } elseif (isset($result['response']['page_items'])) {
                 $articles = $result['response']['page_items'];
             }
 

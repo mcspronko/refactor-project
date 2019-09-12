@@ -14,8 +14,11 @@ use Psr\Http\Message\ServerRequestInterface;
  */
 class TagRiverController
 {
-    public function __invoke(ServerRequestInterface $request, ResponseInterface $response, array $args ): ResponseInterface
-    {
+    public function __invoke(
+        ServerRequestInterface $request,
+        ResponseInterface $response,
+        array $args
+    ): ResponseInterface {
         $tag = $args['tag'];
         /** @var ArticleRepositoryInterface $articleRepository */
         $articleRepository = ContainerProvider::getInstance()->get('article.repository');

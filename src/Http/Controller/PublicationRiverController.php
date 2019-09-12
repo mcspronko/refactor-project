@@ -14,10 +14,13 @@ use Psr\Http\Message\ServerRequestInterface;
  */
 class PublicationRiverController
 {
-    public function __invoke(ServerRequestInterface $request, ResponseInterface $response, array $args ): ResponseInterface
-    {
+    public function __invoke(
+        ServerRequestInterface $request,
+        ResponseInterface $response,
+        array $args
+    ): ResponseInterface {
         /** @var ArticleRepositoryInterface $articleRepository */
-    	$articleRepository = ContainerProvider::getInstance()->get('article.repository');
+        $articleRepository = ContainerProvider::getInstance()->get('article.repository');
         $articles = $articleRepository->getList();
 
         $response = new HtmlResponse();
