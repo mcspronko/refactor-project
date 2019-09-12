@@ -21,5 +21,7 @@ interface ArticleRepositoryInterface
      * @param string|int $id
      * @return ArticleInterface
      */
-    public function getById($id);
+    public function getById(int $id): ArticleInterface;
+
+    public function getListByTag($tag);
 }

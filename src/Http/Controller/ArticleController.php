@@ -14,16 +14,37 @@ use Psr\Http\Message\ServerRequestInterface;
  */
 class ArticleController
 {
+    /**
+     * @var ArticleRepositoryInterface
+     */
+    private $articleRepository;
+
+    /**
+     * @var HtmlResponse
+     */
+    private $response;
+
+    /**
+     * ArticleController constructor.
+     * @param ArticleRepositoryInterface $articleRepository
+     * @param HtmlResponse $response
+     */
+    public function __construct(
+        ArticleRepositoryInterface $articleRepository,
+        HtmlResponse $response
+    ) {
+        $this->articleRepository = $articleRepository;
+        $this->response = $response;
+    }
+
     public function __invoke(
         ServerRequestInterface $request,
         ResponseInterface $response,
         array $args
     ): ResponseInterface {
-        /** @var ArticleRepositoryInterface $articleRepository */
-        $articleRepository = ContainerProvider::getInstance()->get('article.repository');
-        $article = $articleRepository->getById($args['id']);
 
-        $response = new HtmlResponse();
-        return $response->render('article', ['article' => $article]);
+        $article = $this->articleRepository->getById((int) $args['id']);
+
+        return $this->response->render('article', ['article' => $article]);
     }
 }

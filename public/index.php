@@ -1,13 +1,10 @@
 <?php
 declare(strict_types=1);
 
-$app = require_once __DIR__ . "/../bootstrap.php";
+require_once __DIR__ . "/../bootstrap.php";
 
-$kernel = $app->make(\JournalMedia\Sample\Http\Kernel::class);
-$emitter = $app->make(\Zend\Diactoros\Response\SapiEmitter::class);
+use JournalMedia\Sample\Application;
+use Zend\Diactoros\ServerRequestFactory;
 
-$response = $kernel->handle(
-    \Zend\Diactoros\ServerRequestFactory::fromGlobals()
-);
-
-$emitter->emit($response);
+$application = new Application();
+$application->run(ServerRequestFactory::fromGlobals());

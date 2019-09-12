@@ -18,6 +18,20 @@ class HtmlResponse
     private $suffix = '.html.twig';
 
     /**
+     * @var Environment
+     */
+    private $twig;
+
+    /**
+     * HtmlResponse constructor.
+     * @param Environment $environment
+     */
+    public function __construct(Environment $environment)
+    {
+        $this->twig = $environment;
+    }
+
+    /**
      * @param $template
      * @param $args
      * @return ZendHtmlResponse
@@ -27,9 +41,6 @@ class HtmlResponse
      */
     public function render($template, $args): ZendHtmlResponse
     {
-        /** @var Environment $twig */
-        $twig = ServiceProvider::getInstance()->get(Environment::class);
-
-        return new ZendHtmlResponse($twig->render($template . $this->suffix, $args));
+        return new ZendHtmlResponse($this->twig->render($template . $this->suffix, $args));
     }
 }

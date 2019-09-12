@@ -14,6 +14,7 @@ use Symfony\Contracts\HttpClient\Exception\RedirectionExceptionInterface;
 use Symfony\Contracts\HttpClient\Exception\ServerExceptionInterface;
 use Symfony\Contracts\HttpClient\Exception\TransportExceptionInterface;
 use Symfony\Contracts\HttpClient\HttpClientInterface;
+use Exception;
 
 /**
  * Class Curl
@@ -47,7 +48,11 @@ class Curl implements ClientInterface
      * @param TransferFactory $transferFactory
      * @return array|mixed
      * @throws ClientException
-     * @throws ConverterException|ClientExceptionInterface|RedirectionExceptionInterface|ServerExceptionInterface|TransportExceptionInterface
+     * @throws ClientExceptionInterface
+     * @throws ConverterException
+     * @throws RedirectionExceptionInterface
+     * @throws ServerExceptionInterface
+     * @throws TransportExceptionInterface
      */
     public function send(TransferFactory $transferFactory)
     {
@@ -62,7 +67,7 @@ class Curl implements ClientInterface
                 ]
             );
             $result = $response->getContent();
-        } catch (\Exception $exception) {
+        } catch (Exception $exception) {
             throw new ClientException('The error appeared during sending the request: ' . $exception->getMessage());
         }
 

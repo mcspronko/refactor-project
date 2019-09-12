@@ -4,7 +4,6 @@ declare(strict_types=1);
 
 namespace JournalMedia\Sample\Service;
 
-use JournalMedia\Sample\Api\Data\ArticleInterface;
 use JournalMedia\Sample\Api\ResponseInterface;
 use JournalMedia\Sample\Service\Http\TransferFactory;
 use Exception;

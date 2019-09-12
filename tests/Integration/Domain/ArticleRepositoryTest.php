@@ -9,6 +9,9 @@ use JournalMedia\Sample\Service\ContainerProvider;
 use PHPUnit\Framework\TestCase;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 
+/**
+ * Class ArticleRepositoryTest
+ */
 class ArticleRepositoryTest extends TestCase
 {
     /**

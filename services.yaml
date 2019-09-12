@@ -13,6 +13,31 @@ parameters:
     sample/tag/google: google.json
     sample/tag/apple: apple.json
 services:
+  kernel:
+    class:    \JournalMedia\Sample\Http\Kernel
+    arguments: ['@route', '@http.message.response']
+  emitter:
+    class:    \Zend\HttpHandlerRunner\Emitter\SapiEmitter
+  http.message.response:
+    class:    \Zend\Diactoros\Response
+  route:
+    class:    \League\Route\RouteCollection
+    calls:
+      - [get, ['article/{id}', '@article.controller']]
+      - [get, ['/tag/{tag}', '@tag.controller']]
+      - [get, ['/', '@index.controller']]
+  article.controller:
+    class:    \JournalMedia\Sample\Http\Controller\ArticleController
+    arguments: ['@article.repository', '@html.response']
+  tag.controller:
+    class:    \JournalMedia\Sample\Http\Controller\TagRiverController
+    arguments: ['@article.repository', '@html.response']
+  index.controller:
+    class:    \JournalMedia\Sample\Http\Controller\PublicationRiverController
+    arguments: ['@article.repository', '@html.response']
+  html.response:
+    class:    \JournalMedia\Sample\Http\HtmlResponse
+    arguments: ['@twig']
   twig:
     class:    \Twig\Environment
     arguments: ['@loader', '%environment.options%']

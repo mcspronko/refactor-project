@@ -14,16 +14,46 @@ use Psr\Http\Message\ServerRequestInterface;
  */
 class PublicationRiverController
 {
+    /**
+     * @var ArticleRepositoryInterface
+     */
+    private $articleRepository;
+
+    /**
+     * @var HtmlResponse
+     */
+    private $response;
+
+    /**
+     * ArticleController constructor.
+     * @param ArticleRepositoryInterface $articleRepository
+     * @param HtmlResponse $response
+     */
+    public function __construct(
+        ArticleRepositoryInterface $articleRepository,
+        HtmlResponse $response
+    ) {
+        $this->articleRepository = $articleRepository;
+        $this->response = $response;
+    }
+
+    /**
+     * @param ServerRequestInterface $request
+     * @param ResponseInterface $response
+     * @param array $args
+     * @return ResponseInterface
+     * @throws \Twig\Error\LoaderError
+     * @throws \Twig\Error\RuntimeError
+     * @throws \Twig\Error\SyntaxError
+     */
     public function __invoke(
         ServerRequestInterface $request,
         ResponseInterface $response,
         array $args
     ): ResponseInterface {
-        /** @var ArticleRepositoryInterface $articleRepository */
-        $articleRepository = ContainerProvider::getInstance()->get('article.repository');
-        $articles = $articleRepository->getList();
 
-        $response = new HtmlResponse();
-        return $response->render('index', ['articles' => $articles]);
+        $articles = $this->articleRepository->getList();
+
+        return $this->response->render('index', ['articles' => $articles]);
     }
 }

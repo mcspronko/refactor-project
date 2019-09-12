@@ -6,6 +6,7 @@ namespace JournalMedia\Sample\Domain;
 
 use JournalMedia\Sample\Api\ArticleRepositoryInterface;
 use JournalMedia\Sample\Api\Data\ArticleInterface;
+use JournalMedia\Sample\Api\ResponseInterface;
 use JournalMedia\Sample\Service\ContainerProvider;
 use JournalMedia\Sample\Service\Resource;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
@@ -40,16 +41,18 @@ class ArticleRepository implements ArticleRepositoryInterface
      */
     public function getList(): array
     {
+        /** @var ResponseInterface $response */
         $response = $this->resource->loadAll('sample/thejournal');
         return $response->getArticles();
     }
 
     /**
-     * @param int|string $id
+     * @param int $id
      * @return ArticleInterface
      */
-    public function getById($id): ArticleInterface
+    public function getById(int $id): ArticleInterface
     {
+        /** @var ResponseInterface $response */
         $response = $this->resource->loadAll('article/' . $id);
         $articles = $response->getArticles();
         $article = reset($articles);
@@ -63,7 +66,8 @@ class ArticleRepository implements ArticleRepositoryInterface
      */
     public function getListByTag($tag): array
     {
+        /** @var ResponseInterface $response */
         $response = $this->resource->loadAll('sample/tag/' . $tag);
-        return $response->getArticles();
+        return $response ? $response->getArticles() : [];
     }
 }
