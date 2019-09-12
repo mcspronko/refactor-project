@@ -3,7 +3,6 @@ declare(strict_types=1);
 
 namespace JournalMedia\Sample\Http;
 
-use JournalMedia\Sample\Service\ContainerProvider;
 use League\Route\RouteCollection;
 use Psr\Http\Message\ResponseInterface;
 use Psr\Http\Message\ServerRequestInterface;

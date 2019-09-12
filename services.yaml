@@ -36,8 +36,13 @@ services:
     class:    \JournalMedia\Sample\Http\Controller\PublicationRiverController
     arguments: ['@article.repository', '@html.response']
   html.response:
-    class:    \JournalMedia\Sample\Http\HtmlResponse
-    arguments: ['@twig']
+    class:    \JournalMedia\Sample\Service\HtmlResponse
+    arguments: ['@twig', '@response.factory']
+  response.factory:
+    class:    \JournalMedia\Sample\Service\HtmlResponseFactory
+  response.html.response:
+    class:    \Zend\Diactoros\Response\HtmlResponse
+    arguments: ['%html-response%']
   twig:
     class:    \Twig\Environment
     arguments: ['@loader', '%environment.options%']

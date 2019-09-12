@@ -4,8 +4,7 @@ declare(strict_types=1);
 namespace JournalMedia\Sample\Http\Controller;
 
 use JournalMedia\Sample\Api\ArticleRepositoryInterface;
-use JournalMedia\Sample\Http\HtmlResponse;
-use JournalMedia\Sample\Service\ContainerProvider;
+use JournalMedia\Sample\Service\HtmlResponse;
 use Psr\Http\Message\ResponseInterface;
 use Psr\Http\Message\ServerRequestInterface;
 
