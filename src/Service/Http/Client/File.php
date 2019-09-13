@@ -6,6 +6,7 @@ namespace JournalMedia\Sample\Service\Http\Client;
 
 use JournalMedia\Sample\Api\ClientInterface;
 use JournalMedia\Sample\Api\ConverterInterface;
+use JournalMedia\Sample\Service\Filesystem;
 use JournalMedia\Sample\Service\Http\ClientException;
 use JournalMedia\Sample\Service\Http\ConverterException;
 use JournalMedia\Sample\Service\Http\TransferFactory;
@@ -37,21 +38,29 @@ class File implements ClientInterface
     private $resourceMapping;
 
     /**
+     * @var Filesystem
+     */
+    private $filesystem;
+
+    /**
      * File constructor.
      * @param Finder $finder
      * @param ConverterInterface $converter
      * @param array $resourceMapping
-     * @param $location
+     * @param Filesystem $filesystem
+     * @param string $location
      */
     public function __construct(
         Finder $finder,
         ConverterInterface $converter,
         array $resourceMapping,
+        Filesystem $filesystem,
         $location
     ) {
         $this->finder = $finder;
         $this->converter = $converter;
         $this->resourceMapping = $resourceMapping;
+        $this->filesystem = $filesystem;
         $this->location = $location;
     }
 
@@ -77,7 +86,7 @@ class File implements ClientInterface
 
         $fileName = $this->resourceMapping[$uri];
 
-        $this->finder->in(__DIR__ . $this->location);
+        $this->finder->in($this->filesystem->getRootDir() . DIRECTORY_SEPARATOR . $this->location);
 
         $result = '';
         foreach ($this->finder->name($fileName) as $file) {
@@ -85,6 +94,7 @@ class File implements ClientInterface
             break;
         }
 
+        //The Hack, due to differences between curl and file formats
         $result = json_decode($result, true);
         $result = [
             'response' => [

@@ -26,7 +26,7 @@ class ContainerProvider
     {
         static::$container = new ContainerBuilder();
 
-        $loader = new YamlFileLoader(static::$container, new FileLocator(__DIR__ . '/../..'));
+        $loader = new YamlFileLoader(static::$container, new FileLocator(BASE_PATH));
         $loader->load('services.yaml');
     }
 

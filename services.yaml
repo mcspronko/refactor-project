@@ -3,7 +3,7 @@ parameters:
   authentication.username: codetest
   authentication.password: AQJl5jewY2lZkrJpiT1cCJkj1tLPn64R
   api.url: 'http://api.thejournal.ie/v3/'
-  resources.location: '/../../../../resources/demo-responses/'
+  resources.location: 'resources/demo-responses'
   twig.templates: '../src/view-html/'
   environment.options:
     cache: '../tmp/cache'
