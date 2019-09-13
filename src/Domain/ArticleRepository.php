@@ -7,9 +7,7 @@ namespace JournalMedia\Sample\Domain;
 use JournalMedia\Sample\Api\ArticleRepositoryInterface;
 use JournalMedia\Sample\Api\Data\ArticleInterface;
 use JournalMedia\Sample\Api\ResponseInterface;
-use JournalMedia\Sample\Service\ContainerProvider;
 use JournalMedia\Sample\Service\Resource;
-use Symfony\Component\DependencyInjection\ContainerBuilder;
 
 /**
  * Class ArticleRepository
@@ -22,18 +20,12 @@ class ArticleRepository implements ArticleRepositoryInterface
     private $resource;
 
     /**
-     * @var ContainerBuilder
-     */
-    private $container;
-
-    /**
      * ArticleRepository constructor.
      * @param Resource $resource
      */
     public function __construct(Resource $resource)
     {
         $this->resource = $resource;
-        $this->container = ContainerProvider::getInstance();
     }
 
     /**

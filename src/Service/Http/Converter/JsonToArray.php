@@ -6,29 +6,39 @@ namespace JournalMedia\Sample\Service\Http\Converter;
 
 use JournalMedia\Sample\Api\ConverterInterface;
 use JournalMedia\Sample\Api\Data\ArticleInterface;
+use JournalMedia\Sample\Domain\Data\ArticleFactory;
 use JournalMedia\Sample\Domain\Data\Response;
-use JournalMedia\Sample\Service\ContainerProvider;
 use JournalMedia\Sample\Service\Http\ConverterException;
-use Symfony\Component\DependencyInjection\ContainerBuilder;
+use JournalMedia\Sample\Service\Http\ResponseFactory;
 
 /**
  * Class JsonToArray
  */
 class JsonToArray implements ConverterInterface
 {
+    /**
+     * @var ArticleFactory
+     */
+    private $articleFactory;
 
     /**
-     * @var ContainerBuilder
+     * @var ResponseFactory
      */
-    private $container;
+    private $responseFactory;
 
     /**
      * JsonToArray constructor.
+     * @param ResponseFactory $responseFactory
+     * @param ArticleFactory $articleFactory
      */
-    public function __construct()
-    {
-        $this->container = ContainerProvider::getInstance();
+    public function __construct(
+        ResponseFactory $responseFactory,
+        ArticleFactory $articleFactory
+    ) {
+        $this->articleFactory = $articleFactory;
+        $this->responseFactory = $responseFactory;
     }
+
     /**
      * @param array|string $data
      * @return array|Response|string
@@ -49,32 +59,48 @@ class JsonToArray implements ConverterInterface
             $items = [];
             foreach ($articles as $item) {
                 try {
-                    /** @var ArticleInterface $article */
-                    $article = $this->container->get('article');
-                    $article->setId($this->getValue('id', $item));
-                    $article->setTitle($this->getValue('title', $item));
-                    $article->setDate($this->getValue('date', $item));
-                    $article->setSlug($this->getValue('slug', $item));
-                    $article->setContent($this->getValue('content', $item));
-                    $article->setImages($this->getValue('images', $item));
-                    $article->setTags($this->getValue('tags', $item));
-                    $article->setExcerpt($this->getValue('excerpt', $item));
-
+                    $article = $this->createArticle($item);
                     $items[$article->getId()] = $article;
                 } catch (\Exception $exception) {
                     //@TODO log exception
                 }
             }
 
-            $pagination = isset($result['response']['pagination']) ? $result['response']['pagination'] : [];
-            $response = new Response($items, $pagination);
+            $pagination = $this->createPagination($result);
 
-            return $response;
+            return $this->responseFactory->create($items, $pagination);
         } else {
             throw new ConverterException('Couldn\'t convert the response.');
         }
     }
 
+    /**
+     * @param array $item
+     * @return ArticleInterface
+     */
+    private function createArticle(array &$item): ArticleInterface
+    {
+        $article = $this->articleFactory->create();
+        $article->setId($this->getValue('id', $item));
+        $article->setTitle($this->getValue('title', $item));
+        $article->setDate($this->getValue('date', $item));
+        $article->setSlug($this->getValue('slug', $item));
+        $article->setContent($this->getValue('content', $item));
+        $article->setImages($this->getValue('images', $item));
+        $article->setTags($this->getValue('tags', $item));
+        $article->setExcerpt($this->getValue('excerpt', $item));
+
+        return $article;
+    }
+
+    /**
+     * @param array $result
+     * @return array
+     */
+    private function createPagination(array &$result): array
+    {
+        return isset($result['response']['pagination']) ? $result['response']['pagination'] : [];
+    }
 
     /**
      * @param string $key

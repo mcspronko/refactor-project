@@ -34,7 +34,7 @@ class CurlTest extends TestCase
     {
         $this->container = ContainerProvider::getInstance();
         /** @var TransferFactory $transferFactory */
-        $this->transferFactory = $this->container->get('curl.transfer.factory');
+        $this->transferFactory = $this->container->get('transfer.factory');
 
         $this->object = $this->container->get('client.curl');
     }

@@ -3,12 +3,10 @@ declare(strict_types=1);
 
 namespace JournalMedia\Sample;
 
-use Illuminate\Container\Container;
 use JournalMedia\Sample\Http\Kernel;
-use JournalMedia\Sample\Http\ServiceProvider;
-use Illuminate\Contracts\Container\BindingResolutionException;
 use JournalMedia\Sample\Service\ContainerProvider;
 use Psr\Http\Message\ServerRequestInterface;
+use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Zend\HttpHandlerRunner\Emitter\SapiEmitter;
 
 /**
@@ -17,7 +15,7 @@ use Zend\HttpHandlerRunner\Emitter\SapiEmitter;
 class Application
 {
     /**
-     * @var Container
+     * @var ContainerBuilder
      */
     private $container;
 

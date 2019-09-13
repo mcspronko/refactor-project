@@ -26,19 +26,14 @@ class Resource
     /**
      * Resource constructor.
      * @param HttpClientFactory $clientFactory
-     * @param Environment $environment
-     * @throws Exception
+     * @param TransferFactory $transferFactory
      */
     public function __construct(
         HttpClientFactory $clientFactory,
-        Environment $environment
+        TransferFactory $transferFactory
     ) {
         $this->clientFactory = $clientFactory;
-
-        $container = ContainerProvider::getInstance();
-        $this->transferFactory = $environment->isSandbox() ?
-            $container->get('transfer.factory') :
-            $container->get('curl.transfer.factory');
+        $this->transferFactory = $transferFactory;
     }
 
     /**
@@ -49,7 +44,7 @@ class Resource
     {
         try {
             $client = $this->clientFactory->create();
-            $this->transferFactory->setUri('http://api.thejournal.ie/v3/' . $uri);
+            $this->transferFactory->addUri($uri);
             return $client->send($this->transferFactory);
         } catch (Exception $exception) {
             return [];

@@ -4,7 +4,6 @@ declare(strict_types=1);
 
 namespace JournalMedia\Sample\Service;
 
-use Exception;
 use Psr\Http\Message\ResponseInterface;
 use Zend\Diactoros\Response\HtmlResponse;
 
@@ -14,26 +13,11 @@ use Zend\Diactoros\Response\HtmlResponse;
 class HtmlResponseFactory
 {
     /**
-     * @var ContainerProvider
+     * @param $response
+     * @return ResponseInterface
      */
-    private $container;
-
-    /**
-     * HtmlResponseFactory constructor.
-     */
-    public function __construct()
+    public function create($response): ResponseInterface
     {
-        $this->container = ContainerProvider::getInstance();
-    }
-
-    /**
-     * @param string $response
-     * @return ResponseInterface|HtmlResponse
-     * @throws Exception
-     */
-    public function create($response)
-    {
-        $this->container->setParameter('html-response', $response);
-        return $this->container->get('response.html.response');
+        return new HtmlResponse($response);
     }
 }

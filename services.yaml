@@ -37,12 +37,11 @@ services:
     arguments: ['@article.repository', '@html.response']
   html.response:
     class:    \JournalMedia\Sample\Service\HtmlResponse
-    arguments: ['@twig', '@response.factory']
-  response.factory:
+    arguments: ['@twig', '@html.response.factory']
+  html.response.factory:
     class:    \JournalMedia\Sample\Service\HtmlResponseFactory
   response.html.response:
     class:    \Zend\Diactoros\Response\HtmlResponse
-    arguments: ['%html-response%']
   twig:
     class:    \Twig\Environment
     arguments: ['@loader', '%environment.options%']
@@ -51,17 +50,19 @@ services:
     arguments: ['%twig.templates%']
   finder:
     class:     \Symfony\Component\Finder\Finder
+  response.factory:
+    class:     \JournalMedia\Sample\Service\Http\ResponseFactory
   curl.converter:
     class:     \JournalMedia\Sample\Service\Http\Converter\JsonToArray
-  transfer.factory:
-    class:     \JournalMedia\Sample\Service\Http\TransferFactory
-    arguments: ['%api.url%']
+    arguments: ['@response.factory', '@article.factory']
+  article.factory:
+    class:     \JournalMedia\Sample\Domain\Data\ArticleFactory
   client.file:
     class:     \JournalMedia\Sample\Service\Http\Client\File
     arguments: ['@finder', '@curl.converter', '%resources.mapping%', '%resources.location%']
   curl.http.client:
     class:     \Symfony\Component\HttpClient\CurlHttpClient
-  curl.transfer.factory:
+  transfer.factory:
     class:     \JournalMedia\Sample\Service\Http\TransferFactory
     arguments: ['%api.url%']
     calls:
@@ -72,21 +73,24 @@ services:
     class:     \JournalMedia\Sample\Service\Http\Client\Curl
     arguments: ['@curl.http.client', '@curl.converter']
   container.provider:
-    class: \JournalMedia\Sample\Service\ContainerProvider
+    class:     \JournalMedia\Sample\Service\ContainerProvider
   http.client.factory:
-    class:    \JournalMedia\Sample\Service\HttpClientFactory
+    class:     \JournalMedia\Sample\Service\HttpClientFactory
     arguments: ['@environment']
   resource:
-    class:    \JournalMedia\Sample\Service\Resource
-    arguments: ['@http.client.factory', '@environment']
+    class:     \JournalMedia\Sample\Service\Resource
+    arguments: ['@http.client.factory', '@transfer.factory']
   environment:
-    class:    \JournalMedia\Sample\Service\Environment
+    class:     \JournalMedia\Sample\Service\Environment
     arguments: ['%isSandbox%']
   article:
-    class:    \JournalMedia\Sample\Domain\Data\Article
+    class:     \JournalMedia\Sample\Domain\Data\Article
   article.repository:
     class:     \JournalMedia\Sample\Domain\ArticleRepository
     arguments: ['@resource', '@curl.converter']
   publication.river.controller:
-    class: \JournalMedia\Sample\Http\Controller\PublicationRiverController
+    class:    \JournalMedia\Sample\Http\Controller\PublicationRiverController
     arguments: ['@article.repository']
+  response:
+    class:     \JournalMedia\Sample\Domain\Data\Response
+    arguments: ['%response.articles%', '%response.pagination%']
