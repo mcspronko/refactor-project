@@ -59,7 +59,9 @@ services:
     class:     \JournalMedia\Sample\Domain\Data\ArticleFactory
   client.file:
     class:     \JournalMedia\Sample\Service\Http\Client\File
-    arguments: ['@finder', '@curl.converter', '%resources.mapping%', '%resources.location%']
+    arguments: ['@finder', '@curl.converter', '%resources.mapping%', '@filesystem', '%resources.location%']
+  filesystem:
+    class:     \JournalMedia\Sample\Service\Filesystem
   curl.http.client:
     class:     \Symfony\Component\HttpClient\CurlHttpClient
   transfer.factory:

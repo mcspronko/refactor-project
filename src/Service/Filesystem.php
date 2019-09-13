@@ -12,7 +12,7 @@ class Filesystem
     /**
      * @return string
      */
-    public function getRootDir()
+    public function getRootDir(): string
     {
         return BASE_PATH;
     }
